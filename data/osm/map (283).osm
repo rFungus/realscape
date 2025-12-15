@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (113218 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="71.3593000" minlon="95.0867000" maxlat="71.5160000" maxlon="95.7294000"/>
+ <node id="525252745" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:50Z" user="Ivan Komarov" uid="69864" lat="71.5167500" lon="95.0752500"/>
+ <node id="525252755" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:51Z" user="Ivan Komarov" uid="69864" lat="71.5170000" lon="95.0687500"/>
+ <node id="525252764" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:51Z" user="Ivan Komarov" uid="69864" lat="71.5170000" lon="95.0682500"/>
+ <node id="525252771" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:52Z" user="Ivan Komarov" uid="69864" lat="71.5177500" lon="95.0672500"/>
+ <node id="525252796" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:53Z" user="Ivan Komarov" uid="69864" lat="71.5185000" lon="95.0645000"/>
+ <node id="525252808" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:53Z" user="Ivan Komarov" uid="69864" lat="71.5185000" lon="95.0640000"/>
+ <node id="525252820" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:54Z" user="Ivan Komarov" uid="69864" lat="71.5197500" lon="95.0640000"/>
+ <node id="525252823" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:54Z" user="Ivan Komarov" uid="69864" lat="71.5205000" lon="95.0652500"/>
+ <node id="525252835" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:55Z" user="Ivan Komarov" uid="69864" lat="71.4995000" lon="95.0972500"/>
+ <node id="525252843" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:55Z" user="Ivan Komarov" uid="69864" lat="71.4995000" lon="95.0962500"/>
+ <node id="525252845" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:56Z" user="Ivan Komarov" uid="69864" lat="71.5000000" lon="95.0957500"/>
+ <node id="525252847" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:56Z" user="Ivan Komarov" uid="69864" lat="71.5002500" lon="95.0965000"/>
+ <node id="525252850" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:56Z" user="Ivan Komarov" uid="69864" lat="71.5007500" lon="95.0972500"/>
+ <node id="525252863" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:57Z" user="Ivan Komarov" uid="69864" lat="71.5007500" lon="95.0957500"/>
+ <node id="525252878" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:57Z" user="Ivan Komarov" uid="69864" lat="71.5015000" lon="95.0952500"/>
+ <node id="525252894" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:58Z" user="Ivan Komarov" uid="69864" lat="71.5017500" lon="95.0942500"/>
+ <node id="525252895" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:58Z" user="Ivan Komarov" uid="69864" lat="71.5022500" lon="95.0912500"/>
+ <node id="525252899" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:59Z" user="Ivan Komarov" uid="69864" lat="71.5037500" lon="95.0910000"/>
+ <node id="525252912" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:35:59Z" user="Ivan Komarov" uid="69864" lat="71.5040000" lon="95.0932500"/>
+ <node id="525252929" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:00Z" user="Ivan Komarov" uid="69864" lat="71.5032500" lon="95.0940000"/>
+ <node id="525252942" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:00Z" user="Ivan Komarov" uid="69864" lat="71.5032500" lon="95.0945000"/>
+ <node id="525252954" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:01Z" user="Ivan Komarov" uid="69864" lat="71.5032500" lon="95.0955000"/>
+ <node id="525252968" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:01Z" user="Ivan Komarov" uid="69864" lat="71.5040000" lon="95.0955000"/>
+ <node id="525252980" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:02Z" user="Ivan Komarov" uid="69864" lat="71.5055000" lon="95.0975000"/>
+ <node id="525252992" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:02Z" user="Ivan Komarov" uid="69864" lat="71.5140000" lon="95.0887500"/>
+ <node id="525253006" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:03Z" user="Ivan Komarov" uid="69864" lat="71.5140000" lon="95.0882500"/>
+ <node id="525253020" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:03Z" user="Ivan Komarov" uid="69864" lat="71.5152500" lon="95.0790000"/>
+ <node id="525253030" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:04Z" user="Ivan Komarov" uid="69864" lat="71.5165000" lon="95.0757500"/>
+ <node id="525253045" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:04Z" user="Ivan Komarov" uid="69864" lat="71.5207500" lon="95.0817500"/>
+ <node id="525253069" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:05Z" user="Ivan Komarov" uid="69864" lat="71.5202500" lon="95.0835000"/>
+ <node id="525253430" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:27Z" user="Ivan Komarov" uid="69864" lat="71.4672500" lon="95.1380000"/>
+ <node id="525253439" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:27Z" user="Ivan Komarov" uid="69864" lat="71.4667500" lon="95.1292500"/>
+ <node id="525253453" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:27Z" user="Ivan Komarov" uid="69864" lat="71.4667500" lon="95.1282500"/>
+ <node id="525253470" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:28Z" user="Ivan Komarov" uid="69864" lat="71.4677500" lon="95.1255000"/>
+ <node id="525253493" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:29Z" user="Ivan Komarov" uid="69864" lat="71.4695000" lon="95.1235000"/>
+ <node id="525253496" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:30Z" user="Ivan Komarov" uid="69864" lat="71.4695000" lon="95.1230000"/>
+ <node id="525253503" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:30Z" user="Ivan Komarov" uid="69864" lat="71.4707500" lon="95.1215000"/>
+ <node id="525253512" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:31Z" user="Ivan Komarov" uid="69864" lat="71.4712500" lon="95.1212500"/>
+ <node id="525253525" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:31Z" user="Ivan Komarov" uid="69864" lat="71.4717500" lon="95.1212500"/>
+ <node id="525253542" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:32Z" user="Ivan Komarov" uid="69864" lat="71.4720000" lon="95.1200000"/>
+ <node id="525253558" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:32Z" user="Ivan Komarov" uid="69864" lat="71.4727500" lon="95.1195000"/>
+ <node id="525253576" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:33Z" user="Ivan Komarov" uid="69864" lat="71.4737500" lon="95.1185000"/>
+ <node id="525253577" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:33Z" user="Ivan Komarov" uid="69864" lat="71.4745000" lon="95.1187500"/>
+ <node id="525253588" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:34Z" user="Ivan Komarov" uid="69864" lat="71.4762500" lon="95.1175000"/>
+ <node id="525253595" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:34Z" user="Ivan Komarov" uid="69864" lat="71.4770000" lon="95.1175000"/>
+ <node id="525253597" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:35Z" user="Ivan Komarov" uid="69864" lat="71.4777500" lon="95.1182500"/>
+ <node id="525253599" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:35Z" user="Ivan Komarov" uid="69864" lat="71.4792500" lon="95.1182500"/>
+ <node id="525253615" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:36Z" user="Ivan Komarov" uid="69864" lat="71.4795000" lon="95.1185000"/>
+ <node id="525253629" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:37Z" user="Ivan Komarov" uid="69864" lat="71.4812500" lon="95.1185000"/>
+ <node id="525253638" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:37Z" user="Ivan Komarov" uid="69864" lat="71.4935000" lon="95.1085000"/>
+ <node id="525253649" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:37Z" user="Ivan Komarov" uid="69864" lat="71.4937500" lon="95.1080000"/>
+ <node id="525253663" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:38Z" user="Ivan Komarov" uid="69864" lat="71.4942500" lon="95.1080000"/>
+ <node id="525253673" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:38Z" user="Ivan Komarov" uid="69864" lat="71.4942500" lon="95.1075000"/>
+ <node id="525253687" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:39Z" user="Ivan Komarov" uid="69864" lat="71.4945000" lon="95.1070000"/>
+ <node id="525253701" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:39Z" user="Ivan Komarov" uid="69864" lat="71.4950000" lon="95.1070000"/>
+ <node id="525253713" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:40Z" user="Ivan Komarov" uid="69864" lat="71.4962500" lon="95.1040000"/>
+ <node id="525253731" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:40Z" user="Ivan Komarov" uid="69864" lat="71.4970000" lon="95.1035000"/>
+ <node id="525253749" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:40Z" user="Ivan Komarov" uid="69864" lat="71.4977500" lon="95.1010000"/>
+ <node id="525253773" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:41Z" user="Ivan Komarov" uid="69864" lat="71.4977500" lon="95.1005000"/>
+ <node id="525253787" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:41Z" user="Ivan Komarov" uid="69864" lat="71.4982500" lon="95.1000000"/>
+ <node id="525253804" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:42Z" user="Ivan Komarov" uid="69864" lat="71.4985000" lon="95.1002500"/>
+ <node id="525253822" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:42Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.1005000"/>
+ <node id="525253844" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:43Z" user="Ivan Komarov" uid="69864" lat="71.4890000" lon="95.1135000"/>
+ <node id="525253861" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:44Z" user="Ivan Komarov" uid="69864" lat="71.4895000" lon="95.1135000"/>
+ <node id="525253878" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:44Z" user="Ivan Komarov" uid="69864" lat="71.4897500" lon="95.1127500"/>
+ <node id="525253898" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:45Z" user="Ivan Komarov" uid="69864" lat="71.4900000" lon="95.1122500"/>
+ <node id="525253919" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:45Z" user="Ivan Komarov" uid="69864" lat="71.4902500" lon="95.1117500"/>
+ <node id="525253937" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:46Z" user="Ivan Komarov" uid="69864" lat="71.4920000" lon="95.1112500"/>
+ <node id="525253945" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:46Z" user="Ivan Komarov" uid="69864" lat="71.4927500" lon="95.1107500"/>
+ <node id="525253957" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:47Z" user="Ivan Komarov" uid="69864" lat="71.4927500" lon="95.1097500"/>
+ <node id="525253976" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:47Z" user="Ivan Komarov" uid="69864" lat="71.4907500" lon="95.1195000"/>
+ <node id="525253993" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:48Z" user="Ivan Komarov" uid="69864" lat="71.4907500" lon="95.1160000"/>
+ <node id="525254006" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:49Z" user="Ivan Komarov" uid="69864" lat="71.4905000" lon="95.1157500"/>
+ <node id="525254009" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:49Z" user="Ivan Komarov" uid="69864" lat="71.4892500" lon="95.1175000"/>
+ <node id="525254021" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:50Z" user="Ivan Komarov" uid="69864" lat="71.4890000" lon="95.1172500"/>
+ <node id="525254030" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:50Z" user="Ivan Komarov" uid="69864" lat="71.4887500" lon="95.1145000"/>
+ <node id="525254041" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:51Z" user="Ivan Komarov" uid="69864" lat="71.4895000" lon="95.1145000"/>
+ <node id="525254052" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:51Z" user="Ivan Komarov" uid="69864" lat="71.4897500" lon="95.1147500"/>
+ <node id="525254058" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:52Z" user="Ivan Komarov" uid="69864" lat="71.4912500" lon="95.1187500"/>
+ <node id="525254070" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:52Z" user="Ivan Komarov" uid="69864" lat="71.4912500" lon="95.1167500"/>
+ <node id="525254094" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:53Z" user="Ivan Komarov" uid="69864" lat="71.4875000" lon="95.1355000"/>
+ <node id="525254112" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:54Z" user="Ivan Komarov" uid="69864" lat="71.4872500" lon="95.1337500"/>
+ <node id="525254114" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:54Z" user="Ivan Komarov" uid="69864" lat="71.4872500" lon="95.1317500"/>
+ <node id="525254116" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:55Z" user="Ivan Komarov" uid="69864" lat="71.4837500" lon="95.1212500"/>
+ <node id="525254118" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:55Z" user="Ivan Komarov" uid="69864" lat="71.4845000" lon="95.1280000"/>
+ <node id="525254130" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:56Z" user="Ivan Komarov" uid="69864" lat="71.4842500" lon="95.1307500"/>
+ <node id="525254143" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:56Z" user="Ivan Komarov" uid="69864" lat="71.4842500" lon="95.1317500"/>
+ <node id="525254150" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:57Z" user="Ivan Komarov" uid="69864" lat="71.4835000" lon="95.1337500"/>
+ <node id="525254159" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:57Z" user="Ivan Komarov" uid="69864" lat="71.4835000" lon="95.1347500"/>
+ <node id="525254182" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:58Z" user="Ivan Komarov" uid="69864" lat="71.4835000" lon="95.1352500"/>
+ <node id="525254198" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:59Z" user="Ivan Komarov" uid="69864" lat="71.4822500" lon="95.1382500"/>
+ <node id="525254209" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:36:59Z" user="Ivan Komarov" uid="69864" lat="71.4820000" lon="95.1385000"/>
+ <node id="525254228" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:00Z" user="Ivan Komarov" uid="69864" lat="71.4885000" lon="95.1270000"/>
+ <node id="525254245" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:00Z" user="Ivan Komarov" uid="69864" lat="71.4885000" lon="95.1265000"/>
+ <node id="525254260" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:01Z" user="Ivan Komarov" uid="69864" lat="71.4892500" lon="95.1257500"/>
+ <node id="525254274" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:01Z" user="Ivan Komarov" uid="69864" lat="71.4895000" lon="95.1240000"/>
+ <node id="525254292" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:02Z" user="Ivan Komarov" uid="69864" lat="71.4897500" lon="95.1237500"/>
+ <node id="525254298" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:02Z" user="Ivan Komarov" uid="69864" lat="71.4902500" lon="95.1230000"/>
+ <node id="525254305" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:03Z" user="Ivan Komarov" uid="69864" lat="71.4762500" lon="95.1512500"/>
+ <node id="525254310" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:03Z" user="Ivan Komarov" uid="69864" lat="71.4752500" lon="95.1485000"/>
+ <node id="525254313" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:03Z" user="Ivan Komarov" uid="69864" lat="71.4742500" lon="95.1492500"/>
+ <node id="525254325" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:04Z" user="Ivan Komarov" uid="69864" lat="71.4740000" lon="95.1510000"/>
+ <node id="525254341" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:05Z" user="Ivan Komarov" uid="69864" lat="71.4740000" lon="95.1515000"/>
+ <node id="525254354" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:05Z" user="Ivan Komarov" uid="69864" lat="71.4737500" lon="95.1517500"/>
+ <node id="525254367" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:06Z" user="Ivan Komarov" uid="69864" lat="71.4727500" lon="95.1520000"/>
+ <node id="525254381" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:06Z" user="Ivan Komarov" uid="69864" lat="71.4717500" lon="95.1505000"/>
+ <node id="525254392" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:06Z" user="Ivan Komarov" uid="69864" lat="71.4717500" lon="95.1500000"/>
+ <node id="525254404" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:07Z" user="Ivan Komarov" uid="69864" lat="71.4717500" lon="95.1495000"/>
+ <node id="525254414" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:07Z" user="Ivan Komarov" uid="69864" lat="71.4710000" lon="95.1505000"/>
+ <node id="525254419" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:08Z" user="Ivan Komarov" uid="69864" lat="71.4707500" lon="95.1502500"/>
+ <node id="525254428" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:08Z" user="Ivan Komarov" uid="69864" lat="71.4705000" lon="95.1500000"/>
+ <node id="525254437" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:09Z" user="Ivan Komarov" uid="69864" lat="71.4697500" lon="95.1475000"/>
+ <node id="525254451" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:09Z" user="Ivan Komarov" uid="69864" lat="71.4690000" lon="95.1472500"/>
+ <node id="525254464" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:10Z" user="Ivan Komarov" uid="69864" lat="71.4820000" lon="95.1435000"/>
+ <node id="525254475" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:10Z" user="Ivan Komarov" uid="69864" lat="71.4820000" lon="95.1440000"/>
+ <node id="525254487" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:11Z" user="Ivan Komarov" uid="69864" lat="71.4810000" lon="95.1450000"/>
+ <node id="525254491" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:11Z" user="Ivan Komarov" uid="69864" lat="71.4800000" lon="95.1440000"/>
+ <node id="525254492" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:12Z" user="Ivan Komarov" uid="69864" lat="71.4797500" lon="95.1437500"/>
+ <node id="525254494" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:12Z" user="Ivan Komarov" uid="69864" lat="71.4795000" lon="95.1445000"/>
+ <node id="525254500" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:13Z" user="Ivan Komarov" uid="69864" lat="71.4790000" lon="95.1447500"/>
+ <node id="525254507" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:13Z" user="Ivan Komarov" uid="69864" lat="71.4787500" lon="95.1495000"/>
+ <node id="525254512" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:14Z" user="Ivan Komarov" uid="69864" lat="71.4782500" lon="95.1500000"/>
+ <node id="525254530" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:14Z" user="Ivan Komarov" uid="69864" lat="71.4930000" lon="95.1520000"/>
+ <node id="525254550" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:15Z" user="Ivan Komarov" uid="69864" lat="71.4900000" lon="95.1467500"/>
+ <node id="525254566" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:16Z" user="Ivan Komarov" uid="69864" lat="71.4897500" lon="95.1462500"/>
+ <node id="525254583" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:16Z" user="Ivan Komarov" uid="69864" lat="71.4892500" lon="95.1450000"/>
+ <node id="525254594" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:17Z" user="Ivan Komarov" uid="69864" lat="71.4892500" lon="95.1445000"/>
+ <node id="525254596" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:18Z" user="Ivan Komarov" uid="69864" lat="71.4895000" lon="95.1442500"/>
+ <node id="525254603" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:18Z" user="Ivan Komarov" uid="69864" lat="71.4890000" lon="95.1435000"/>
+ <node id="525254613" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:19Z" user="Ivan Komarov" uid="69864" lat="71.4887500" lon="95.1432500"/>
+ <node id="525254624" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:19Z" user="Ivan Komarov" uid="69864" lat="71.4942500" lon="95.1525000"/>
+ <node id="525254636" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:19Z" user="Ivan Komarov" uid="69864" lat="71.4932500" lon="95.1635000"/>
+ <node id="525254641" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:20Z" user="Ivan Komarov" uid="69864" lat="71.4932500" lon="95.1630000"/>
+ <node id="525254655" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:20Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.1567500"/>
+ <node id="525254666" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:21Z" user="Ivan Komarov" uid="69864" lat="71.4987500" lon="95.1572500"/>
+ <node id="525254680" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:21Z" user="Ivan Komarov" uid="69864" lat="71.4945000" lon="95.1580000"/>
+ <node id="525254695" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:22Z" user="Ivan Komarov" uid="69864" lat="71.4957500" lon="95.1582500"/>
+ <node id="525254702" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:22Z" user="Ivan Komarov" uid="69864" lat="71.4972500" lon="95.1575000"/>
+ <node id="525254713" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:23Z" user="Ivan Komarov" uid="69864" lat="71.4980000" lon="95.1565000"/>
+ <node id="525254725" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:23Z" user="Ivan Komarov" uid="69864" lat="71.4952500" lon="95.1527500"/>
+ <node id="525254740" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:24Z" user="Ivan Komarov" uid="69864" lat="71.4945000" lon="95.1532500"/>
+ <node id="525254748" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:24Z" user="Ivan Komarov" uid="69864" lat="71.4940000" lon="95.1527500"/>
+ <node id="525254756" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:25Z" user="Ivan Komarov" uid="69864" lat="71.4985000" lon="95.1717500"/>
+ <node id="525254771" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:25Z" user="Ivan Komarov" uid="69864" lat="71.4980000" lon="95.1727500"/>
+ <node id="525254786" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:26Z" user="Ivan Komarov" uid="69864" lat="71.4975000" lon="95.1727500"/>
+ <node id="525254800" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:26Z" user="Ivan Komarov" uid="69864" lat="71.4970000" lon="95.1727500"/>
+ <node id="525254803" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:27Z" user="Ivan Komarov" uid="69864" lat="71.4965000" lon="95.1740000"/>
+ <node id="525254807" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:27Z" user="Ivan Komarov" uid="69864" lat="71.4960000" lon="95.1730000"/>
+ <node id="525254820" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:28Z" user="Ivan Komarov" uid="69864" lat="71.4950000" lon="95.1722500"/>
+ <node id="525254830" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:28Z" user="Ivan Komarov" uid="69864" lat="71.4932500" lon="95.1675000"/>
+ <node id="525254857" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:29Z" user="Ivan Komarov" uid="69864" lat="71.4995000" lon="95.0992500"/>
+ <node id="525254869" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:30Z" user="Ivan Komarov" uid="69864" lat="71.5050000" lon="95.0980000"/>
+ <node id="525254883" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:30Z" user="Ivan Komarov" uid="69864" lat="71.5050000" lon="95.0985000"/>
+ <node id="525254896" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:31Z" user="Ivan Komarov" uid="69864" lat="71.5062500" lon="95.0992500"/>
+ <node id="525254910" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:31Z" user="Ivan Komarov" uid="69864" lat="71.5067500" lon="95.0990000"/>
+ <node id="525254922" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:32Z" user="Ivan Komarov" uid="69864" lat="71.5070000" lon="95.0992500"/>
+ <node id="525254933" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:32Z" user="Ivan Komarov" uid="69864" lat="71.5082500" lon="95.1002500"/>
+ <node id="525254934" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:33Z" user="Ivan Komarov" uid="69864" lat="71.5107500" lon="95.1065000"/>
+ <node id="525254941" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:33Z" user="Ivan Komarov" uid="69864" lat="71.5115000" lon="95.1077500"/>
+ <node id="525254947" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:34Z" user="Ivan Komarov" uid="69864" lat="71.5150000" lon="95.1027500"/>
+ <node id="525254955" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:35Z" user="Ivan Komarov" uid="69864" lat="71.5145000" lon="95.1017500"/>
+ <node id="525254968" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:36Z" user="Ivan Komarov" uid="69864" lat="71.5182500" lon="95.1085000"/>
+ <node id="525254990" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:37Z" user="Ivan Komarov" uid="69864" lat="71.5172500" lon="95.1057500"/>
+ <node id="525255003" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:37Z" user="Ivan Komarov" uid="69864" lat="71.5170000" lon="95.1065000"/>
+ <node id="525255020" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:38Z" user="Ivan Komarov" uid="69864" lat="71.5167500" lon="95.1057500"/>
+ <node id="525255034" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:38Z" user="Ivan Komarov" uid="69864" lat="71.5162500" lon="95.1057500"/>
+ <node id="525255042" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:39Z" user="Ivan Komarov" uid="69864" lat="71.5157500" lon="95.1035000"/>
+ <node id="525255056" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:39Z" user="Ivan Komarov" uid="69864" lat="71.5205000" lon="95.0992500"/>
+ <node id="525255065" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:40Z" user="Ivan Komarov" uid="69864" lat="71.5202500" lon="95.1000000"/>
+ <node id="525255068" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:40Z" user="Ivan Komarov" uid="69864" lat="71.5117500" lon="95.1175000"/>
+ <node id="525255076" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:41Z" user="Ivan Komarov" uid="69864" lat="71.5110000" lon="95.1195000"/>
+ <node id="525255092" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:41Z" user="Ivan Komarov" uid="69864" lat="71.5120000" lon="95.1192500"/>
+ <node id="525255111" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:42Z" user="Ivan Komarov" uid="69864" lat="71.5127500" lon="95.1180000"/>
+ <node id="525255136" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:42Z" user="Ivan Komarov" uid="69864" lat="71.5135000" lon="95.1182500"/>
+ <node id="525255152" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:43Z" user="Ivan Komarov" uid="69864" lat="71.5202500" lon="95.1092500"/>
+ <node id="525255165" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:43Z" user="Ivan Komarov" uid="69864" lat="71.5197500" lon="95.1092500"/>
+ <node id="525255181" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:44Z" user="Ivan Komarov" uid="69864" lat="71.5197500" lon="95.1097500"/>
+ <node id="525255202" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:45Z" user="Ivan Komarov" uid="69864" lat="71.5110000" lon="95.1200000"/>
+ <node id="525255221" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:45Z" user="Ivan Komarov" uid="69864" lat="71.5115000" lon="95.1212500"/>
+ <node id="525255240" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:46Z" user="Ivan Komarov" uid="69864" lat="71.5137500" lon="95.1212500"/>
+ <node id="525255267" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:46Z" user="Ivan Komarov" uid="69864" lat="71.5135000" lon="95.1220000"/>
+ <node id="525255280" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:47Z" user="Ivan Komarov" uid="69864" lat="71.5132500" lon="95.1225000"/>
+ <node id="525255294" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:48Z" user="Ivan Komarov" uid="69864" lat="71.5142500" lon="95.1230000"/>
+ <node id="525255301" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:48Z" user="Ivan Komarov" uid="69864" lat="71.5147500" lon="95.1242500"/>
+ <node id="525255306" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:49Z" user="Ivan Komarov" uid="69864" lat="71.5142500" lon="95.1300000"/>
+ <node id="525255318" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:49Z" user="Ivan Komarov" uid="69864" lat="71.5132500" lon="95.1335000"/>
+ <node id="525255328" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:50Z" user="Ivan Komarov" uid="69864" lat="71.5130000" lon="95.1337500"/>
+ <node id="525255339" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:50Z" user="Ivan Komarov" uid="69864" lat="71.5132500" lon="95.1362500"/>
+ <node id="525255346" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:51Z" user="Ivan Komarov" uid="69864" lat="71.5132500" lon="95.1372500"/>
+ <node id="525255362" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:51Z" user="Ivan Komarov" uid="69864" lat="71.5210000" lon="95.1067500"/>
+ <node id="525255374" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:51Z" user="Ivan Komarov" uid="69864" lat="71.5210000" lon="95.1072500"/>
+ <node id="525255393" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:52Z" user="Ivan Komarov" uid="69864" lat="71.5085000" lon="95.1525000"/>
+ <node id="525255411" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:52Z" user="Ivan Komarov" uid="69864" lat="71.5070000" lon="95.1525000"/>
+ <node id="525255432" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:53Z" user="Ivan Komarov" uid="69864" lat="71.5067500" lon="95.1522500"/>
+ <node id="525255447" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:54Z" user="Ivan Komarov" uid="69864" lat="71.5037500" lon="95.1557500"/>
+ <node id="525255467" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:54Z" user="Ivan Komarov" uid="69864" lat="71.5025000" lon="95.1550000"/>
+ <node id="525255484" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:55Z" user="Ivan Komarov" uid="69864" lat="71.5022500" lon="95.1545000"/>
+ <node id="525255505" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:55Z" user="Ivan Komarov" uid="69864" lat="71.5020000" lon="95.1557500"/>
+ <node id="525255518" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:56Z" user="Ivan Komarov" uid="69864" lat="71.5012500" lon="95.1565000"/>
+ <node id="525255538" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:56Z" user="Ivan Komarov" uid="69864" lat="71.5007500" lon="95.1565000"/>
+ <node id="525255541" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:57Z" user="Ivan Komarov" uid="69864" lat="71.4997500" lon="95.1557500"/>
+ <node id="525255550" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:57Z" user="Ivan Komarov" uid="69864" lat="71.4997500" lon="95.1542500"/>
+ <node id="525255569" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:58Z" user="Ivan Komarov" uid="69864" lat="71.4995000" lon="95.1540000"/>
+ <node id="525255585" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:58Z" user="Ivan Komarov" uid="69864" lat="71.4995000" lon="95.1555000"/>
+ <node id="525255604" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:59Z" user="Ivan Komarov" uid="69864" lat="71.5002500" lon="95.1590000"/>
+ <node id="525255619" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:37:59Z" user="Ivan Komarov" uid="69864" lat="71.5007500" lon="95.1572500"/>
+ <node id="525255622" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:00Z" user="Ivan Komarov" uid="69864" lat="71.5010000" lon="95.1570000"/>
+ <node id="525255627" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:00Z" user="Ivan Komarov" uid="69864" lat="71.5020000" lon="95.1590000"/>
+ <node id="525255632" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:01Z" user="Ivan Komarov" uid="69864" lat="71.5022500" lon="95.1600000"/>
+ <node id="525255648" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:01Z" user="Ivan Komarov" uid="69864" lat="71.5047500" lon="95.1547500"/>
+ <node id="525255665" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:02Z" user="Ivan Komarov" uid="69864" lat="71.5095000" lon="95.1532500"/>
+ <node id="525255678" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:02Z" user="Ivan Komarov" uid="69864" lat="71.5090000" lon="95.1535000"/>
+ <node id="525255683" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:03Z" user="Ivan Komarov" uid="69864" lat="71.5087500" lon="95.1527500"/>
+ <node id="525255696" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:03Z" user="Ivan Komarov" uid="69864" lat="71.5080000" lon="95.1532500"/>
+ <node id="525255714" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:04Z" user="Ivan Komarov" uid="69864" lat="71.5075000" lon="95.1535000"/>
+ <node id="525255716" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:05Z" user="Ivan Komarov" uid="69864" lat="71.5067500" lon="95.1527500"/>
+ <node id="525255717" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:05Z" user="Ivan Komarov" uid="69864" lat="71.5152500" lon="95.1440000"/>
+ <node id="525255719" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:06Z" user="Ivan Komarov" uid="69864" lat="71.5132500" lon="95.1517500"/>
+ <node id="525255723" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:06Z" user="Ivan Komarov" uid="69864" lat="71.5127500" lon="95.1492500"/>
+ <node id="525255724" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:07Z" user="Ivan Komarov" uid="69864" lat="71.5122500" lon="95.1485000"/>
+ <node id="525255727" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:07Z" user="Ivan Komarov" uid="69864" lat="71.5160000" lon="95.1432500"/>
+ <node id="525255732" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:08Z" user="Ivan Komarov" uid="69864" lat="71.5167500" lon="95.1440000"/>
+ <node id="525255742" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:08Z" user="Ivan Komarov" uid="69864" lat="71.5172500" lon="95.1445000"/>
+ <node id="525255749" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:09Z" user="Ivan Komarov" uid="69864" lat="71.5175000" lon="95.1477500"/>
+ <node id="525255757" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:09Z" user="Ivan Komarov" uid="69864" lat="71.5180000" lon="95.1490000"/>
+ <node id="525255762" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:10Z" user="Ivan Komarov" uid="69864" lat="71.5150000" lon="95.1547500"/>
+ <node id="525255769" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:10Z" user="Ivan Komarov" uid="69864" lat="71.5147500" lon="95.1550000"/>
+ <node id="525255776" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:11Z" user="Ivan Komarov" uid="69864" lat="71.5145000" lon="95.1555000"/>
+ <node id="525255778" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:11Z" user="Ivan Komarov" uid="69864" lat="71.5142500" lon="95.1552500"/>
+ <node id="525255788" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:12Z" user="Ivan Komarov" uid="69864" lat="71.5132500" lon="95.1542500"/>
+ <node id="525255797" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:12Z" user="Ivan Komarov" uid="69864" lat="71.5182500" lon="95.1545000"/>
+ <node id="525255800" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:13Z" user="Ivan Komarov" uid="69864" lat="71.5180000" lon="95.1557500"/>
+ <node id="525255809" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:13Z" user="Ivan Komarov" uid="69864" lat="71.5177500" lon="95.1562500"/>
+ <node id="525255817" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:14Z" user="Ivan Komarov" uid="69864" lat="71.5172500" lon="95.1552500"/>
+ <node id="525255826" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:14Z" user="Ivan Komarov" uid="69864" lat="71.5167500" lon="95.1552500"/>
+ <node id="525255830" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:15Z" user="Ivan Komarov" uid="69864" lat="71.5167500" lon="95.1557500"/>
+ <node id="525255836" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:15Z" user="Ivan Komarov" uid="69864" lat="71.5165000" lon="95.1560000"/>
+ <node id="525255842" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:15Z" user="Ivan Komarov" uid="69864" lat="71.5160000" lon="95.1547500"/>
+ <node id="525255846" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:16Z" user="Ivan Komarov" uid="69864" lat="71.5025000" lon="95.1660000"/>
+ <node id="525255848" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:16Z" user="Ivan Komarov" uid="69864" lat="71.5020000" lon="95.1677500"/>
+ <node id="525255850" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:17Z" user="Ivan Komarov" uid="69864" lat="71.5020000" lon="95.1687500"/>
+ <node id="525255857" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:17Z" user="Ivan Komarov" uid="69864" lat="71.5010000" lon="95.1692500"/>
+ <node id="525255866" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:18Z" user="Ivan Komarov" uid="69864" lat="71.5010000" lon="95.1702500"/>
+ <node id="525255875" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:18Z" user="Ivan Komarov" uid="69864" lat="71.4997500" lon="95.1717500"/>
+ <node id="525255893" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:38:19Z" user="Ivan Komarov" uid="69864" lat="71.4992500" lon="95.1722500"/>
+ <node id="525266023" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:21Z" user="Ivan Komarov" uid="69864" lat="71.5037500" lon="95.4160000"/>
+ <node id="525266033" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:22Z" user="Ivan Komarov" uid="69864" lat="71.5030000" lon="95.4140000"/>
+ <node id="525266041" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:22Z" user="Ivan Komarov" uid="69864" lat="71.5027500" lon="95.4137500"/>
+ <node id="525266051" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:23Z" user="Ivan Komarov" uid="69864" lat="71.5032500" lon="95.4120000"/>
+ <node id="525266059" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:23Z" user="Ivan Komarov" uid="69864" lat="71.5032500" lon="95.4105000"/>
+ <node id="525266068" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:23Z" user="Ivan Komarov" uid="69864" lat="71.5042500" lon="95.4105000"/>
+ <node id="525266071" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:24Z" user="Ivan Komarov" uid="69864" lat="71.5050000" lon="95.4127500"/>
+ <node id="525266072" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:24Z" user="Ivan Komarov" uid="69864" lat="71.5055000" lon="95.4127500"/>
+ <node id="525266075" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:25Z" user="Ivan Komarov" uid="69864" lat="71.5057500" lon="95.4130000"/>
+ <node id="525266077" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:25Z" user="Ivan Komarov" uid="69864" lat="71.5060000" lon="95.4142500"/>
+ <node id="525266079" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:26Z" user="Ivan Komarov" uid="69864" lat="71.5062500" lon="95.4152500"/>
+ <node id="525266081" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:26Z" user="Ivan Komarov" uid="69864" lat="71.5067500" lon="95.4157500"/>
+ <node id="525266086" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:27Z" user="Ivan Komarov" uid="69864" lat="71.5070000" lon="95.4155000"/>
+ <node id="525266097" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:28Z" user="Ivan Komarov" uid="69864" lat="71.5077500" lon="95.4162500"/>
+ <node id="525266106" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:28Z" user="Ivan Komarov" uid="69864" lat="71.5020000" lon="95.4260000"/>
+ <node id="525266108" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:29Z" user="Ivan Komarov" uid="69864" lat="71.5040000" lon="95.4260000"/>
+ <node id="525266124" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:30Z" user="Ivan Komarov" uid="69864" lat="71.5045000" lon="95.4255000"/>
+ <node id="525266127" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:30Z" user="Ivan Komarov" uid="69864" lat="71.5052500" lon="95.4257500"/>
+ <node id="525266136" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:31Z" user="Ivan Komarov" uid="69864" lat="71.5077500" lon="95.4167500"/>
+ <node id="525266143" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:31Z" user="Ivan Komarov" uid="69864" lat="71.5080000" lon="95.4165000"/>
+ <node id="525266151" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:32Z" user="Ivan Komarov" uid="69864" lat="71.5085000" lon="95.4167500"/>
+ <node id="525266156" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:32Z" user="Ivan Komarov" uid="69864" lat="71.5090000" lon="95.4175000"/>
+ <node id="525266159" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:33Z" user="Ivan Komarov" uid="69864" lat="71.5090000" lon="95.4180000"/>
+ <node id="525266161" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:33Z" user="Ivan Komarov" uid="69864" lat="71.5097500" lon="95.4180000"/>
+ <node id="525266170" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:34Z" user="Ivan Komarov" uid="69864" lat="71.5100000" lon="95.4197500"/>
+ <node id="525266174" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:34Z" user="Ivan Komarov" uid="69864" lat="71.5117500" lon="95.4230000"/>
+ <node id="525266180" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:35Z" user="Ivan Komarov" uid="69864" lat="71.5120000" lon="95.4242500"/>
+ <node id="525266189" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:35Z" user="Ivan Komarov" uid="69864" lat="71.5122500" lon="95.4255000"/>
+ <node id="525266196" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:36Z" user="Ivan Komarov" uid="69864" lat="71.5130000" lon="95.4260000"/>
+ <node id="525266201" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:36Z" user="Ivan Komarov" uid="69864" lat="71.5135000" lon="95.4252500"/>
+ <node id="525266211" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:37Z" user="Ivan Komarov" uid="69864" lat="71.5140000" lon="95.4252500"/>
+ <node id="525266220" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:37Z" user="Ivan Komarov" uid="69864" lat="71.5147500" lon="95.4252500"/>
+ <node id="525266227" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:38Z" user="Ivan Komarov" uid="69864" lat="71.5155000" lon="95.4265000"/>
+ <node id="525266231" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:38Z" user="Ivan Komarov" uid="69864" lat="71.5007500" lon="95.4480000"/>
+ <node id="525266233" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:39Z" user="Ivan Komarov" uid="69864" lat="71.5012500" lon="95.4410000"/>
+ <node id="525266239" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:39Z" user="Ivan Komarov" uid="69864" lat="71.5015000" lon="95.4402500"/>
+ <node id="525266247" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:39Z" user="Ivan Komarov" uid="69864" lat="71.5012500" lon="95.4310000"/>
+ <node id="525266256" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:40Z" user="Ivan Komarov" uid="69864" lat="71.5010000" lon="95.4297500"/>
+ <node id="525266268" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:40Z" user="Ivan Komarov" uid="69864" lat="71.5157500" lon="95.4275000"/>
+ <node id="525266287" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:41Z" user="Ivan Komarov" uid="69864" lat="71.5157500" lon="95.4325000"/>
+ <node id="525266309" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:42Z" user="Ivan Komarov" uid="69864" lat="71.5152500" lon="95.4335000"/>
+ <node id="525266328" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:42Z" user="Ivan Komarov" uid="69864" lat="71.5152500" lon="95.4340000"/>
+ <node id="525266346" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:43Z" user="Ivan Komarov" uid="69864" lat="71.5150000" lon="95.4342500"/>
+ <node id="525266366" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:43Z" user="Ivan Komarov" uid="69864" lat="71.5145000" lon="95.4340000"/>
+ <node id="525266390" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:44Z" user="Ivan Komarov" uid="69864" lat="71.5142500" lon="95.4337500"/>
+ <node id="525266402" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:45Z" user="Ivan Komarov" uid="69864" lat="71.5137500" lon="95.4317500"/>
+ <node id="525266423" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:45Z" user="Ivan Komarov" uid="69864" lat="71.5135000" lon="95.4315000"/>
+ <node id="525266441" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:46Z" user="Ivan Komarov" uid="69864" lat="71.5132500" lon="95.4317500"/>
+ <node id="525266458" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:46Z" user="Ivan Komarov" uid="69864" lat="71.5127500" lon="95.4327500"/>
+ <node id="525266468" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:46Z" user="Ivan Komarov" uid="69864" lat="71.5112500" lon="95.4435000"/>
+ <node id="525266478" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:47Z" user="Ivan Komarov" uid="69864" lat="71.5112500" lon="95.4440000"/>
+ <node id="525266491" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:47:48Z" user="Ivan Komarov" uid="69864" lat="71.5117500" lon="95.4445000"/>
+ <node id="525266676" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:01Z" user="Ivan Komarov" uid="69864" lat="71.4975000" lon="95.4902500"/>
+ <node id="525266686" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:02Z" user="Ivan Komarov" uid="69864" lat="71.4987500" lon="95.4887500"/>
+ <node id="525266693" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:03Z" user="Ivan Komarov" uid="69864" lat="71.4980000" lon="95.4732500"/>
+ <node id="525266704" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:03Z" user="Ivan Komarov" uid="69864" lat="71.4980000" lon="95.4697500"/>
+ <node id="525266711" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:04Z" user="Ivan Komarov" uid="69864" lat="71.4980000" lon="95.4687500"/>
+ <node id="525266713" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:05Z" user="Ivan Komarov" uid="69864" lat="71.4985000" lon="95.4680000"/>
+ <node id="525266716" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:05Z" user="Ivan Komarov" uid="69864" lat="71.4982500" lon="95.4665000"/>
+ <node id="525266725" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:06Z" user="Ivan Komarov" uid="69864" lat="71.4987500" lon="95.4637500"/>
+ <node id="525266729" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:06Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.4630000"/>
+ <node id="525266731" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:06Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.4565000"/>
+ <node id="525266739" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:07Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.4560000"/>
+ <node id="525266748" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:08Z" user="Ivan Komarov" uid="69864" lat="71.4972500" lon="95.5265000"/>
+ <node id="525266755" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:08Z" user="Ivan Komarov" uid="69864" lat="71.4972500" lon="95.5250000"/>
+ <node id="525266767" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:09Z" user="Ivan Komarov" uid="69864" lat="71.4982500" lon="95.5202500"/>
+ <node id="525266778" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:09Z" user="Ivan Komarov" uid="69864" lat="71.4987500" lon="95.5197500"/>
+ <node id="525266797" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:10Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.5192500"/>
+ <node id="525266826" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:11Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.5135000"/>
+ <node id="525266830" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:11Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.5130000"/>
+ <node id="525266847" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:12Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.5030000"/>
+ <node id="525266861" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:12Z" user="Ivan Komarov" uid="69864" lat="71.4985000" lon="95.5030000"/>
+ <node id="525266884" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:13Z" user="Ivan Komarov" uid="69864" lat="71.4980000" lon="95.5030000"/>
+ <node id="525266905" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:14Z" user="Ivan Komarov" uid="69864" lat="71.4965000" lon="95.5007500"/>
+ <node id="525266915" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:14Z" user="Ivan Komarov" uid="69864" lat="71.4962500" lon="95.4995000"/>
+ <node id="525266918" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:15Z" user="Ivan Komarov" uid="69864" lat="71.5125000" lon="95.4517500"/>
+ <node id="525266927" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:16Z" user="Ivan Komarov" uid="69864" lat="71.5122500" lon="95.4520000"/>
+ <node id="525266946" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:17Z" user="Ivan Komarov" uid="69864" lat="71.5140000" lon="95.4582500"/>
+ <node id="525266970" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:17Z" user="Ivan Komarov" uid="69864" lat="71.5142500" lon="95.4585000"/>
+ <node id="525266994" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:18Z" user="Ivan Komarov" uid="69864" lat="71.5150000" lon="95.4675000"/>
+ <node id="525267011" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:18Z" user="Ivan Komarov" uid="69864" lat="71.4992500" lon="95.4892500"/>
+ <node id="525267024" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:19Z" user="Ivan Komarov" uid="69864" lat="71.4997500" lon="95.4897500"/>
+ <node id="525267035" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:20Z" user="Ivan Komarov" uid="69864" lat="71.4992500" lon="95.4852500"/>
+ <node id="525267061" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:21Z" user="Ivan Komarov" uid="69864" lat="71.4992500" lon="95.4790000"/>
+ <node id="525267070" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:21Z" user="Ivan Komarov" uid="69864" lat="71.4995000" lon="95.4787500"/>
+ <node id="525267093" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:22Z" user="Ivan Komarov" uid="69864" lat="71.5157500" lon="95.4722500"/>
+ <node id="525267094" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:23Z" user="Ivan Komarov" uid="69864" lat="71.5160000" lon="95.4727500"/>
+ <node id="525267104" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:23Z" user="Ivan Komarov" uid="69864" lat="71.5162500" lon="95.4790000"/>
+ <node id="525267114" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:24Z" user="Ivan Komarov" uid="69864" lat="71.5162500" lon="95.4800000"/>
+ <node id="525267127" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:25Z" user="Ivan Komarov" uid="69864" lat="71.5157500" lon="95.4827500"/>
+ <node id="525267144" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:25Z" user="Ivan Komarov" uid="69864" lat="71.5142500" lon="95.4862500"/>
+ <node id="525267156" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:26Z" user="Ivan Komarov" uid="69864" lat="71.5142500" lon="95.4867500"/>
+ <node id="525267161" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:26Z" user="Ivan Komarov" uid="69864" lat="71.5130000" lon="95.4882500"/>
+ <node id="525267177" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:27Z" user="Ivan Komarov" uid="69864" lat="71.5125000" lon="95.4905000"/>
+ <node id="525267193" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:27Z" user="Ivan Komarov" uid="69864" lat="71.5115000" lon="95.4915000"/>
+ <node id="525267205" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:28Z" user="Ivan Komarov" uid="69864" lat="71.5037500" lon="95.4972500"/>
+ <node id="525267221" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:28Z" user="Ivan Komarov" uid="69864" lat="71.5030000" lon="95.4975000"/>
+ <node id="525267233" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:29Z" user="Ivan Komarov" uid="69864" lat="71.5007500" lon="95.4957500"/>
+ <node id="525267242" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:29Z" user="Ivan Komarov" uid="69864" lat="71.5007500" lon="95.4952500"/>
+ <node id="525267257" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:30Z" user="Ivan Komarov" uid="69864" lat="71.5002500" lon="95.4945000"/>
+ <node id="525267272" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:30Z" user="Ivan Komarov" uid="69864" lat="71.5000000" lon="95.4960000"/>
+ <node id="525267278" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:31Z" user="Ivan Komarov" uid="69864" lat="71.5005000" lon="95.4970000"/>
+ <node id="525267290" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:32Z" user="Ivan Komarov" uid="69864" lat="71.5005000" lon="95.5000000"/>
+ <node id="525267309" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:33Z" user="Ivan Komarov" uid="69864" lat="71.5005000" lon="95.5010000"/>
+ <node id="525267319" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:33Z" user="Ivan Komarov" uid="69864" lat="71.5000000" lon="95.5017500"/>
+ <node id="525267327" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:34Z" user="Ivan Komarov" uid="69864" lat="71.4997500" lon="95.5022500"/>
+ <node id="525267344" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:35Z" user="Ivan Komarov" uid="69864" lat="71.5055000" lon="95.5030000"/>
+ <node id="525267348" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:36Z" user="Ivan Komarov" uid="69864" lat="71.5062500" lon="95.5030000"/>
+ <node id="525267367" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:37Z" user="Ivan Komarov" uid="69864" lat="71.5075000" lon="95.4977500"/>
+ <node id="525267384" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:38Z" user="Ivan Komarov" uid="69864" lat="71.5062500" lon="95.4972500"/>
+ <node id="525267403" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:38Z" user="Ivan Komarov" uid="69864" lat="71.5057500" lon="95.4977500"/>
+ <node id="525267411" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:39Z" user="Ivan Komarov" uid="69864" lat="71.5097500" lon="95.4962500"/>
+ <node id="525267419" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:39Z" user="Ivan Komarov" uid="69864" lat="71.5092500" lon="95.4962500"/>
+ <node id="525267433" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:40Z" user="Ivan Komarov" uid="69864" lat="71.5002500" lon="95.5107500"/>
+ <node id="525267441" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:40Z" user="Ivan Komarov" uid="69864" lat="71.5012500" lon="95.5080000"/>
+ <node id="525267454" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:41Z" user="Ivan Komarov" uid="69864" lat="71.5012500" lon="95.5070000"/>
+ <node id="525267468" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:41Z" user="Ivan Komarov" uid="69864" lat="71.5035000" lon="95.5045000"/>
+ <node id="525267482" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:42Z" user="Ivan Komarov" uid="69864" lat="71.5047500" lon="95.5042500"/>
+ <node id="525267492" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:42Z" user="Ivan Komarov" uid="69864" lat="71.5052500" lon="95.5042500"/>
+ <node id="525267504" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:43Z" user="Ivan Komarov" uid="69864" lat="71.5060000" lon="95.5070000"/>
+ <node id="525267519" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:43Z" user="Ivan Komarov" uid="69864" lat="71.5065000" lon="95.5085000"/>
+ <node id="525267535" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:44Z" user="Ivan Komarov" uid="69864" lat="71.5065000" lon="95.5140000"/>
+ <node id="525267548" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:45Z" user="Ivan Komarov" uid="69864" lat="71.5067500" lon="95.5150000"/>
+ <node id="525267550" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:46Z" user="Ivan Komarov" uid="69864" lat="71.5112500" lon="95.4932500"/>
+ <node id="525267569" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:46Z" user="Ivan Komarov" uid="69864" lat="71.5105000" lon="95.4945000"/>
+ <node id="525267582" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:47Z" user="Ivan Komarov" uid="69864" lat="71.5065000" lon="95.5200000"/>
+ <node id="525267607" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:48Z" user="Ivan Komarov" uid="69864" lat="71.5065000" lon="95.5205000"/>
+ <node id="525267640" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:50Z" user="Ivan Komarov" uid="69864" lat="71.5072500" lon="95.5225000"/>
+ <node id="525267666" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:51Z" user="Ivan Komarov" uid="69864" lat="71.5077500" lon="95.5222500"/>
+ <node id="525267679" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:52Z" user="Ivan Komarov" uid="69864" lat="71.5080000" lon="95.5225000"/>
+ <node id="525267684" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:53Z" user="Ivan Komarov" uid="69864" lat="71.5085000" lon="95.5232500"/>
+ <node id="525267716" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:55Z" user="Ivan Komarov" uid="69864" lat="71.5092500" lon="95.5260000"/>
+ <node id="525267733" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:56Z" user="Ivan Komarov" uid="69864" lat="71.5092500" lon="95.5275000"/>
+ <node id="525267762" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:58Z" user="Ivan Komarov" uid="69864" lat="71.5095000" lon="95.5287500"/>
+ <node id="525267781" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:48:59Z" user="Ivan Komarov" uid="69864" lat="71.5190000" lon="95.5347500"/>
+ <node id="525267809" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:00Z" user="Ivan Komarov" uid="69864" lat="71.5195000" lon="95.5340000"/>
+ <node id="525267818" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:01Z" user="Ivan Komarov" uid="69864" lat="71.5200000" lon="95.5340000"/>
+ <node id="525267833" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:01Z" user="Ivan Komarov" uid="69864" lat="71.5212500" lon="95.5317500"/>
+ <node id="525267842" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:02Z" user="Ivan Komarov" uid="69864" lat="71.5215000" lon="95.5315000"/>
+ <node id="525267848" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:02Z" user="Ivan Komarov" uid="69864" lat="71.5222500" lon="95.5317500"/>
+ <node id="525267849" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:03Z" user="Ivan Komarov" uid="69864" lat="71.5230000" lon="95.5307500"/>
+ <node id="525267861" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:03Z" user="Ivan Komarov" uid="69864" lat="71.5237500" lon="95.5302500"/>
+ <node id="525267877" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:04Z" user="Ivan Komarov" uid="69864" lat="71.5280000" lon="95.5330000"/>
+ <node id="525267900" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:04Z" user="Ivan Komarov" uid="69864" lat="71.5292500" lon="95.5365000"/>
+ <node id="525267911" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:05Z" user="Ivan Komarov" uid="69864" lat="71.4980000" lon="95.5570000"/>
+ <node id="525267924" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:06Z" user="Ivan Komarov" uid="69864" lat="71.4970000" lon="95.5590000"/>
+ <node id="525267938" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:06Z" user="Ivan Komarov" uid="69864" lat="71.4962500" lon="95.5580000"/>
+ <node id="525267942" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:07Z" user="Ivan Komarov" uid="69864" lat="71.4960000" lon="95.5532500"/>
+ <node id="525267954" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:08Z" user="Ivan Komarov" uid="69864" lat="71.4970000" lon="95.5510000"/>
+ <node id="525267970" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:08Z" user="Ivan Komarov" uid="69864" lat="71.4970000" lon="95.5505000"/>
+ <node id="525267979" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:09Z" user="Ivan Komarov" uid="69864" lat="71.4980000" lon="95.5497500"/>
+ <node id="525267991" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:09Z" user="Ivan Komarov" uid="69864" lat="71.4985000" lon="95.5505000"/>
+ <node id="525268008" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:10Z" user="Ivan Komarov" uid="69864" lat="71.4987500" lon="95.5507500"/>
+ <node id="525268017" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:11Z" user="Ivan Komarov" uid="69864" lat="71.4990000" lon="95.5405000"/>
+ <node id="525268021" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:12Z" user="Ivan Komarov" uid="69864" lat="71.4987500" lon="95.5397500"/>
+ <node id="525268036" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:13Z" user="Ivan Komarov" uid="69864" lat="71.5032500" lon="95.5472500"/>
+ <node id="525268038" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:14Z" user="Ivan Komarov" uid="69864" lat="71.5030000" lon="95.5452500"/>
+ <node id="525268072" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:15Z" user="Ivan Komarov" uid="69864" lat="71.5022500" lon="95.5445000"/>
+ <node id="525268103" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:17Z" user="Ivan Komarov" uid="69864" lat="71.5022500" lon="95.5440000"/>
+ <node id="525268126" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:17Z" user="Ivan Komarov" uid="69864" lat="71.5002500" lon="95.5422500"/>
+ <node id="525268144" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:18Z" user="Ivan Komarov" uid="69864" lat="71.5015000" lon="95.5530000"/>
+ <node id="525268165" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:19Z" user="Ivan Komarov" uid="69864" lat="71.5012500" lon="95.5532500"/>
+ <node id="525268170" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:20Z" user="Ivan Komarov" uid="69864" lat="71.5002500" lon="95.5527500"/>
+ <node id="525268186" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:21Z" user="Ivan Komarov" uid="69864" lat="71.5010000" lon="95.5500000"/>
+ <node id="525268201" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:22Z" user="Ivan Komarov" uid="69864" lat="71.5012500" lon="95.5495000"/>
+ <node id="525268210" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:23Z" user="Ivan Komarov" uid="69864" lat="71.5027500" lon="95.5532500"/>
+ <node id="525268217" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:23Z" user="Ivan Komarov" uid="69864" lat="71.5025000" lon="95.5535000"/>
+ <node id="525268236" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:24Z" user="Ivan Komarov" uid="69864" lat="71.5020000" lon="95.5535000"/>
+ <node id="525268275" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:26Z" user="Ivan Komarov" uid="69864" lat="71.5020000" lon="95.5530000"/>
+ <node id="525268295" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:27Z" user="Ivan Komarov" uid="69864" lat="71.5022500" lon="95.5512500"/>
+ <node id="525268308" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:28Z" user="Ivan Komarov" uid="69864" lat="71.5025000" lon="95.5510000"/>
+ <node id="525268314" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:28Z" user="Ivan Komarov" uid="69864" lat="71.5025000" lon="95.5482500"/>
+ <node id="525268328" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:29Z" user="Ivan Komarov" uid="69864" lat="71.4992500" lon="95.5572500"/>
+ <node id="525268334" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:30Z" user="Ivan Komarov" uid="69864" lat="71.4992500" lon="95.5537500"/>
+ <node id="525268346" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:30Z" user="Ivan Komarov" uid="69864" lat="71.4992500" lon="95.5542500"/>
+ <node id="525268356" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:31Z" user="Ivan Komarov" uid="69864" lat="71.5032500" lon="95.5537500"/>
+ <node id="525268373" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:31Z" user="Ivan Komarov" uid="69864" lat="71.5022500" lon="95.5537500"/>
+ <node id="525268391" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:32Z" user="Ivan Komarov" uid="69864" lat="71.5100000" lon="95.5490000"/>
+ <node id="525268398" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:32Z" user="Ivan Komarov" uid="69864" lat="71.5100000" lon="95.5495000"/>
+ <node id="525268412" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:33Z" user="Ivan Komarov" uid="69864" lat="71.5097500" lon="95.5547500"/>
+ <node id="525268426" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:34Z" user="Ivan Komarov" uid="69864" lat="71.5047500" lon="95.5560000"/>
+ <node id="525268441" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:34Z" user="Ivan Komarov" uid="69864" lat="71.5150000" lon="95.5585000"/>
+ <node id="525268456" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:35Z" user="Ivan Komarov" uid="69864" lat="71.5155000" lon="95.5577500"/>
+ <node id="525268470" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:35Z" user="Ivan Komarov" uid="69864" lat="71.5162500" lon="95.5525000"/>
+ <node id="525268482" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:36Z" user="Ivan Komarov" uid="69864" lat="71.5165000" lon="95.5520000"/>
+ <node id="525268488" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:36Z" user="Ivan Komarov" uid="69864" lat="71.5175000" lon="95.5422500"/>
+ <node id="525268491" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:37Z" user="Ivan Komarov" uid="69864" lat="71.5175000" lon="95.5412500"/>
+ <node id="525268500" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:37Z" user="Ivan Komarov" uid="69864" lat="71.4997500" lon="95.5597500"/>
+ <node id="525268509" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:38Z" user="Ivan Komarov" uid="69864" lat="71.4992500" lon="95.5602500"/>
+ <node id="525268526" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:38Z" user="Ivan Komarov" uid="69864" lat="71.5075000" lon="95.5647500"/>
+ <node id="525268547" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:39Z" user="Ivan Komarov" uid="69864" lat="71.5075000" lon="95.5652500"/>
+ <node id="525268570" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:39Z" user="Ivan Komarov" uid="69864" lat="71.5067500" lon="95.5655000"/>
+ <node id="525268590" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:40Z" user="Ivan Komarov" uid="69864" lat="71.5060000" lon="95.5650000"/>
+ <node id="525268614" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:41Z" user="Ivan Komarov" uid="69864" lat="71.5057500" lon="95.5647500"/>
+ <node id="525268636" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:42Z" user="Ivan Komarov" uid="69864" lat="71.5050000" lon="95.5627500"/>
+ <node id="525268651" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:43Z" user="Ivan Komarov" uid="69864" lat="71.5047500" lon="95.5622500"/>
+ <node id="525268662" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:43Z" user="Ivan Komarov" uid="69864" lat="71.5187500" lon="95.5805000"/>
+ <node id="525268664" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:44Z" user="Ivan Komarov" uid="69864" lat="71.5185000" lon="95.5802500"/>
+ <node id="525268676" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:45Z" user="Ivan Komarov" uid="69864" lat="71.5157500" lon="95.5745000"/>
+ <node id="525268692" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:46Z" user="Ivan Komarov" uid="69864" lat="71.5145000" lon="95.5687500"/>
+ <node id="525268694" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:47Z" user="Ivan Komarov" uid="69864" lat="71.5142500" lon="95.5677500"/>
+ <node id="525268710" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:48Z" user="Ivan Komarov" uid="69864" lat="71.5290000" lon="95.5390000"/>
+ <node id="525268719" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:48Z" user="Ivan Komarov" uid="69864" lat="71.5290000" lon="95.5395000"/>
+ <node id="525268732" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:49Z" user="Ivan Komarov" uid="69864" lat="71.5295000" lon="95.5395000"/>
+ <node id="525268735" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:49Z" user="Ivan Komarov" uid="69864" lat="71.5297500" lon="95.5392500"/>
+ <node id="525268738" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:50Z" user="Ivan Komarov" uid="69864" lat="71.5305000" lon="95.5390000"/>
+ <node id="525268747" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:50Z" user="Ivan Komarov" uid="69864" lat="71.5295000" lon="95.5422500"/>
+ <node id="525268756" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:51Z" user="Ivan Komarov" uid="69864" lat="71.5297500" lon="95.5467500"/>
+ <node id="525268769" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:51Z" user="Ivan Komarov" uid="69864" lat="71.5292500" lon="95.5477500"/>
+ <node id="525268778" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:52Z" user="Ivan Komarov" uid="69864" lat="71.5285000" lon="95.5532500"/>
+ <node id="525268786" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:52Z" user="Ivan Komarov" uid="69864" lat="71.5282500" lon="95.5547500"/>
+ <node id="525268803" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:53Z" user="Ivan Komarov" uid="69864" lat="71.5290000" lon="95.5647500"/>
+ <node id="525268821" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:54Z" user="Ivan Komarov" uid="69864" lat="71.5290000" lon="95.5717500"/>
+ <node id="525268822" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:55Z" user="Ivan Komarov" uid="69864" lat="71.5290000" lon="95.5727500"/>
+ <node id="525268828" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:55Z" user="Ivan Komarov" uid="69864" lat="71.5272500" lon="95.5757500"/>
+ <node id="525268838" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:56Z" user="Ivan Komarov" uid="69864" lat="71.5272500" lon="95.5762500"/>
+ <node id="525268853" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:57Z" user="Ivan Komarov" uid="69864" lat="71.5272500" lon="95.5767500"/>
+ <node id="525268873" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:58Z" user="Ivan Komarov" uid="69864" lat="71.5245000" lon="95.5800000"/>
+ <node id="525268888" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:59Z" user="Ivan Komarov" uid="69864" lat="71.5225000" lon="95.5820000"/>
+ <node id="525268898" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:49:59Z" user="Ivan Komarov" uid="69864" lat="71.5220000" lon="95.5822500"/>
+ <node id="525268909" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:50:00Z" user="Ivan Komarov" uid="69864" lat="71.5217500" lon="95.5820000"/>
+ <node id="525268920" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:50:00Z" user="Ivan Komarov" uid="69864" lat="71.5215000" lon="95.5817500"/>
+ <node id="525268931" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:50:01Z" user="Ivan Komarov" uid="69864" lat="71.5212500" lon="95.5820000"/>
+ <node id="525268939" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T07:50:01Z" user="Ivan Komarov" uid="69864" lat="71.5210000" lon="95.5825000"/>
+ <way id="42182385" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T08:05:50Z" user="Ivan Komarov" uid="69864">
+  <nd ref="525268888"/>
+  <nd ref="525268898"/>
+  <nd ref="525268909"/>
+  <nd ref="525268920"/>
+  <nd ref="525268931"/>
+  <nd ref="525268939"/>
+  <nd ref="525268662"/>
+  <nd ref="525268664"/>
+  <nd ref="525268676"/>
+  <nd ref="525268692"/>
+  <nd ref="525268694"/>
+  <nd ref="525268441"/>
+  <nd ref="525268456"/>
+  <nd ref="525268470"/>
+  <nd ref="525268482"/>
+  <nd ref="525268488"/>
+  <nd ref="525268491"/>
+  <nd ref="525267781"/>
+  <nd ref="525267809"/>
+  <nd ref="525267818"/>
+  <nd ref="525267833"/>
+  <nd ref="525267842"/>
+  <nd ref="525267848"/>
+  <nd ref="525267849"/>
+  <nd ref="525267861"/>
+  <nd ref="525267877"/>
+  <nd ref="525267900"/>
+  <nd ref="525268710"/>
+  <nd ref="525268719"/>
+  <nd ref="525268732"/>
+  <nd ref="525268735"/>
+  <nd ref="525268738"/>
+  <nd ref="525268747"/>
+  <nd ref="525268756"/>
+  <nd ref="525268769"/>
+  <nd ref="525268778"/>
+  <nd ref="525268786"/>
+  <nd ref="525268803"/>
+  <nd ref="525268821"/>
+  <nd ref="525268822"/>
+  <nd ref="525268828"/>
+  <nd ref="525268838"/>
+  <nd ref="525268853"/>
+  <nd ref="525268873"/>
+  <nd ref="525268888"/>
+  <tag k="natural" v="water"/>
+  <tag k="source" v="Landsat"/>
+ </way>
+ <way id="42182389" visible="true" version="2" changeset="110986935" timestamp="2021-09-09T17:06:47Z" user="Семён Семёнов" uid="706587">
+  <nd ref="525268356"/>
+  <nd ref="525268210"/>
+  <nd ref="525268217"/>
+  <nd ref="525268373"/>
+  <nd ref="525268236"/>
+  <nd ref="525268275"/>
+  <nd ref="525268144"/>
+  <nd ref="525268165"/>
+  <nd ref="525268328"/>
+  <nd ref="525268500"/>
+  <nd ref="525268509"/>
+  <nd ref="525267911"/>
+  <nd ref="525267924"/>
+  <nd ref="525267938"/>
+  <nd ref="525267942"/>
+  <nd ref="525267954"/>
+  <nd ref="525267970"/>
+  <nd ref="525267979"/>
+  <nd ref="525267991"/>
+  <nd ref="525268008"/>
+  <nd ref="525268334"/>
+  <nd ref="525268346"/>
+  <nd ref="525268170"/>
+  <nd ref="525268186"/>
+  <nd ref="525268201"/>
+  <nd ref="525268295"/>
+  <nd ref="525268308"/>
+  <nd ref="525268314"/>
+  <nd ref="525268036"/>
+  <nd ref="525268038"/>
+  <nd ref="525268072"/>
+  <nd ref="525268103"/>
+  <nd ref="525268126"/>
+  <nd ref="525268017"/>
+  <nd ref="525268021"/>
+  <nd ref="525266748"/>
+  <nd ref="525266755"/>
+  <nd ref="525266767"/>
+  <nd ref="525266778"/>
+  <nd ref="525266797"/>
+  <nd ref="525266826"/>
+  <nd ref="525266830"/>
+  <nd ref="525267433"/>
+  <nd ref="525267441"/>
+  <nd ref="525267454"/>
+  <nd ref="525267468"/>
+  <nd ref="525267482"/>
+  <nd ref="525267492"/>
+  <nd ref="525267344"/>
+  <nd ref="525267348"/>
+  <nd ref="525267504"/>
+  <nd ref="525267519"/>
+  <nd ref="525267535"/>
+  <nd ref="525267548"/>
+  <nd ref="525267582"/>
+  <nd ref="525267607"/>
+  <nd ref="525267640"/>
+  <nd ref="525267666"/>
+  <nd ref="525267679"/>
+  <nd ref="525267684"/>
+  <nd ref="525267716"/>
+  <nd ref="525267733"/>
+  <nd ref="525267762"/>
+  <nd ref="525268391"/>
+  <nd ref="525268398"/>
+  <nd ref="525268412"/>
+  <nd ref="525268526"/>
+  <nd ref="525268547"/>
+  <nd ref="525268570"/>
+  <nd ref="525268590"/>
+  <nd ref="525268614"/>
+  <nd ref="525268636"/>
+  <nd ref="525268651"/>
+  <nd ref="525268426"/>
+  <nd ref="525268356"/>
+  <tag k="name" v="Сопочные"/>
+  <tag k="natural" v="water"/>
+  <tag k="source" v="Landsat"/>
+  <tag k="water" v="lake"/>
+ </way>
+ <way id="42182392" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T08:05:53Z" user="Ivan Komarov" uid="69864">
+  <nd ref="525267367"/>
+  <nd ref="525267384"/>
+  <nd ref="525267403"/>
+  <nd ref="525267205"/>
+  <nd ref="525267221"/>
+  <nd ref="525267233"/>
+  <nd ref="525267242"/>
+  <nd ref="525267257"/>
+  <nd ref="525267272"/>
+  <nd ref="525267278"/>
+  <nd ref="525267290"/>
+  <nd ref="525267309"/>
+  <nd ref="525267319"/>
+  <nd ref="525267327"/>
+  <nd ref="525266847"/>
+  <nd ref="525266861"/>
+  <nd ref="525266884"/>
+  <nd ref="525266905"/>
+  <nd ref="525266915"/>
+  <nd ref="525266676"/>
+  <nd ref="525266686"/>
+  <nd ref="525267011"/>
+  <nd ref="525267024"/>
+  <nd ref="525267035"/>
+  <nd ref="525267061"/>
+  <nd ref="525267070"/>
+  <nd ref="525266693"/>
+  <nd ref="525266704"/>
+  <nd ref="525266711"/>
+  <nd ref="525266713"/>
+  <nd ref="525266716"/>
+  <nd ref="525266725"/>
+  <nd ref="525266729"/>
+  <nd ref="525266731"/>
+  <nd ref="525266739"/>
+  <nd ref="525266231"/>
+  <nd ref="525266233"/>
+  <nd ref="525266239"/>
+  <nd ref="525266247"/>
+  <nd ref="525266256"/>
+  <nd ref="525266106"/>
+  <nd ref="525266108"/>
+  <nd ref="525266124"/>
+  <nd ref="525266127"/>
+  <nd ref="525266023"/>
+  <nd ref="525266033"/>
+  <nd ref="525266041"/>
+  <nd ref="525266051"/>
+  <nd ref="525266059"/>
+  <nd ref="525266068"/>
+  <nd ref="525266071"/>
+  <nd ref="525266072"/>
+  <nd ref="525266075"/>
+  <nd ref="525266077"/>
+  <nd ref="525266079"/>
+  <nd ref="525266081"/>
+  <nd ref="525266086"/>
+  <nd ref="525266097"/>
+  <nd ref="525266136"/>
+  <nd ref="525266143"/>
+  <nd ref="525266151"/>
+  <nd ref="525266156"/>
+  <nd ref="525266159"/>
+  <nd ref="525266161"/>
+  <nd ref="525266170"/>
+  <nd ref="525266174"/>
+  <nd ref="525266180"/>
+  <nd ref="525266189"/>
+  <nd ref="525266196"/>
+  <nd ref="525266201"/>
+  <nd ref="525266211"/>
+  <nd ref="525266220"/>
+  <nd ref="525266227"/>
+  <nd ref="525266268"/>
+  <nd ref="525266287"/>
+  <nd ref="525266309"/>
+  <nd ref="525266328"/>
+  <nd ref="525266346"/>
+  <nd ref="525266366"/>
+  <nd ref="525266390"/>
+  <nd ref="525266402"/>
+  <nd ref="525266423"/>
+  <nd ref="525266441"/>
+  <nd ref="525266458"/>
+  <nd ref="525266468"/>
+  <nd ref="525266478"/>
+  <nd ref="525266491"/>
+  <nd ref="525266918"/>
+  <nd ref="525266927"/>
+  <nd ref="525266946"/>
+  <nd ref="525266970"/>
+  <nd ref="525266994"/>
+  <nd ref="525267093"/>
+  <nd ref="525267094"/>
+  <nd ref="525267104"/>
+  <nd ref="525267114"/>
+  <nd ref="525267127"/>
+  <nd ref="525267144"/>
+  <nd ref="525267156"/>
+  <nd ref="525267161"/>
+  <nd ref="525267177"/>
+  <nd ref="525267193"/>
+  <nd ref="525267550"/>
+  <nd ref="525267569"/>
+  <nd ref="525267411"/>
+  <nd ref="525267419"/>
+  <nd ref="525267367"/>
+  <tag k="natural" v="water"/>
+  <tag k="source" v="Landsat"/>
+ </way>
+ <way id="42182400" visible="true" version="2" changeset="110986935" timestamp="2021-09-09T17:06:47Z" user="Семён Семёнов" uid="706587">
+  <nd ref="525255648"/>
+  <nd ref="525255447"/>
+  <nd ref="525255467"/>
+  <nd ref="525255484"/>
+  <nd ref="525255505"/>
+  <nd ref="525255518"/>
+  <nd ref="525255538"/>
+  <nd ref="525255541"/>
+  <nd ref="525255550"/>
+  <nd ref="525255569"/>
+  <nd ref="525255585"/>
+  <nd ref="525254655"/>
+  <nd ref="525254666"/>
+  <nd ref="525255604"/>
+  <nd ref="525255619"/>
+  <nd ref="525255622"/>
+  <nd ref="525255627"/>
+  <nd ref="525255632"/>
+  <nd ref="525255846"/>
+  <nd ref="525255848"/>
+  <nd ref="525255850"/>
+  <nd ref="525255857"/>
+  <nd ref="525255866"/>
+  <nd ref="525255875"/>
+  <nd ref="525255893"/>
+  <nd ref="525254756"/>
+  <nd ref="525254771"/>
+  <nd ref="525254786"/>
+  <nd ref="525254800"/>
+  <nd ref="525254803"/>
+  <nd ref="525254807"/>
+  <nd ref="525254820"/>
+  <nd ref="525254830"/>
+  <nd ref="525254636"/>
+  <nd ref="525254641"/>
+  <nd ref="525254680"/>
+  <nd ref="525254695"/>
+  <nd ref="525254702"/>
+  <nd ref="525254713"/>
+  <nd ref="525254725"/>
+  <nd ref="525254740"/>
+  <nd ref="525254624"/>
+  <nd ref="525254748"/>
+  <nd ref="525254530"/>
+  <nd ref="525254550"/>
+  <nd ref="525254566"/>
+  <nd ref="525254583"/>
+  <nd ref="525254594"/>
+  <nd ref="525254596"/>
+  <nd ref="525254603"/>
+  <nd ref="525254613"/>
+  <nd ref="525254094"/>
+  <nd ref="525254112"/>
+  <nd ref="525254114"/>
+  <nd ref="525254228"/>
+  <nd ref="525254245"/>
+  <nd ref="525254260"/>
+  <nd ref="525254274"/>
+  <nd ref="525254292"/>
+  <nd ref="525254298"/>
+  <nd ref="525253976"/>
+  <nd ref="525254058"/>
+  <nd ref="525254070"/>
+  <nd ref="525253993"/>
+  <nd ref="525254006"/>
+  <nd ref="525254009"/>
+  <nd ref="525254021"/>
+  <nd ref="525254030"/>
+  <nd ref="525253844"/>
+  <nd ref="525253861"/>
+  <nd ref="525254041"/>
+  <nd ref="525254052"/>
+  <nd ref="525253878"/>
+  <nd ref="525253898"/>
+  <nd ref="525253919"/>
+  <nd ref="525253937"/>
+  <nd ref="525253945"/>
+  <nd ref="525253957"/>
+  <nd ref="525253638"/>
+  <nd ref="525253649"/>
+  <nd ref="525253663"/>
+  <nd ref="525253673"/>
+  <nd ref="525253687"/>
+  <nd ref="525253701"/>
+  <nd ref="525253713"/>
+  <nd ref="525253731"/>
+  <nd ref="525253749"/>
+  <nd ref="525253773"/>
+  <nd ref="525253787"/>
+  <nd ref="525253804"/>
+  <nd ref="525253822"/>
+  <nd ref="525254857"/>
+  <nd ref="525252835"/>
+  <nd ref="525252843"/>
+  <nd ref="525252845"/>
+  <nd ref="525252847"/>
+  <nd ref="525252850"/>
+  <nd ref="525252863"/>
+  <nd ref="525252878"/>
+  <nd ref="525252894"/>
+  <nd ref="525252895"/>
+  <nd ref="525252899"/>
+  <nd ref="525252912"/>
+  <nd ref="525252929"/>
+  <nd ref="525252942"/>
+  <nd ref="525252954"/>
+  <nd ref="525252968"/>
+  <nd ref="525254869"/>
+  <nd ref="525254883"/>
+  <nd ref="525252980"/>
+  <nd ref="525254896"/>
+  <nd ref="525254910"/>
+  <nd ref="525254922"/>
+  <nd ref="525254933"/>
+  <nd ref="525254934"/>
+  <nd ref="525254941"/>
+  <nd ref="525255068"/>
+  <nd ref="525255076"/>
+  <nd ref="525255202"/>
+  <nd ref="525255221"/>
+  <nd ref="525255092"/>
+  <nd ref="525255111"/>
+  <nd ref="525255136"/>
+  <nd ref="525255240"/>
+  <nd ref="525255267"/>
+  <nd ref="525255280"/>
+  <nd ref="525255294"/>
+  <nd ref="525255301"/>
+  <nd ref="525255306"/>
+  <nd ref="525255318"/>
+  <nd ref="525255328"/>
+  <nd ref="525255339"/>
+  <nd ref="525255346"/>
+  <nd ref="525255717"/>
+  <nd ref="525255727"/>
+  <nd ref="525255732"/>
+  <nd ref="525255742"/>
+  <nd ref="525255749"/>
+  <nd ref="525255757"/>
+  <nd ref="525255797"/>
+  <nd ref="525255800"/>
+  <nd ref="525255809"/>
+  <nd ref="525255817"/>
+  <nd ref="525255826"/>
+  <nd ref="525255830"/>
+  <nd ref="525255836"/>
+  <nd ref="525255842"/>
+  <nd ref="525255762"/>
+  <nd ref="525255769"/>
+  <nd ref="525255776"/>
+  <nd ref="525255778"/>
+  <nd ref="525255788"/>
+  <nd ref="525255719"/>
+  <nd ref="525255723"/>
+  <nd ref="525255724"/>
+  <nd ref="525255665"/>
+  <nd ref="525255678"/>
+  <nd ref="525255683"/>
+  <nd ref="525255393"/>
+  <nd ref="525255696"/>
+  <nd ref="525255714"/>
+  <nd ref="525255411"/>
+  <nd ref="525255432"/>
+  <nd ref="525255716"/>
+  <nd ref="525255648"/>
+  <tag k="name" v="Сухие"/>
+  <tag k="natural" v="water"/>
+  <tag k="source" v="Landsat"/>
+  <tag k="water" v="lake"/>
+ </way>
+ <way id="42182408" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T08:06:01Z" user="Ivan Komarov" uid="69864">
+  <nd ref="525254305"/>
+  <nd ref="525254310"/>
+  <nd ref="525254313"/>
+  <nd ref="525254325"/>
+  <nd ref="525254341"/>
+  <nd ref="525254354"/>
+  <nd ref="525254367"/>
+  <nd ref="525254381"/>
+  <nd ref="525254392"/>
+  <nd ref="525254404"/>
+  <nd ref="525254414"/>
+  <nd ref="525254419"/>
+  <nd ref="525254428"/>
+  <nd ref="525254437"/>
+  <nd ref="525254451"/>
+  <nd ref="525253430"/>
+  <nd ref="525253439"/>
+  <nd ref="525253453"/>
+  <nd ref="525253470"/>
+  <nd ref="525253493"/>
+  <nd ref="525253496"/>
+  <nd ref="525253503"/>
+  <nd ref="525253512"/>
+  <nd ref="525253525"/>
+  <nd ref="525253542"/>
+  <nd ref="525253558"/>
+  <nd ref="525253576"/>
+  <nd ref="525253577"/>
+  <nd ref="525253588"/>
+  <nd ref="525253595"/>
+  <nd ref="525253597"/>
+  <nd ref="525253599"/>
+  <nd ref="525253615"/>
+  <nd ref="525253629"/>
+  <nd ref="525254116"/>
+  <nd ref="525254118"/>
+  <nd ref="525254130"/>
+  <nd ref="525254143"/>
+  <nd ref="525254150"/>
+  <nd ref="525254159"/>
+  <nd ref="525254182"/>
+  <nd ref="525254198"/>
+  <nd ref="525254209"/>
+  <nd ref="525254464"/>
+  <nd ref="525254475"/>
+  <nd ref="525254487"/>
+  <nd ref="525254491"/>
+  <nd ref="525254492"/>
+  <nd ref="525254494"/>
+  <nd ref="525254500"/>
+  <nd ref="525254507"/>
+  <nd ref="525254512"/>
+  <nd ref="525254305"/>
+  <tag k="natural" v="water"/>
+  <tag k="source" v="Landsat"/>
+ </way>
+ <way id="42182489" visible="true" version="1" changeset="2779242" timestamp="2009-10-08T08:06:29Z" user="Ivan Komarov" uid="69864">
+  <nd ref="525254968"/>
+  <nd ref="525254990"/>
+  <nd ref="525255003"/>
+  <nd ref="525255020"/>
+  <nd ref="525255034"/>
+  <nd ref="525255042"/>
+  <nd ref="525254947"/>
+  <nd ref="525254955"/>
+  <nd ref="525252992"/>
+  <nd ref="525253006"/>
+  <nd ref="525253020"/>
+  <nd ref="525253030"/>
+  <nd ref="525252745"/>
+  <nd ref="525252755"/>
+  <nd ref="525252764"/>
+  <nd ref="525252771"/>
+  <nd ref="525252796"/>
+  <nd ref="525252808"/>
+  <nd ref="525252820"/>
+  <nd ref="525252823"/>
+  <nd ref="525253045"/>
+  <nd ref="525253069"/>
+  <nd ref="525255056"/>
+  <nd ref="525255065"/>
+  <nd ref="525255362"/>
+  <nd ref="525255374"/>
+  <nd ref="525255152"/>
+  <nd ref="525255165"/>
+  <nd ref="525255181"/>
+  <nd ref="525254968"/>
+  <tag k="natural" v="water"/>
+  <tag k="source" v="Landsat"/>
+ </way>
+</osm>

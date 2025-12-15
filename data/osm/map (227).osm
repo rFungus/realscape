@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (3893115 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="67.0922000" minlon="110.1939000" maxlat="67.2119000" maxlon="110.7329000"/>
+ <node id="4145150288" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="66.9717052" lon="110.2494194"/>
+ <node id="4145150290" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="66.9732187" lon="110.2498643"/>
+ <node id="4145150303" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="66.9790797" lon="110.2513318"/>
+ <node id="4145150306" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="66.9920019" lon="110.2546762"/>
+ <node id="4145150307" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.0089095" lon="110.2588241"/>
+ <node id="4145150308" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.0150973" lon="110.2603936"/>
+ <node id="4145150309" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.0245947" lon="110.2627104"/>
+ <node id="4145150310" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.0267242" lon="110.2637567"/>
+ <node id="4145150315" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.0724579" lon="110.2858989"/>
+ <node id="4145150316" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.0864152" lon="110.2927923"/>
+ <node id="4145150317" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.1136986" lon="110.3062180"/>
+ <node id="4145150318" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.1332215" lon="110.3159083"/>
+ <node id="4145150319" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.1473120" lon="110.2947051"/>
+ <node id="4145150320" visible="true" version="2" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416" lat="67.1476280" lon="110.3230226"/>
+ <node id="4145150322" visible="true" version="1" changeset="38842418" timestamp="2016-04-24T20:59:59Z" user="Noro Hibu" uid="1832883" lat="67.1505251" lon="110.9850116"/>
+ <node id="11429154058" visible="true" version="1" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416" lat="67.1502570" lon="110.8992576"/>
+ <node id="11429154059" visible="true" version="1" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416" lat="67.1499237" lon="110.7985139"/>
+ <node id="11429154060" visible="true" version="1" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416" lat="67.1493988" lon="110.6493830"/>
+ <node id="11429154061" visible="true" version="1" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416" lat="67.1489155" lon="110.5346489"/>
+ <node id="11429154062" visible="true" version="1" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416" lat="67.1483738" lon="110.4313516"/>
+ <node id="11429154063" visible="true" version="1" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416" lat="66.9908433" lon="110.2543763"/>
+ <way id="413183337" visible="true" version="2" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416">
+  <nd ref="4145150320"/>
+  <nd ref="4145150318"/>
+  <nd ref="4145150317"/>
+  <nd ref="4145150316"/>
+  <nd ref="4145150315"/>
+  <nd ref="4145150310"/>
+  <nd ref="4145150309"/>
+  <nd ref="4145150308"/>
+  <nd ref="4145150307"/>
+  <nd ref="4145150306"/>
+  <nd ref="11429154063"/>
+  <nd ref="4145150303"/>
+  <nd ref="4145150290"/>
+  <nd ref="4145150288"/>
+  <tag k="highway" v="track"/>
+  <tag k="man_made" v="cutline"/>
+ </way>
+ <way id="413183341" visible="true" version="2" changeset="145255833" timestamp="2023-12-18T15:24:01Z" user="PJ120" uid="14431416">
+  <nd ref="4145150322"/>
+  <nd ref="11429154058"/>
+  <nd ref="11429154059"/>
+  <nd ref="11429154060"/>
+  <nd ref="11429154061"/>
+  <nd ref="11429154062"/>
+  <nd ref="4145150320"/>
+  <nd ref="4145150319"/>
+  <tag k="highway" v="track"/>
+  <tag k="man_made" v="cutline"/>
+ </way>
+</osm>

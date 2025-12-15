@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (113216 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="24.3171000" minlon="14.7773000" maxlat="24.5977000" maxlon="15.3163000"/>
+ <node id="1312442231" visible="true" version="4" changeset="96378160" timestamp="2020-12-24T10:38:07Z" user="user_11422772" uid="11422772" lat="24.5351182" lon="15.2592288">
+  <tag k="admin_level" v="4"/>
+  <tag k="int_name" v="Murzuq"/>
+  <tag k="name" v="مرزق"/>
+  <tag k="name:ar" v="مرزق"/>
+  <tag k="name:en" v="Murzuq"/>
+  <tag k="name:fr" v="Mourzouq"/>
+  <tag k="name:it" v="Distretto di Murzuch"/>
+  <tag k="name:pl" v="Marzuk"/>
+  <tag k="name:ru" v="Марзук"/>
+  <tag k="name:uk" v="Марзук"/>
+  <tag k="place" v="state"/>
+  <tag k="UNOSAT:ref" v="11"/>
+ </node>
+ <relation id="192758" visible="true" version="105" changeset="161203916" timestamp="2025-01-10T12:41:36Z" user="Сергей Бардин" uid="4428755">
+  <member type="node" ref="1699640925" role="admin_centre"/>
+  <member type="node" ref="432425023" role="label"/>
+  <member type="way" ref="485437371" role="outer"/>
+  <member type="way" ref="485437349" role="outer"/>
+  <member type="way" ref="520038640" role="outer"/>
+  <member type="way" ref="100394364" role="outer"/>
+  <member type="way" ref="485437350" role="outer"/>
+  <member type="way" ref="485498514" role="outer"/>
+  <member type="way" ref="485498513" role="outer"/>
+  <member type="way" ref="22688898" role="outer"/>
+  <member type="way" ref="152290147" role="outer"/>
+  <member type="way" ref="152290145" role="outer"/>
+  <member type="way" ref="311691540" role="outer"/>
+  <member type="way" ref="152290146" role="outer"/>
+  <member type="way" ref="311691537" role="outer"/>
+  <member type="way" ref="522969690" role="outer"/>
+  <member type="way" ref="464707582" role="outer"/>
+  <member type="way" ref="311691539" role="outer"/>
+  <member type="way" ref="85851146" role="outer"/>
+  <member type="way" ref="22688535" role="outer"/>
+  <member type="way" ref="31617505" role="outer"/>
+  <member type="way" ref="31617506" role="outer"/>
+  <member type="way" ref="477534330" role="outer"/>
+  <member type="way" ref="22688468" role="outer"/>
+  <member type="way" ref="284530558" role="outer"/>
+  <member type="way" ref="22758910" role="outer"/>
+  <member type="way" ref="152290149" role="outer"/>
+  <member type="way" ref="228631989" role="outer"/>
+  <member type="way" ref="152290150" role="outer"/>
+  <member type="way" ref="104482780" role="outer"/>
+  <member type="way" ref="104482779" role="outer"/>
+  <member type="way" ref="302819492" role="outer"/>
+  <member type="way" ref="157675601" role="outer"/>
+  <member type="way" ref="152290168" role="outer"/>
+  <member type="way" ref="152290169" role="outer"/>
+  <member type="way" ref="1238636820" role="outer"/>
+  <member type="way" ref="152290187" role="outer"/>
+  <member type="way" ref="152290185" role="outer"/>
+  <member type="way" ref="993973533" role="outer"/>
+  <member type="way" ref="993973530" role="outer"/>
+  <member type="way" ref="993973531" role="outer"/>
+  <member type="way" ref="286161374" role="outer"/>
+  <member type="way" ref="152290186" role="outer"/>
+  <member type="way" ref="152290181" role="outer"/>
+  <member type="way" ref="152290175" role="outer"/>
+  <member type="way" ref="1137439635" role="outer"/>
+  <member type="way" ref="157675607" role="outer"/>
+  <member type="way" ref="302819493" role="outer"/>
+  <member type="way" ref="42127375" role="outer"/>
+  <member type="relation" ref="2060171" role="subarea"/>
+  <member type="relation" ref="2060172" role="subarea"/>
+  <member type="relation" ref="2060174" role="subarea"/>
+  <member type="relation" ref="2060179" role="subarea"/>
+  <member type="relation" ref="2060170" role="subarea"/>
+  <member type="relation" ref="2060169" role="subarea"/>
+  <member type="relation" ref="2060178" role="subarea"/>
+  <member type="relation" ref="2060185" role="subarea"/>
+  <member type="relation" ref="2060180" role="subarea"/>
+  <member type="relation" ref="3795005" role="subarea"/>
+  <member type="relation" ref="2060186" role="subarea"/>
+  <member type="relation" ref="2060176" role="subarea"/>
+  <member type="relation" ref="2060189" role="subarea"/>
+  <member type="relation" ref="2060183" role="subarea"/>
+  <member type="relation" ref="2060175" role="subarea"/>
+  <member type="relation" ref="2060182" role="subarea"/>
+  <member type="relation" ref="2060177" role="subarea"/>
+  <member type="relation" ref="2060188" role="subarea"/>
+  <member type="relation" ref="2060184" role="subarea"/>
+  <member type="relation" ref="2060187" role="subarea"/>
+  <member type="relation" ref="2060173" role="subarea"/>
+  <member type="relation" ref="2060181" role="subarea"/>
+  <tag k="admin_level" v="2"/>
+  <tag k="alt_name:grc" v="Λιβύη"/>
+  <tag k="alt_name:vi" v="Libi"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="default_language" v="ar"/>
+  <tag k="flag" v="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"/>
+  <tag k="ISO3166-1" v="LY"/>
+  <tag k="ISO3166-1:alpha2" v="LY"/>
+  <tag k="ISO3166-1:alpha3" v="LBY"/>
+  <tag k="ISO3166-1:numeric" v="434"/>
+  <tag k="name" v="ليبيا"/>
+  <tag k="name:ace" v="Libya"/>
+  <tag k="name:af" v="Libië"/>
+  <tag k="name:als" v="Libyen"/>
+  <tag k="name:am" v="ሊቢያ"/>
+  <tag k="name:an" v="Libia"/>
+  <tag k="name:ang" v="Libia"/>
+  <tag k="name:ar" v="ليبيا"/>
+  <tag k="name:arc" v="ܠܘܒܐ"/>
+  <tag k="name:arz" v="ليبيا"/>
+  <tag k="name:ast" v="Libia"/>
+  <tag k="name:az" v="Liviya"/>
+  <tag k="name:azb" v="لیبی"/>
+  <tag k="name:ba" v="Ливия"/>
+  <tag k="name:bar" v="Libyen"/>
+  <tag k="name:bat-smg" v="Lėbėjė"/>
+  <tag k="name:bcl" v="Libya"/>
+  <tag k="name:be" v="Лівія"/>
+  <tag k="name:ber" v="ⵍⵉⴱⵢⴰ"/>
+  <tag k="name:be-tarask" v="Лібія"/>
+  <tag k="name:bg" v="Либия"/>
+  <tag k="name:bjn" v="Libya"/>
+  <tag k="name:bm" v="Libya"/>
+  <tag k="name:bn" v="লিবিয়া"/>
+  <tag k="name:bo" v="ལི་པི་ཡ།"/>
+  <tag k="name:bpy" v="লিবিয়া"/>
+  <tag k="name:br" v="Libia"/>
+  <tag k="name:bs" v="Libija"/>
+  <tag k="name:bug" v="Libya"/>
+  <tag k="name:bxr" v="Ливи"/>
+  <tag k="name:ca" v="Líbia"/>
+  <tag k="name:cbk-zam" v="Libya"/>
+  <tag k="name:ce" v="Ливи"/>
+  <tag k="name:ceb" v="Libya"/>
+  <tag k="name:ckb" v="لیبیا"/>
+  <tag k="name:cop" v="ϯⲖⲩⲃⲏ"/>
+  <tag k="name:crh" v="Libiya"/>
+  <tag k="name:cs" v="Libye"/>
+  <tag k="name:cv" v="Ливи"/>
+  <tag k="name:cy" v="Libya"/>
+  <tag k="name:da" v="Libyen"/>
+  <tag k="name:de" v="Libyen"/>
+  <tag k="name:din" v="Libya"/>
+  <tag k="name:diq" v="Libya"/>
+  <tag k="name:dsb" v="Libyska"/>
+  <tag k="name:dv" v="ލީބިޔާ"/>
+  <tag k="name:ee" v="Libya"/>
+  <tag k="name:el" v="Λιβύη"/>
+  <tag k="name:en" v="Libya"/>
+  <tag k="name:eo" v="Libio"/>
+  <tag k="name:es" v="Libia"/>
+  <tag k="name:et" v="Liibüa"/>
+  <tag k="name:eu" v="Libia"/>
+  <tag k="name:ext" v="Líbia"/>
+  <tag k="name:fa" v="لیبی"/>
+  <tag k="name:fi" v="Libya"/>
+  <tag k="name:fo" v="Libya"/>
+  <tag k="name:fr" v="Libye"/>
+  <tag k="name:frp" v="Libie"/>
+  <tag k="name:frr" v="Libyen"/>
+  <tag k="name:fy" v="Lybje"/>
+  <tag k="name:ga" v="An Libia"/>
+  <tag k="name:gag" v="Liviya"/>
+  <tag k="name:gd" v="Libia"/>
+  <tag k="name:gl" v="Libia"/>
+  <tag k="name:gn" v="Livia"/>
+  <tag k="name:grc" v="Κυρηναϊκή"/>
+  <tag k="name:gv" v="Yn Leeb"/>
+  <tag k="name:ha" v="Libya"/>
+  <tag k="name:hak" v="Libya"/>
+  <tag k="name:he" v="לוב"/>
+  <tag k="name:hi" v="लीबिया"/>
+  <tag k="name:hif" v="Libya"/>
+  <tag k="name:hr" v="Libija"/>
+  <tag k="name:hsb" v="Libyska"/>
+  <tag k="name:ht" v="Libi"/>
+  <tag k="name:hu" v="Líbia"/>
+  <tag k="name:hy" v="Լիբիա"/>
+  <tag k="name:hyw" v="Լիպիա"/>
+  <tag k="name:ia" v="Libya"/>
+  <tag k="name:id" v="Libya"/>
+  <tag k="name:ie" v="Libya"/>
+  <tag k="name:ilo" v="Libya"/>
+  <tag k="name:io" v="Libia"/>
+  <tag k="name:is" v="Líbýa"/>
+  <tag k="name:it" v="Libia"/>
+  <tag k="name:ja" v="リビア"/>
+  <tag k="name:jbo" v="libgu'e"/>
+  <tag k="name:jv" v="Libya"/>
+  <tag k="name:ka" v="ლიბია"/>
+  <tag k="name:kab" v="Libya"/>
+  <tag k="name:kg" v="Libia"/>
+  <tag k="name:kk" v="Ливия"/>
+  <tag k="name:kl" v="Libya"/>
+  <tag k="name:kn" v="ಲಿಬಿಯಾ"/>
+  <tag k="name:ko" v="리비아"/>
+  <tag k="name:ks" v="لِبیا"/>
+  <tag k="name:ku" v="Lîbya"/>
+  <tag k="name:ku-Arab" v="لیبیا"/>
+  <tag k="name:kw" v="Libi"/>
+  <tag k="name:ky" v="Ливия"/>
+  <tag k="name:la" v="Libya"/>
+  <tag k="name:lad" v="Libya"/>
+  <tag k="name:lb" v="Libyen"/>
+  <tag k="name:li" v="Libië"/>
+  <tag k="name:lij" v="Libia"/>
+  <tag k="name:lmo" v="Libia"/>
+  <tag k="name:ln" v="Libîya"/>
+  <tag k="name:lt" v="Libija"/>
+  <tag k="name:lv" v="Lībija"/>
+  <tag k="name:lzh" v="利比亞"/>
+  <tag k="name:map-bms" v="Libya"/>
+  <tag k="name:mdf" v="Ливие"/>
+  <tag k="name:mg" v="Libia"/>
+  <tag k="name:mi" v="Rīpia"/>
+  <tag k="name:min" v="Libya"/>
+  <tag k="name:mk" v="Либија"/>
+  <tag k="name:ml" v="ലിബിയ"/>
+  <tag k="name:mn" v="Ливи"/>
+  <tag k="name:mr" v="लीबिया"/>
+  <tag k="name:mrj" v="Ливи"/>
+  <tag k="name:ms" v="Libya"/>
+  <tag k="name:mt" v="Libja"/>
+  <tag k="name:my" v="လစ်ဗျားနိုင်ငံ"/>
+  <tag k="name:mzn" v="لیبی"/>
+  <tag k="name:nah" v="Libia"/>
+  <tag k="name:nan" v="Libya"/>
+  <tag k="name:nap" v="Libbia"/>
+  <tag k="name:nds" v="Libyen"/>
+  <tag k="name:nds-nl" v="Libië"/>
+  <tag k="name:ne" v="लिबिया"/>
+  <tag k="name:new" v="लिब्या"/>
+  <tag k="name:nl" v="Libië"/>
+  <tag k="name:nn" v="Libya"/>
+  <tag k="name:no" v="Libya"/>
+  <tag k="name:nov" v="Libia"/>
+  <tag k="name:nso" v="Libya"/>
+  <tag k="name:nv" v="Łíbya"/>
+  <tag k="name:oc" v="Libia"/>
+  <tag k="name:or" v="ଲିବିଆ"/>
+  <tag k="name:os" v="Ливи"/>
+  <tag k="name:pa" v="ਲੀਬੀਆ"/>
+  <tag k="name:pag" v="Libia"/>
+  <tag k="name:pam" v="Libya"/>
+  <tag k="name:pap" v="Libia"/>
+  <tag k="name:pfl" v="Libye"/>
+  <tag k="name:pih" v="Libiia"/>
+  <tag k="name:pl" v="Libia"/>
+  <tag k="name:pms" v="Libia"/>
+  <tag k="name:pnb" v="لبیا"/>
+  <tag k="name:ps" v="لېبيا"/>
+  <tag k="name:pt" v="Líbia"/>
+  <tag k="name:qu" v="Libya"/>
+  <tag k="name:ro" v="Libia"/>
+  <tag k="name:ru" v="Ливия"/>
+  <tag k="name:rue" v="Лібія"/>
+  <tag k="name:rw" v="Libiya"/>
+  <tag k="name:sa" v="लिबिया"/>
+  <tag k="name:sah" v="Лиибийэ"/>
+  <tag k="name:sc" v="Lìbia"/>
+  <tag k="name:scn" v="Libbia"/>
+  <tag k="name:sco" v="Libie"/>
+  <tag k="name:se" v="Libya"/>
+  <tag k="name:sg" v="Libïi"/>
+  <tag k="name:sh" v="Libija"/>
+  <tag k="name:si" v="ලිබියාව"/>
+  <tag k="name:simple" v="Libya"/>
+  <tag k="name:sk" v="Líbya"/>
+  <tag k="name:sl" v="Libija"/>
+  <tag k="name:sm" v="Libya"/>
+  <tag k="name:smn" v="Libya"/>
+  <tag k="name:sms" v="Libya"/>
+  <tag k="name:sn" v="Libya"/>
+  <tag k="name:so" v="Libiya"/>
+  <tag k="name:sq" v="Libia"/>
+  <tag k="name:sr" v="Либија"/>
+  <tag k="name:ss" v="ILibhiya"/>
+  <tag k="name:stq" v="Libyen"/>
+  <tag k="name:su" v="Libya"/>
+  <tag k="name:sv" v="Libyen"/>
+  <tag k="name:sw" v="Libya"/>
+  <tag k="name:syc" v="ܠܘܒܐ"/>
+  <tag k="name:szl" v="Libijo"/>
+  <tag k="name:ta" v="லிபியா"/>
+  <tag k="name:te" v="లిబియా"/>
+  <tag k="name:tg" v="Либия"/>
+  <tag k="name:th" v="ประเทศลิเบีย"/>
+  <tag k="name:ti" v="ሊቢያ"/>
+  <tag k="name:tk" v="Liwiýa"/>
+  <tag k="name:tl" v="Libya"/>
+  <tag k="name:tr" v="Libya"/>
+  <tag k="name:ts" v="Libiya"/>
+  <tag k="name:tt" v="Ливия"/>
+  <tag k="name:tzl" v="Libia"/>
+  <tag k="name:ug" v="لىۋىيە"/>
+  <tag k="name:uk" v="Лівія"/>
+  <tag k="name:ur" v="لیبیا"/>
+  <tag k="name:uz" v="Liviya"/>
+  <tag k="name:vec" v="Łibia"/>
+  <tag k="name:vi" v="Libya"/>
+  <tag k="name:vls" v="Libië"/>
+  <tag k="name:vo" v="Lübän"/>
+  <tag k="name:vro" v="Liibüä"/>
+  <tag k="name:wa" v="Libeye"/>
+  <tag k="name:war" v="Libya"/>
+  <tag k="name:wo" v="Libi"/>
+  <tag k="name:xal" v="Либудин Аһу Социгализмин Араб Улс Орн"/>
+  <tag k="name:xmf" v="ლიბია"/>
+  <tag k="name:yi" v="ליביע"/>
+  <tag k="name:yo" v="Líbyà"/>
+  <tag k="name:yue" v="利比亞"/>
+  <tag k="name:zea" v="Libië"/>
+  <tag k="name:zgh" v="ⵍⵉⴱⵢⴰ"/>
+  <tag k="name:zh" v="利比亚"/>
+  <tag k="name:zh-Hans" v="利比亚"/>
+  <tag k="name:zh-Hant" v="利比亞"/>
+  <tag k="name:zu" v="ILibiya"/>
+  <tag k="official_name" v="دولة ليبيا"/>
+  <tag k="official_name:af" v="Staat Libië"/>
+  <tag k="official_name:ar" v="دولة ليبيا"/>
+  <tag k="official_name:ca" v="Estat de Líbia"/>
+  <tag k="official_name:cs" v="Libyjský stát"/>
+  <tag k="official_name:de" v="Staat Libyen"/>
+  <tag k="official_name:es" v="Estado de Libia"/>
+  <tag k="official_name:fa" v="دولت لیبی"/>
+  <tag k="official_name:fr" v="État de Libye"/>
+  <tag k="official_name:grc" v="Πολιτεία τῆς Κυρηναϊκῆς"/>
+  <tag k="official_name:nl" v="Staat Libië"/>
+  <tag k="official_name:sr" v="Држава Либија"/>
+  <tag k="official_name:ur" v="ریاست لیبیا"/>
+  <tag k="timezone" v="Africa/Tripoli"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q1016"/>
+  <tag k="wikipedia" v="ar:ليبيا"/>
+ </relation>
+ <relation id="2060181" visible="true" version="13" changeset="131892879" timestamp="2023-01-30T18:47:56Z" user="tbicr" uid="278800">
+  <member type="node" ref="260716346" role="admin_centre"/>
+  <member type="node" ref="1312442231" role="label"/>
+  <member type="way" ref="102996910" role="outer"/>
+  <member type="way" ref="152290136" role="outer"/>
+  <member type="way" ref="31617505" role="outer"/>
+  <member type="way" ref="22688535" role="outer"/>
+  <member type="way" ref="85851146" role="outer"/>
+  <member type="way" ref="152290156" role="outer"/>
+  <member type="way" ref="152290164" role="outer"/>
+  <member type="way" ref="152290158" role="outer"/>
+  <tag k="admin_level" v="4"/>
+  <tag k="alt_name:ar" v="شعبية مرزق"/>
+  <tag k="alt_name:en" v="Murzuq District"/>
+  <tag k="alt_name:es" v="Distrito de Murzuk"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="int_name" v="Murzuq"/>
+  <tag k="ISO3166-2" v="LY-MQ"/>
+  <tag k="name" v="مرزق"/>
+  <tag k="name:ar" v="مرزق"/>
+  <tag k="name:be" v="Муніцыпалітэт Марзук"/>
+  <tag k="name:be-tarask" v="Мурзук"/>
+  <tag k="name:ceb" v="Murzuq"/>
+  <tag k="name:cs" v="Murzuq"/>
+  <tag k="name:de" v="Munizip Murzuq"/>
+  <tag k="name:en" v="Murzuq"/>
+  <tag k="name:es" v="Murzuk"/>
+  <tag k="name:eu" v="Murzuq"/>
+  <tag k="name:fa" v="استان مرزق"/>
+  <tag k="name:fr" v="Mourzouq"/>
+  <tag k="name:hu" v="Murzuk tartomány"/>
+  <tag k="name:hy" v="Մարզուկ"/>
+  <tag k="name:it" v="Distretto di Murzuch"/>
+  <tag k="name:ja" v="ムルズク県"/>
+  <tag k="name:ka" v="მარზუკის რაიონი"/>
+  <tag k="name:ko" v="무르주크주"/>
+  <tag k="name:lt" v="Murzuko savivaldybė"/>
+  <tag k="name:nl" v="Murzuq"/>
+  <tag k="name:pl" v="Marzuk"/>
+  <tag k="name:pt" v="Murzuque"/>
+  <tag k="name:ro" v="Districtul Murzuq"/>
+  <tag k="name:ru" v="Марзук"/>
+  <tag k="name:sco" v="Murzuq Destrict"/>
+  <tag k="name:sh" v="Murzuk"/>
+  <tag k="name:sv" v="Murzuq"/>
+  <tag k="name:tg" v="Вилояти Мурзуқ"/>
+  <tag k="name:uk" v="Марзук"/>
+  <tag k="name:ur" v="مرزق ضلع"/>
+  <tag k="name:zh" v="邁爾祖格省"/>
+  <tag k="name:zu" v="Murzuq District"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q48239"/>
+  <tag k="wikipedia" v="ar:شعبية مرزق"/>
+ </relation>
+</osm>

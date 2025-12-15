@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (3893105 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="65.7886000" minlon="102.3782000" maxlat="65.9147000" maxlon="102.9172000"/>
+ <node id="10113831002" visible="true" version="2" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8243064" lon="102.9479027"/>
+ <node id="10113831003" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8243592" lon="102.9565716"/>
+ <node id="10113831004" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8244207" lon="102.9771709"/>
+ <node id="10113831005" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8244734" lon="102.9835439"/>
+ <node id="10113831006" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8244998" lon="102.9974270"/>
+ <node id="10113831007" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8246052" lon="103.0071902"/>
+ <node id="10113831008" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8246755" lon="103.0296349"/>
+ <node id="10113831009" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8247722" lon="103.0387330"/>
+ <node id="10113831010" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8247986" lon="103.0558991"/>
+ <node id="10113831011" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8250973" lon="103.0976343"/>
+ <node id="10113831012" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8252555" lon="103.1312156"/>
+ <node id="10113831017" visible="true" version="1" changeset="127774127" timestamp="2022-10-19T10:51:05Z" user="Семён Семёнов" uid="706587" lat="65.8253456" lon="103.1483120"/>
+ <node id="11362590348" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8173264" lon="102.1526698"/>
+ <node id="11362590352" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8190421" lon="102.2922206"/>
+ <node id="11362590353" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8208615" lon="102.4725401"/>
+ <node id="11362590354" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8219337" lon="102.5885939"/>
+ <node id="11362590355" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8222720" lon="102.6377106"/>
+ <node id="11362590356" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8223687" lon="102.6562178"/>
+ <node id="11362590357" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8227686" lon="102.7016759"/>
+ <node id="11362590358" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8233061" lon="102.7835570"/>
+ <node id="11362603490" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416" lat="65.8236118" lon="102.8337690"/>
+ <way id="1225259447" visible="true" version="1" changeset="144219839" timestamp="2023-11-19T18:59:41Z" user="PJ120" uid="14431416">
+  <nd ref="10113831017"/>
+  <nd ref="10113831012"/>
+  <nd ref="10113831011"/>
+  <nd ref="10113831010"/>
+  <nd ref="10113831009"/>
+  <nd ref="10113831008"/>
+  <nd ref="10113831007"/>
+  <nd ref="10113831006"/>
+  <nd ref="10113831005"/>
+  <nd ref="10113831004"/>
+  <nd ref="10113831003"/>
+  <nd ref="10113831002"/>
+  <nd ref="11362603490"/>
+  <nd ref="11362590358"/>
+  <nd ref="11362590357"/>
+  <nd ref="11362590356"/>
+  <nd ref="11362590355"/>
+  <nd ref="11362590354"/>
+  <nd ref="11362590353"/>
+  <nd ref="11362590352"/>
+  <nd ref="11362590348"/>
+  <tag k="man_made" v="cutline"/>
+ </way>
+</osm>

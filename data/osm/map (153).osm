@@ -1,0 +1,3014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (3893113 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="28.9007000" minlon="24.4736000" maxlat="29.1702000" maxlon="25.0126000"/>
+ <node id="242169478" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.3844385" lon="24.8486411"/>
+ <node id="242169482" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.3728799" lon="24.8465749"/>
+ <node id="242169487" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.3623377" lon="24.8445395"/>
+ <node id="242169500" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.3934907" lon="24.8520613"/>
+ <node id="242169522" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.3506345" lon="24.8451469"/>
+ <node id="242169545" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.2879203" lon="24.8583759"/>
+ <node id="242169568" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.3036341" lon="24.8561086"/>
+ <node id="242169589" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.2386025" lon="24.8635272"/>
+ <node id="242169644" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.1814247" lon="24.8600974"/>
+ <node id="242169674" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.2030805" lon="24.8594169"/>
+ <node id="242169686" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.2290354" lon="24.8604016"/>
+ <node id="242169692" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.2171615" lon="24.8591663"/>
+ <node id="242169722" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.1549503" lon="24.8584788"/>
+ <node id="242169726" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.1693766" lon="24.8598105"/>
+ <node id="242169736" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0902174" lon="24.8855176"/>
+ <node id="242169746" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.1022342" lon="24.8787688"/>
+ <node id="242169752" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.1103271" lon="24.8761875"/>
+ <node id="242169758" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.1235731" lon="24.8708361"/>
+ <node id="242169779" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0394440" lon="24.9036110"/>
+ <node id="242169785" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0452780" lon="24.9022220"/>
+ <node id="242169795" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0346155" lon="24.9057654"/>
+ <node id="242169812" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0191936" lon="24.9139641"/>
+ <node id="242169843" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0608330" lon="24.8983330"/>
+ <node id="242169853" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0508330" lon="24.9013890"/>
+ <node id="242169857" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0558330" lon="24.8997220"/>
+ <node id="242169889" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.9482318" lon="24.9475023"/>
+ <node id="242169894" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.9387844" lon="24.9526729"/>
+ <node id="242169897" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.9282489" lon="24.9612162"/>
+ <node id="242169905" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.0065572" lon="24.9211717"/>
+ <node id="242169908" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.9893993" lon="24.9298845"/>
+ <node id="242169917" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.9855560" lon="24.9319440"/>
+ <node id="242169922" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.9738518" lon="24.9340810"/>
+ <node id="242169934" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8880683" lon="24.9843589"/>
+ <node id="242169938" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.9000265" lon="24.9803078"/>
+ <node id="242169942" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8561107" lon="24.9876836"/>
+ <node id="242169995" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.9053450" lon="24.9767722"/>
+ <node id="242170045" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7930977" lon="25.0082706"/>
+ <node id="242170052" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7818001" lon="25.0109141"/>
+ <node id="242170057" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8076288" lon="25.0035783"/>
+ <node id="242170061" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8006414" lon="25.0063932"/>
+ <node id="242170085" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8442907" lon="24.9902077"/>
+ <node id="242170104" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8519857" lon="24.9884521"/>
+ <node id="242170112" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8265662" lon="24.9965187"/>
+ <node id="242170125" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8364436" lon="24.9926432"/>
+ <node id="242170139" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7062710" lon="24.9776098"/>
+ <node id="242170145" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7167229" lon="24.9841800"/>
+ <node id="242170174" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7275160" lon="24.9883433"/>
+ <node id="242170214" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7764611" lon="25.0107462"/>
+ <node id="242170221" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7583563" lon="25.0022567"/>
+ <node id="242170226" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7675279" lon="25.0070792"/>
+ <node id="242170273" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.6618090" lon="24.9529108"/>
+ <node id="242170281" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.6443843" lon="24.9456997"/>
+ <node id="242170291" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.6974564" lon="24.9725424"/>
+ <node id="242170296" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.6784854" lon="24.9594160"/>
+ <node id="242170404" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4477780" lon="24.8869440"/>
+ <node id="242170409" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4425000" lon="24.8844440"/>
+ <node id="242170420" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4522220" lon="24.8900000"/>
+ <node id="242170488" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3611110" lon="24.8141670"/>
+ <node id="242170493" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3638890" lon="24.8186110"/>
+ <node id="242170498" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3683330" lon="24.8216670"/>
+ <node id="242170503" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3722220" lon="24.8255560"/>
+ <node id="242170508" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3477780" lon="24.7975000"/>
+ <node id="242170512" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3500000" lon="24.8019440"/>
+ <node id="242170518" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3544440" lon="24.8058330"/>
+ <node id="242170522" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3575000" lon="24.8102780"/>
+ <node id="242170567" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4275000" lon="24.8763890"/>
+ <node id="242170573" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4233330" lon="24.8725000"/>
+ <node id="242170578" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4372220" lon="24.8819440"/>
+ <node id="242170585" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4327780" lon="24.8788890"/>
+ <node id="242170596" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4105560" lon="24.8630560"/>
+ <node id="242170607" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4061110" lon="24.8600000"/>
+ <node id="242170622" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4194440" lon="24.8694440"/>
+ <node id="242170630" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4144440" lon="24.8661110"/>
+ <node id="242170635" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3927780" lon="24.8488890"/>
+ <node id="242170640" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3897220" lon="24.8452780"/>
+ <node id="242170645" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.4016670" lon="24.8561110"/>
+ <node id="242170649" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3980560" lon="24.8522220"/>
+ <node id="242170654" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3788890" lon="24.8330560"/>
+ <node id="242170659" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3758330" lon="24.8294440"/>
+ <node id="242170664" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3861110" lon="24.8413890"/>
+ <node id="242170668" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.3825000" lon="24.8377780"/>
+ <node id="242170689" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.2296334" lon="24.6978697"/>
+ <node id="242170744" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.1953088" lon="24.6772804"/>
+ <node id="242170749" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.2154923" lon="24.6886744"/>
+ <node id="242170871" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0341670" lon="24.7691670"/>
+ <node id="242170877" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0386110" lon="24.7666670"/>
+ <node id="242170953" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0436110" lon="24.7650000"/>
+ <node id="242170957" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0480560" lon="24.7625000"/>
+ <node id="242170963" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0527780" lon="24.7600000"/>
+ <node id="242170968" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0577780" lon="24.7583330"/>
+ <node id="242170972" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0622220" lon="24.7561110"/>
+ <node id="242170976" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0666670" lon="24.7536110"/>
+ <node id="242170981" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9955560" lon="24.7844440"/>
+ <node id="242170986" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0000000" lon="24.7819440"/>
+ <node id="242170992" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0052780" lon="24.7802780"/>
+ <node id="242170996" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0097220" lon="24.7777780"/>
+ <node id="242171000" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0147220" lon="24.7763890"/>
+ <node id="242171006" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0197220" lon="24.7747220"/>
+ <node id="242171011" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0247220" lon="24.7730560"/>
+ <node id="242171015" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0291670" lon="24.7705560"/>
+ <node id="242171054" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0761110" lon="24.7494440"/>
+ <node id="242171059" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0711110" lon="24.7511110"/>
+ <node id="242171065" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0847220" lon="24.7461110"/>
+ <node id="242171070" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0805560" lon="24.7469440"/>
+ <node id="242171075" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0950000" lon="24.7427780"/>
+ <node id="242171080" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0891670" lon="24.7444440"/>
+ <node id="242171089" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.0986110" lon="24.7402780"/>
+ <node id="242171093" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8911110" lon="24.8288890"/>
+ <node id="242171098" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8955560" lon="24.8272220"/>
+ <node id="242171103" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8816670" lon="24.8330560"/>
+ <node id="242171106" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8866670" lon="24.8313890"/>
+ <node id="242171111" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9105560" lon="24.8225000"/>
+ <node id="242171118" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9163890" lon="24.8211110"/>
+ <node id="242171123" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9013890" lon="24.8258330"/>
+ <node id="242171127" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9063890" lon="24.8241670"/>
+ <node id="242171132" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8461110" lon="24.8344440"/>
+ <node id="242171136" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8522220" lon="24.8355560"/>
+ <node id="242171143" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8341670" lon="24.8308330"/>
+ <node id="242171147" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8402780" lon="24.8327780"/>
+ <node id="242171154" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8711110" lon="24.8352780"/>
+ <node id="242171159" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8766670" lon="24.8347220"/>
+ <node id="242171164" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8591670" lon="24.8358330"/>
+ <node id="242171170" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8652780" lon="24.8361110"/>
+ <node id="242171174" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9727780" lon="24.7958330"/>
+ <node id="242171178" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9683330" lon="24.7983330"/>
+ <node id="242171182" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9638890" lon="24.8008330"/>
+ <node id="242171188" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9588890" lon="24.8033330"/>
+ <node id="242171196" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9911110" lon="24.7869440"/>
+ <node id="242171201" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9861110" lon="24.7883330"/>
+ <node id="242171206" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9816670" lon="24.7908330"/>
+ <node id="242171211" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9772220" lon="24.7933330"/>
+ <node id="242171215" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9361110" lon="24.8138890"/>
+ <node id="242171221" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9308330" lon="24.8155560"/>
+ <node id="242171226" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9258330" lon="24.8169440"/>
+ <node id="242171234" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9202780" lon="24.8186110"/>
+ <node id="242171238" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9550000" lon="24.8058330"/>
+ <node id="242171243" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9505560" lon="24.8083330"/>
+ <node id="242171249" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9455560" lon="24.8097220"/>
+ <node id="242171254" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.9411110" lon="24.8122220"/>
+ <node id="242171259" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7144440" lon="24.8530560"/>
+ <node id="242171269" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7091670" lon="24.8552780"/>
+ <node id="242171273" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7233330" lon="24.8480560"/>
+ <node id="242171276" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7188890" lon="24.8505560"/>
+ <node id="242171281" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6977780" lon="24.8647220"/>
+ <node id="242171287" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6938890" lon="24.8680560"/>
+ <node id="242171375" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7061110" lon="24.8588890"/>
+ <node id="242171379" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7013890" lon="24.8619440"/>
+ <node id="242171384" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7488890" lon="24.8322220"/>
+ <node id="242171389" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7450000" lon="24.8347220"/>
+ <node id="242171394" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7572220" lon="24.8263890"/>
+ <node id="242171401" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7538890" lon="24.8300000"/>
+ <node id="242171406" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7316670" lon="24.8430560"/>
+ <node id="242171410" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7277780" lon="24.8455560"/>
+ <node id="242171415" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7405560" lon="24.8372220"/>
+ <node id="242171418" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7366670" lon="24.8405560"/>
+ <node id="242171433" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7794440" lon="24.8147220"/>
+ <node id="242171437" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7844440" lon="24.8125000"/>
+ <node id="242171442" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7616670" lon="24.8238890"/>
+ <node id="242171448" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7661110" lon="24.8205560"/>
+ <node id="242171452" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7705560" lon="24.8183330"/>
+ <node id="242171457" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7741670" lon="24.8172220"/>
+ <node id="242171461" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8116670" lon="24.8225000"/>
+ <node id="242171466" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8169440" lon="24.8250000"/>
+ <node id="242171472" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8230560" lon="24.8266670"/>
+ <node id="242171477" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8280560" lon="24.8291670"/>
+ <node id="242171482" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7908330" lon="24.8127780"/>
+ <node id="242171487" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.7966670" lon="24.8144440"/>
+ <node id="242171492" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8019440" lon="24.8169440"/>
+ <node id="242171497" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.8063890" lon="24.8200000"/>
+ <node id="242171503" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5572220" lon="24.8816670"/>
+ <node id="242171507" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5497220" lon="24.8805560"/>
+ <node id="242171512" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5441670" lon="24.8802780"/>
+ <node id="242171517" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5372220" lon="24.8791670"/>
+ <node id="242171522" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5305560" lon="24.8775000"/>
+ <node id="242171529" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5244440" lon="24.8763890"/>
+ <node id="242171535" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5183330" lon="24.8761110"/>
+ <node id="242171540" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5119440" lon="24.8761110"/>
+ <node id="242171544" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6049720" lon="24.9048290"/>
+ <node id="242171550" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5974514" lon="24.8958187"/>
+ <node id="242171555" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5912595" lon="24.8894892"/>
+ <node id="242171559" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5858330" lon="24.8847220"/>
+ <node id="242171564" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5797220" lon="24.8830560"/>
+ <node id="242171569" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5750000" lon="24.8813890"/>
+ <node id="242171572" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5688890" lon="24.8819440"/>
+ <node id="242171583" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5633330" lon="24.8819440"/>
+ <node id="242171592" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6529009" lon="24.8927533"/>
+ <node id="242171602" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6415071" lon="24.8952581"/>
+ <node id="242171607" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6261136" lon="24.9012191"/>
+ <node id="242171617" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6086544" lon="24.9127245"/>
+ <node id="242171623" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6188660" lon="24.9063561"/>
+ <node id="242171628" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6855560" lon="24.8738890"/>
+ <node id="242171632" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6886110" lon="24.8702780"/>
+ <node id="242171636" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6772220" lon="24.8797220"/>
+ <node id="242171641" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6816670" lon="24.8772220"/>
+ <node id="242171646" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6683330" lon="24.8844440"/>
+ <node id="242171650" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6727780" lon="24.8822220"/>
+ <node id="242171655" visible="true" version="5" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6584196" lon="24.8898916"/>
+ <node id="242171660" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.6638890" lon="24.8869440"/>
+ <node id="242171664" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.0819440" lon="24.9977780"/>
+ <node id="242171669" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.0686110" lon="24.9977780"/>
+ <node id="242171674" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.1102780" lon="24.9983330"/>
+ <node id="242171680" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.0963890" lon="24.9983330"/>
+ <node id="242171685" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.1380560" lon="24.9980560"/>
+ <node id="242171690" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.1241670" lon="24.9983330"/>
+ <node id="242171695" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.1658330" lon="24.9977780"/>
+ <node id="242171699" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.1519440" lon="24.9980560"/>
+ <node id="242171711" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.1936110" lon="24.9975000"/>
+ <node id="242171725" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.1797220" lon="24.9977780"/>
+ <node id="242171732" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.2213890" lon="24.9972220"/>
+ <node id="242171736" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.2075000" lon="24.9975000"/>
+ <node id="242171743" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.2488890" lon="24.9977780"/>
+ <node id="242171751" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.2352780" lon="24.9972220"/>
+ <node id="242171757" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.2711110" lon="24.9872220"/>
+ <node id="242171762" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.2563890" lon="24.9941670"/>
+ <node id="242171766" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.2858330" lon="24.9800000"/>
+ <node id="242171772" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.3005560" lon="24.9736110"/>
+ <node id="242171776" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.3152780" lon="24.9663890"/>
+ <node id="242171781" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.3300000" lon="24.9594440"/>
+ <node id="242171788" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.3447220" lon="24.9530560"/>
+ <node id="242171793" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.3591670" lon="24.9458330"/>
+ <node id="242171797" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.3741670" lon="24.9386110"/>
+ <node id="242171802" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.3886110" lon="24.9322220"/>
+ <node id="242171807" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.4033330" lon="24.9252780"/>
+ <node id="242171811" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.4183330" lon="24.9180560"/>
+ <node id="242171816" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.4327780" lon="24.9116670"/>
+ <node id="242171822" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.4469440" lon="24.9044440"/>
+ <node id="242171825" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.4622220" lon="24.8972220"/>
+ <node id="242171826" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.4769440" lon="24.8911110"/>
+ <node id="242171828" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.4911110" lon="24.8836110"/>
+ <node id="242171833" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.5063890" lon="24.8775000"/>
+ <node id="242171838" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.6655560" lon="24.9997220"/>
+ <node id="242171841" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.6525000" lon="25.0000000"/>
+ <node id="242171846" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.6377780" lon="25.0000000"/>
+ <node id="242171851" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.6238890" lon="25.0002780"/>
+ <node id="242171856" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.7219440" lon="24.9994440"/>
+ <node id="242171861" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.7080560" lon="24.9994440"/>
+ <node id="242171865" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.6941670" lon="24.9997220"/>
+ <node id="242171870" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.6802780" lon="24.9997220"/>
+ <node id="242171875" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.7772220" lon="24.9997220"/>
+ <node id="242171880" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.7633330" lon="25.0000000"/>
+ <node id="242171885" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.7497220" lon="24.9991670"/>
+ <node id="242171890" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.7358330" lon="24.9994440"/>
+ <node id="242171895" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.8327780" lon="24.9991670"/>
+ <node id="242171899" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.8188890" lon="24.9994440"/>
+ <node id="242171904" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.8050000" lon="24.9994440"/>
+ <node id="242171909" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.7911110" lon="24.9997220"/>
+ <node id="242171914" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.8738890" lon="24.9988890"/>
+ <node id="242171920" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.8883330" lon="24.9986110"/>
+ <node id="242171925" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.8466670" lon="24.9991670"/>
+ <node id="242171929" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.8605560" lon="24.9988890"/>
+ <node id="242171935" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.9291670" lon="24.9997220"/>
+ <node id="242171940" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.9436110" lon="24.9988890"/>
+ <node id="242171946" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.9022220" lon="24.9986110"/>
+ <node id="242171952" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.9161110" lon="24.9986110"/>
+ <node id="242171958" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.9855560" lon="24.9986110"/>
+ <node id="242171963" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.9986110" lon="24.9983330"/>
+ <node id="242171968" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.9569440" lon="24.9994440"/>
+ <node id="242171973" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.9713890" lon="24.9988890"/>
+ <node id="242171979" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.0408330" lon="24.9980560"/>
+ <node id="242171984" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.0541670" lon="24.9980560"/>
+ <node id="242171989" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.0125000" lon="24.9983330"/>
+ <node id="242171994" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="29.0263890" lon="24.9980560"/>
+ <node id="242171997" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.0933330" lon="25.0019440"/>
+ <node id="242172010" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.1202780" lon="25.0025000"/>
+ <node id="242172016" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.1063890" lon="25.0016670"/>
+ <node id="242172020" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.1388890" lon="25.0022220"/>
+ <node id="242172026" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.1250000" lon="25.0025000"/>
+ <node id="242172033" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.1666670" lon="25.0019440"/>
+ <node id="242172039" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.1527780" lon="25.0022220"/>
+ <node id="242172179" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.5552780" lon="25.0002780"/>
+ <node id="242172183" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.5413890" lon="25.0002780"/>
+ <node id="242172187" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.5275000" lon="25.0002780"/>
+ <node id="242172190" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.5136110" lon="25.0005560"/>
+ <node id="242172194" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.6108330" lon="25.0005560"/>
+ <node id="242172198" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.5969440" lon="25.0005560"/>
+ <node id="242172201" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.5830560" lon="25.0000000"/>
+ <node id="242172206" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.5691670" lon="25.0000000"/>
+ <node id="242172210" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.4441670" lon="25.0011110"/>
+ <node id="242172224" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.4297220" lon="25.0002780"/>
+ <node id="242172239" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.4166670" lon="25.0005560"/>
+ <node id="242172253" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.4027780" lon="25.0008330"/>
+ <node id="242172267" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.4997220" lon="25.0005560"/>
+ <node id="242172273" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.4858330" lon="25.0008330"/>
+ <node id="242172279" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.4719440" lon="25.0008330"/>
+ <node id="242172289" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.4580560" lon="25.0011110"/>
+ <node id="242172294" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.3194440" lon="25.0013890"/>
+ <node id="242172299" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.3333330" lon="25.0013890"/>
+ <node id="242172303" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.2916670" lon="25.0016670"/>
+ <node id="242172309" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.3055560" lon="25.0016670"/>
+ <node id="242172314" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.3750000" lon="25.0011110"/>
+ <node id="242172318" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.3888890" lon="25.0008330"/>
+ <node id="242172323" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.3472220" lon="25.0011110"/>
+ <node id="242172328" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.3611110" lon="25.0011110"/>
+ <node id="242172333" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.2083330" lon="25.0016670"/>
+ <node id="242172340" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.2222220" lon="25.0016670"/>
+ <node id="242172344" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.1805560" lon="25.0019440"/>
+ <node id="242172350" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.1944440" lon="25.0016670"/>
+ <node id="242172355" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.2633330" lon="25.0011110"/>
+ <node id="242172360" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.2777780" lon="25.0019440"/>
+ <node id="242172366" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.2355560" lon="25.0013890"/>
+ <node id="242172372" visible="true" version="4" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="28.2500000" lon="25.0013890"/>
+ <node id="5274474539" visible="true" version="3" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.4062212" lon="24.8626499"/>
+ <node id="5274474909" visible="true" version="3" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.1388620" lon="24.8637048"/>
+ <node id="5274474910" visible="true" version="3" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="31.2648360" lon="24.8606412"/>
+ <node id="5274474959" visible="true" version="3" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8766327" lon="24.9866315"/>
+ <node id="5274474960" visible="true" version="3" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.8687036" lon="24.9865134"/>
+ <node id="5274475023" visible="true" version="3" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.7465633" lon="24.9951254"/>
+ <node id="5274480711" visible="true" version="3" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.1719390" lon="24.6647147"/>
+ <node id="5274480712" visible="true" version="3" changeset="171008594" timestamp="2025-08-26T06:11:25Z" user="relaxxe" uid="22645685" lat="30.1263685" lon="24.6499112"/>
+ <way id="104482780" visible="true" version="15" changeset="161057804" timestamp="2025-01-06T13:26:05Z" user="ABDULLAH AL WERFALLI" uid="9379362">
+  <nd ref="5274474539"/>
+  <nd ref="242169500"/>
+  <nd ref="242169478"/>
+  <nd ref="242169482"/>
+  <nd ref="242169487"/>
+  <nd ref="242169522"/>
+  <nd ref="242169568"/>
+  <nd ref="242169545"/>
+  <nd ref="5274474910"/>
+  <nd ref="242169589"/>
+  <nd ref="242169686"/>
+  <nd ref="242169692"/>
+  <nd ref="242169674"/>
+  <nd ref="242169644"/>
+  <nd ref="242169726"/>
+  <nd ref="242169722"/>
+  <nd ref="5274474909"/>
+  <nd ref="242169758"/>
+  <nd ref="242169752"/>
+  <nd ref="242169746"/>
+  <nd ref="242169736"/>
+  <nd ref="242169843"/>
+  <nd ref="242169857"/>
+  <nd ref="242169853"/>
+  <nd ref="242169785"/>
+  <nd ref="242169779"/>
+  <nd ref="242169795"/>
+  <nd ref="242169812"/>
+  <nd ref="242169905"/>
+  <nd ref="242169908"/>
+  <nd ref="242169917"/>
+  <nd ref="242169922"/>
+  <nd ref="242169889"/>
+  <nd ref="242169894"/>
+  <nd ref="242169897"/>
+  <nd ref="242169995"/>
+  <nd ref="242169938"/>
+  <nd ref="242169934"/>
+  <nd ref="5274474959"/>
+  <nd ref="5274474960"/>
+  <nd ref="242169942"/>
+  <nd ref="242170104"/>
+  <nd ref="242170085"/>
+  <nd ref="242170125"/>
+  <nd ref="242170112"/>
+  <nd ref="242170057"/>
+  <nd ref="242170061"/>
+  <nd ref="242170045"/>
+  <nd ref="242170052"/>
+  <nd ref="242170214"/>
+  <nd ref="242170226"/>
+  <nd ref="242170221"/>
+  <nd ref="5274475023"/>
+  <nd ref="242170174"/>
+  <nd ref="242170145"/>
+  <nd ref="242170139"/>
+  <nd ref="242170291"/>
+  <nd ref="242170296"/>
+  <nd ref="242170273"/>
+  <nd ref="242170281"/>
+  <nd ref="242170420"/>
+  <nd ref="242170404"/>
+  <nd ref="242170409"/>
+  <nd ref="242170578"/>
+  <nd ref="242170585"/>
+  <nd ref="242170567"/>
+  <nd ref="242170573"/>
+  <nd ref="242170622"/>
+  <nd ref="242170630"/>
+  <nd ref="242170596"/>
+  <nd ref="242170607"/>
+  <nd ref="242170645"/>
+  <nd ref="242170649"/>
+  <nd ref="242170635"/>
+  <nd ref="242170640"/>
+  <nd ref="242170664"/>
+  <nd ref="242170668"/>
+  <nd ref="242170654"/>
+  <nd ref="242170659"/>
+  <nd ref="242170503"/>
+  <nd ref="242170498"/>
+  <nd ref="242170493"/>
+  <nd ref="242170488"/>
+  <nd ref="242170522"/>
+  <nd ref="242170518"/>
+  <nd ref="242170512"/>
+  <nd ref="242170508"/>
+  <nd ref="242170689"/>
+  <nd ref="242170749"/>
+  <nd ref="242170744"/>
+  <nd ref="5274480711"/>
+  <nd ref="5274480712"/>
+  <nd ref="242171089"/>
+  <nd ref="242171075"/>
+  <nd ref="242171080"/>
+  <nd ref="242171065"/>
+  <nd ref="242171070"/>
+  <nd ref="242171054"/>
+  <nd ref="242171059"/>
+  <nd ref="242170976"/>
+  <nd ref="242170972"/>
+  <nd ref="242170968"/>
+  <nd ref="242170963"/>
+  <nd ref="242170957"/>
+  <nd ref="242170953"/>
+  <nd ref="242170877"/>
+  <nd ref="242170871"/>
+  <nd ref="242171015"/>
+  <nd ref="242171011"/>
+  <nd ref="242171006"/>
+  <nd ref="242171000"/>
+  <nd ref="242170996"/>
+  <nd ref="242170992"/>
+  <nd ref="242170986"/>
+  <nd ref="242170981"/>
+  <nd ref="242171196"/>
+  <nd ref="242171201"/>
+  <nd ref="242171206"/>
+  <nd ref="242171211"/>
+  <nd ref="242171174"/>
+  <nd ref="242171178"/>
+  <nd ref="242171182"/>
+  <nd ref="242171188"/>
+  <nd ref="242171238"/>
+  <nd ref="242171243"/>
+  <nd ref="242171249"/>
+  <nd ref="242171254"/>
+  <nd ref="242171215"/>
+  <nd ref="242171221"/>
+  <nd ref="242171226"/>
+  <nd ref="242171234"/>
+  <nd ref="242171118"/>
+  <nd ref="242171111"/>
+  <nd ref="242171127"/>
+  <nd ref="242171123"/>
+  <nd ref="242171098"/>
+  <nd ref="242171093"/>
+  <nd ref="242171106"/>
+  <nd ref="242171103"/>
+  <nd ref="242171159"/>
+  <nd ref="242171154"/>
+  <nd ref="242171170"/>
+  <nd ref="242171164"/>
+  <nd ref="242171136"/>
+  <nd ref="242171132"/>
+  <nd ref="242171147"/>
+  <nd ref="242171143"/>
+  <nd ref="242171477"/>
+  <nd ref="242171472"/>
+  <nd ref="242171466"/>
+  <nd ref="242171461"/>
+  <nd ref="242171497"/>
+  <nd ref="242171492"/>
+  <nd ref="242171487"/>
+  <nd ref="242171482"/>
+  <nd ref="242171437"/>
+  <nd ref="242171433"/>
+  <nd ref="242171457"/>
+  <nd ref="242171452"/>
+  <nd ref="242171448"/>
+  <nd ref="242171442"/>
+  <nd ref="242171394"/>
+  <nd ref="242171401"/>
+  <nd ref="242171384"/>
+  <nd ref="242171389"/>
+  <nd ref="242171415"/>
+  <nd ref="242171418"/>
+  <nd ref="242171406"/>
+  <nd ref="242171410"/>
+  <nd ref="242171273"/>
+  <nd ref="242171276"/>
+  <nd ref="242171259"/>
+  <nd ref="242171269"/>
+  <nd ref="242171375"/>
+  <nd ref="242171379"/>
+  <nd ref="242171281"/>
+  <nd ref="242171287"/>
+  <nd ref="242171632"/>
+  <nd ref="242171628"/>
+  <nd ref="242171641"/>
+  <nd ref="242171636"/>
+  <nd ref="242171650"/>
+  <nd ref="242171646"/>
+  <nd ref="242171660"/>
+  <nd ref="242171655"/>
+  <nd ref="242171592"/>
+  <nd ref="242171602"/>
+  <nd ref="242171607"/>
+  <nd ref="242171623"/>
+  <nd ref="242171617"/>
+  <nd ref="242171544"/>
+  <nd ref="242171550"/>
+  <nd ref="242171555"/>
+  <nd ref="242171559"/>
+  <nd ref="242171564"/>
+  <nd ref="242171569"/>
+  <nd ref="242171572"/>
+  <nd ref="242171583"/>
+  <nd ref="242171503"/>
+  <nd ref="242171507"/>
+  <nd ref="242171512"/>
+  <nd ref="242171517"/>
+  <nd ref="242171522"/>
+  <nd ref="242171529"/>
+  <nd ref="242171535"/>
+  <nd ref="242171540"/>
+  <nd ref="242171833"/>
+  <nd ref="242171828"/>
+  <nd ref="242171826"/>
+  <nd ref="242171825"/>
+  <nd ref="242171822"/>
+  <nd ref="242171816"/>
+  <nd ref="242171811"/>
+  <nd ref="242171807"/>
+  <nd ref="242171802"/>
+  <nd ref="242171797"/>
+  <nd ref="242171793"/>
+  <nd ref="242171788"/>
+  <nd ref="242171781"/>
+  <nd ref="242171776"/>
+  <nd ref="242171772"/>
+  <nd ref="242171766"/>
+  <nd ref="242171757"/>
+  <nd ref="242171762"/>
+  <nd ref="242171743"/>
+  <nd ref="242171751"/>
+  <nd ref="242171732"/>
+  <nd ref="242171736"/>
+  <nd ref="242171711"/>
+  <nd ref="242171725"/>
+  <nd ref="242171695"/>
+  <nd ref="242171699"/>
+  <nd ref="242171685"/>
+  <nd ref="242171690"/>
+  <nd ref="242171674"/>
+  <nd ref="242171680"/>
+  <nd ref="242171664"/>
+  <nd ref="242171669"/>
+  <nd ref="242171984"/>
+  <nd ref="242171979"/>
+  <nd ref="242171994"/>
+  <nd ref="242171989"/>
+  <nd ref="242171963"/>
+  <nd ref="242171958"/>
+  <nd ref="242171973"/>
+  <nd ref="242171968"/>
+  <nd ref="242171940"/>
+  <nd ref="242171935"/>
+  <nd ref="242171952"/>
+  <nd ref="242171946"/>
+  <nd ref="242171920"/>
+  <nd ref="242171914"/>
+  <nd ref="242171929"/>
+  <nd ref="242171925"/>
+  <nd ref="242171895"/>
+  <nd ref="242171899"/>
+  <nd ref="242171904"/>
+  <nd ref="242171909"/>
+  <nd ref="242171875"/>
+  <nd ref="242171880"/>
+  <nd ref="242171885"/>
+  <nd ref="242171890"/>
+  <nd ref="242171856"/>
+  <nd ref="242171861"/>
+  <nd ref="242171865"/>
+  <nd ref="242171870"/>
+  <nd ref="242171838"/>
+  <nd ref="242171841"/>
+  <nd ref="242171846"/>
+  <nd ref="242171851"/>
+  <nd ref="242172194"/>
+  <nd ref="242172198"/>
+  <nd ref="242172201"/>
+  <nd ref="242172206"/>
+  <nd ref="242172179"/>
+  <nd ref="242172183"/>
+  <nd ref="242172187"/>
+  <nd ref="242172190"/>
+  <nd ref="242172267"/>
+  <nd ref="242172273"/>
+  <nd ref="242172279"/>
+  <nd ref="242172289"/>
+  <nd ref="242172210"/>
+  <nd ref="242172224"/>
+  <nd ref="242172239"/>
+  <nd ref="242172253"/>
+  <nd ref="242172318"/>
+  <nd ref="242172314"/>
+  <nd ref="242172328"/>
+  <nd ref="242172323"/>
+  <nd ref="242172299"/>
+  <nd ref="242172294"/>
+  <nd ref="242172309"/>
+  <nd ref="242172303"/>
+  <nd ref="242172360"/>
+  <nd ref="242172355"/>
+  <nd ref="242172372"/>
+  <nd ref="242172366"/>
+  <nd ref="242172340"/>
+  <nd ref="242172333"/>
+  <nd ref="242172350"/>
+  <nd ref="242172344"/>
+  <nd ref="242172033"/>
+  <nd ref="242172039"/>
+  <nd ref="242172020"/>
+  <nd ref="242172026"/>
+  <nd ref="242172010"/>
+  <nd ref="242172016"/>
+  <nd ref="242171997"/>
+  <tag k="admin_level" v="2"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="name" v="ليبيا - مصر"/>
+  <tag k="name:ar" v="ليبيا - مصر"/>
+  <tag k="name:de" v="Ägypten - Libyen"/>
+  <tag k="name:en" v="Egypt - Libya"/>
+  <tag k="name:fr" v="Égypte - Libye"/>
+  <tag k="name:pl" v="Egipt - Libia"/>
+  <tag k="note" v="looks very inaccurate with Bing layer, left water ditch, right fence"/>
+  <tag k="source" v="CIA World database II"/>
+  <tag k="wdb:source" v="CIA World database II - africa-bdy.txt - segment 1"/>
+ </way>
+ <relation id="192758" visible="true" version="105" changeset="161203916" timestamp="2025-01-10T12:41:36Z" user="Сергей Бардин" uid="4428755">
+  <member type="node" ref="1699640925" role="admin_centre"/>
+  <member type="node" ref="432425023" role="label"/>
+  <member type="way" ref="485437371" role="outer"/>
+  <member type="way" ref="485437349" role="outer"/>
+  <member type="way" ref="520038640" role="outer"/>
+  <member type="way" ref="100394364" role="outer"/>
+  <member type="way" ref="485437350" role="outer"/>
+  <member type="way" ref="485498514" role="outer"/>
+  <member type="way" ref="485498513" role="outer"/>
+  <member type="way" ref="22688898" role="outer"/>
+  <member type="way" ref="152290147" role="outer"/>
+  <member type="way" ref="152290145" role="outer"/>
+  <member type="way" ref="311691540" role="outer"/>
+  <member type="way" ref="152290146" role="outer"/>
+  <member type="way" ref="311691537" role="outer"/>
+  <member type="way" ref="522969690" role="outer"/>
+  <member type="way" ref="464707582" role="outer"/>
+  <member type="way" ref="311691539" role="outer"/>
+  <member type="way" ref="85851146" role="outer"/>
+  <member type="way" ref="22688535" role="outer"/>
+  <member type="way" ref="31617505" role="outer"/>
+  <member type="way" ref="31617506" role="outer"/>
+  <member type="way" ref="477534330" role="outer"/>
+  <member type="way" ref="22688468" role="outer"/>
+  <member type="way" ref="284530558" role="outer"/>
+  <member type="way" ref="22758910" role="outer"/>
+  <member type="way" ref="152290149" role="outer"/>
+  <member type="way" ref="228631989" role="outer"/>
+  <member type="way" ref="152290150" role="outer"/>
+  <member type="way" ref="104482780" role="outer"/>
+  <member type="way" ref="104482779" role="outer"/>
+  <member type="way" ref="302819492" role="outer"/>
+  <member type="way" ref="157675601" role="outer"/>
+  <member type="way" ref="152290168" role="outer"/>
+  <member type="way" ref="152290169" role="outer"/>
+  <member type="way" ref="1238636820" role="outer"/>
+  <member type="way" ref="152290187" role="outer"/>
+  <member type="way" ref="152290185" role="outer"/>
+  <member type="way" ref="993973533" role="outer"/>
+  <member type="way" ref="993973530" role="outer"/>
+  <member type="way" ref="993973531" role="outer"/>
+  <member type="way" ref="286161374" role="outer"/>
+  <member type="way" ref="152290186" role="outer"/>
+  <member type="way" ref="152290181" role="outer"/>
+  <member type="way" ref="152290175" role="outer"/>
+  <member type="way" ref="1137439635" role="outer"/>
+  <member type="way" ref="157675607" role="outer"/>
+  <member type="way" ref="302819493" role="outer"/>
+  <member type="way" ref="42127375" role="outer"/>
+  <member type="relation" ref="2060171" role="subarea"/>
+  <member type="relation" ref="2060172" role="subarea"/>
+  <member type="relation" ref="2060174" role="subarea"/>
+  <member type="relation" ref="2060179" role="subarea"/>
+  <member type="relation" ref="2060170" role="subarea"/>
+  <member type="relation" ref="2060169" role="subarea"/>
+  <member type="relation" ref="2060178" role="subarea"/>
+  <member type="relation" ref="2060185" role="subarea"/>
+  <member type="relation" ref="2060180" role="subarea"/>
+  <member type="relation" ref="3795005" role="subarea"/>
+  <member type="relation" ref="2060186" role="subarea"/>
+  <member type="relation" ref="2060176" role="subarea"/>
+  <member type="relation" ref="2060189" role="subarea"/>
+  <member type="relation" ref="2060183" role="subarea"/>
+  <member type="relation" ref="2060175" role="subarea"/>
+  <member type="relation" ref="2060182" role="subarea"/>
+  <member type="relation" ref="2060177" role="subarea"/>
+  <member type="relation" ref="2060188" role="subarea"/>
+  <member type="relation" ref="2060184" role="subarea"/>
+  <member type="relation" ref="2060187" role="subarea"/>
+  <member type="relation" ref="2060173" role="subarea"/>
+  <member type="relation" ref="2060181" role="subarea"/>
+  <tag k="admin_level" v="2"/>
+  <tag k="alt_name:grc" v="Λιβύη"/>
+  <tag k="alt_name:vi" v="Libi"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="default_language" v="ar"/>
+  <tag k="flag" v="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"/>
+  <tag k="ISO3166-1" v="LY"/>
+  <tag k="ISO3166-1:alpha2" v="LY"/>
+  <tag k="ISO3166-1:alpha3" v="LBY"/>
+  <tag k="ISO3166-1:numeric" v="434"/>
+  <tag k="name" v="ليبيا"/>
+  <tag k="name:ace" v="Libya"/>
+  <tag k="name:af" v="Libië"/>
+  <tag k="name:als" v="Libyen"/>
+  <tag k="name:am" v="ሊቢያ"/>
+  <tag k="name:an" v="Libia"/>
+  <tag k="name:ang" v="Libia"/>
+  <tag k="name:ar" v="ليبيا"/>
+  <tag k="name:arc" v="ܠܘܒܐ"/>
+  <tag k="name:arz" v="ليبيا"/>
+  <tag k="name:ast" v="Libia"/>
+  <tag k="name:az" v="Liviya"/>
+  <tag k="name:azb" v="لیبی"/>
+  <tag k="name:ba" v="Ливия"/>
+  <tag k="name:bar" v="Libyen"/>
+  <tag k="name:bat-smg" v="Lėbėjė"/>
+  <tag k="name:bcl" v="Libya"/>
+  <tag k="name:be" v="Лівія"/>
+  <tag k="name:ber" v="ⵍⵉⴱⵢⴰ"/>
+  <tag k="name:be-tarask" v="Лібія"/>
+  <tag k="name:bg" v="Либия"/>
+  <tag k="name:bjn" v="Libya"/>
+  <tag k="name:bm" v="Libya"/>
+  <tag k="name:bn" v="লিবিয়া"/>
+  <tag k="name:bo" v="ལི་པི་ཡ།"/>
+  <tag k="name:bpy" v="লিবিয়া"/>
+  <tag k="name:br" v="Libia"/>
+  <tag k="name:bs" v="Libija"/>
+  <tag k="name:bug" v="Libya"/>
+  <tag k="name:bxr" v="Ливи"/>
+  <tag k="name:ca" v="Líbia"/>
+  <tag k="name:cbk-zam" v="Libya"/>
+  <tag k="name:ce" v="Ливи"/>
+  <tag k="name:ceb" v="Libya"/>
+  <tag k="name:ckb" v="لیبیا"/>
+  <tag k="name:cop" v="ϯⲖⲩⲃⲏ"/>
+  <tag k="name:crh" v="Libiya"/>
+  <tag k="name:cs" v="Libye"/>
+  <tag k="name:cv" v="Ливи"/>
+  <tag k="name:cy" v="Libya"/>
+  <tag k="name:da" v="Libyen"/>
+  <tag k="name:de" v="Libyen"/>
+  <tag k="name:din" v="Libya"/>
+  <tag k="name:diq" v="Libya"/>
+  <tag k="name:dsb" v="Libyska"/>
+  <tag k="name:dv" v="ލީބިޔާ"/>
+  <tag k="name:ee" v="Libya"/>
+  <tag k="name:el" v="Λιβύη"/>
+  <tag k="name:en" v="Libya"/>
+  <tag k="name:eo" v="Libio"/>
+  <tag k="name:es" v="Libia"/>
+  <tag k="name:et" v="Liibüa"/>
+  <tag k="name:eu" v="Libia"/>
+  <tag k="name:ext" v="Líbia"/>
+  <tag k="name:fa" v="لیبی"/>
+  <tag k="name:fi" v="Libya"/>
+  <tag k="name:fo" v="Libya"/>
+  <tag k="name:fr" v="Libye"/>
+  <tag k="name:frp" v="Libie"/>
+  <tag k="name:frr" v="Libyen"/>
+  <tag k="name:fy" v="Lybje"/>
+  <tag k="name:ga" v="An Libia"/>
+  <tag k="name:gag" v="Liviya"/>
+  <tag k="name:gd" v="Libia"/>
+  <tag k="name:gl" v="Libia"/>
+  <tag k="name:gn" v="Livia"/>
+  <tag k="name:grc" v="Κυρηναϊκή"/>
+  <tag k="name:gv" v="Yn Leeb"/>
+  <tag k="name:ha" v="Libya"/>
+  <tag k="name:hak" v="Libya"/>
+  <tag k="name:he" v="לוב"/>
+  <tag k="name:hi" v="लीबिया"/>
+  <tag k="name:hif" v="Libya"/>
+  <tag k="name:hr" v="Libija"/>
+  <tag k="name:hsb" v="Libyska"/>
+  <tag k="name:ht" v="Libi"/>
+  <tag k="name:hu" v="Líbia"/>
+  <tag k="name:hy" v="Լիբիա"/>
+  <tag k="name:hyw" v="Լիպիա"/>
+  <tag k="name:ia" v="Libya"/>
+  <tag k="name:id" v="Libya"/>
+  <tag k="name:ie" v="Libya"/>
+  <tag k="name:ilo" v="Libya"/>
+  <tag k="name:io" v="Libia"/>
+  <tag k="name:is" v="Líbýa"/>
+  <tag k="name:it" v="Libia"/>
+  <tag k="name:ja" v="リビア"/>
+  <tag k="name:jbo" v="libgu'e"/>
+  <tag k="name:jv" v="Libya"/>
+  <tag k="name:ka" v="ლიბია"/>
+  <tag k="name:kab" v="Libya"/>
+  <tag k="name:kg" v="Libia"/>
+  <tag k="name:kk" v="Ливия"/>
+  <tag k="name:kl" v="Libya"/>
+  <tag k="name:kn" v="ಲಿಬಿಯಾ"/>
+  <tag k="name:ko" v="리비아"/>
+  <tag k="name:ks" v="لِبیا"/>
+  <tag k="name:ku" v="Lîbya"/>
+  <tag k="name:ku-Arab" v="لیبیا"/>
+  <tag k="name:kw" v="Libi"/>
+  <tag k="name:ky" v="Ливия"/>
+  <tag k="name:la" v="Libya"/>
+  <tag k="name:lad" v="Libya"/>
+  <tag k="name:lb" v="Libyen"/>
+  <tag k="name:li" v="Libië"/>
+  <tag k="name:lij" v="Libia"/>
+  <tag k="name:lmo" v="Libia"/>
+  <tag k="name:ln" v="Libîya"/>
+  <tag k="name:lt" v="Libija"/>
+  <tag k="name:lv" v="Lībija"/>
+  <tag k="name:lzh" v="利比亞"/>
+  <tag k="name:map-bms" v="Libya"/>
+  <tag k="name:mdf" v="Ливие"/>
+  <tag k="name:mg" v="Libia"/>
+  <tag k="name:mi" v="Rīpia"/>
+  <tag k="name:min" v="Libya"/>
+  <tag k="name:mk" v="Либија"/>
+  <tag k="name:ml" v="ലിബിയ"/>
+  <tag k="name:mn" v="Ливи"/>
+  <tag k="name:mr" v="लीबिया"/>
+  <tag k="name:mrj" v="Ливи"/>
+  <tag k="name:ms" v="Libya"/>
+  <tag k="name:mt" v="Libja"/>
+  <tag k="name:my" v="လစ်ဗျားနိုင်ငံ"/>
+  <tag k="name:mzn" v="لیبی"/>
+  <tag k="name:nah" v="Libia"/>
+  <tag k="name:nan" v="Libya"/>
+  <tag k="name:nap" v="Libbia"/>
+  <tag k="name:nds" v="Libyen"/>
+  <tag k="name:nds-nl" v="Libië"/>
+  <tag k="name:ne" v="लिबिया"/>
+  <tag k="name:new" v="लिब्या"/>
+  <tag k="name:nl" v="Libië"/>
+  <tag k="name:nn" v="Libya"/>
+  <tag k="name:no" v="Libya"/>
+  <tag k="name:nov" v="Libia"/>
+  <tag k="name:nso" v="Libya"/>
+  <tag k="name:nv" v="Łíbya"/>
+  <tag k="name:oc" v="Libia"/>
+  <tag k="name:or" v="ଲିବିଆ"/>
+  <tag k="name:os" v="Ливи"/>
+  <tag k="name:pa" v="ਲੀਬੀਆ"/>
+  <tag k="name:pag" v="Libia"/>
+  <tag k="name:pam" v="Libya"/>
+  <tag k="name:pap" v="Libia"/>
+  <tag k="name:pfl" v="Libye"/>
+  <tag k="name:pih" v="Libiia"/>
+  <tag k="name:pl" v="Libia"/>
+  <tag k="name:pms" v="Libia"/>
+  <tag k="name:pnb" v="لبیا"/>
+  <tag k="name:ps" v="لېبيا"/>
+  <tag k="name:pt" v="Líbia"/>
+  <tag k="name:qu" v="Libya"/>
+  <tag k="name:ro" v="Libia"/>
+  <tag k="name:ru" v="Ливия"/>
+  <tag k="name:rue" v="Лібія"/>
+  <tag k="name:rw" v="Libiya"/>
+  <tag k="name:sa" v="लिबिया"/>
+  <tag k="name:sah" v="Лиибийэ"/>
+  <tag k="name:sc" v="Lìbia"/>
+  <tag k="name:scn" v="Libbia"/>
+  <tag k="name:sco" v="Libie"/>
+  <tag k="name:se" v="Libya"/>
+  <tag k="name:sg" v="Libïi"/>
+  <tag k="name:sh" v="Libija"/>
+  <tag k="name:si" v="ලිබියාව"/>
+  <tag k="name:simple" v="Libya"/>
+  <tag k="name:sk" v="Líbya"/>
+  <tag k="name:sl" v="Libija"/>
+  <tag k="name:sm" v="Libya"/>
+  <tag k="name:smn" v="Libya"/>
+  <tag k="name:sms" v="Libya"/>
+  <tag k="name:sn" v="Libya"/>
+  <tag k="name:so" v="Libiya"/>
+  <tag k="name:sq" v="Libia"/>
+  <tag k="name:sr" v="Либија"/>
+  <tag k="name:ss" v="ILibhiya"/>
+  <tag k="name:stq" v="Libyen"/>
+  <tag k="name:su" v="Libya"/>
+  <tag k="name:sv" v="Libyen"/>
+  <tag k="name:sw" v="Libya"/>
+  <tag k="name:syc" v="ܠܘܒܐ"/>
+  <tag k="name:szl" v="Libijo"/>
+  <tag k="name:ta" v="லிபியா"/>
+  <tag k="name:te" v="లిబియా"/>
+  <tag k="name:tg" v="Либия"/>
+  <tag k="name:th" v="ประเทศลิเบีย"/>
+  <tag k="name:ti" v="ሊቢያ"/>
+  <tag k="name:tk" v="Liwiýa"/>
+  <tag k="name:tl" v="Libya"/>
+  <tag k="name:tr" v="Libya"/>
+  <tag k="name:ts" v="Libiya"/>
+  <tag k="name:tt" v="Ливия"/>
+  <tag k="name:tzl" v="Libia"/>
+  <tag k="name:ug" v="لىۋىيە"/>
+  <tag k="name:uk" v="Лівія"/>
+  <tag k="name:ur" v="لیبیا"/>
+  <tag k="name:uz" v="Liviya"/>
+  <tag k="name:vec" v="Łibia"/>
+  <tag k="name:vi" v="Libya"/>
+  <tag k="name:vls" v="Libië"/>
+  <tag k="name:vo" v="Lübän"/>
+  <tag k="name:vro" v="Liibüä"/>
+  <tag k="name:wa" v="Libeye"/>
+  <tag k="name:war" v="Libya"/>
+  <tag k="name:wo" v="Libi"/>
+  <tag k="name:xal" v="Либудин Аһу Социгализмин Араб Улс Орн"/>
+  <tag k="name:xmf" v="ლიბია"/>
+  <tag k="name:yi" v="ליביע"/>
+  <tag k="name:yo" v="Líbyà"/>
+  <tag k="name:yue" v="利比亞"/>
+  <tag k="name:zea" v="Libië"/>
+  <tag k="name:zgh" v="ⵍⵉⴱⵢⴰ"/>
+  <tag k="name:zh" v="利比亚"/>
+  <tag k="name:zh-Hans" v="利比亚"/>
+  <tag k="name:zh-Hant" v="利比亞"/>
+  <tag k="name:zu" v="ILibiya"/>
+  <tag k="official_name" v="دولة ليبيا"/>
+  <tag k="official_name:af" v="Staat Libië"/>
+  <tag k="official_name:ar" v="دولة ليبيا"/>
+  <tag k="official_name:ca" v="Estat de Líbia"/>
+  <tag k="official_name:cs" v="Libyjský stát"/>
+  <tag k="official_name:de" v="Staat Libyen"/>
+  <tag k="official_name:es" v="Estado de Libia"/>
+  <tag k="official_name:fa" v="دولت لیبی"/>
+  <tag k="official_name:fr" v="État de Libye"/>
+  <tag k="official_name:grc" v="Πολιτεία τῆς Κυρηναϊκῆς"/>
+  <tag k="official_name:nl" v="Staat Libië"/>
+  <tag k="official_name:sr" v="Држава Либија"/>
+  <tag k="official_name:ur" v="ریاست لیبیا"/>
+  <tag k="timezone" v="Africa/Tripoli"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q1016"/>
+  <tag k="wikipedia" v="ar:ليبيا"/>
+ </relation>
+ <relation id="1473947" visible="true" version="119" changeset="174560059" timestamp="2025-11-12T13:32:20Z" user="Flynn Marquardt" uid="100357">
+  <member type="way" ref="306009634" role="outer"/>
+  <member type="way" ref="22587627" role="outer"/>
+  <member type="way" ref="707454735" role="outer"/>
+  <member type="way" ref="255823728" role="outer"/>
+  <member type="way" ref="255823727" role="outer"/>
+  <member type="way" ref="255823731" role="outer"/>
+  <member type="way" ref="255823729" role="outer"/>
+  <member type="way" ref="306008769" role="outer"/>
+  <member type="way" ref="306008770" role="outer"/>
+  <member type="way" ref="255823730" role="outer"/>
+  <member type="way" ref="152290149" role="outer"/>
+  <member type="way" ref="228631989" role="outer"/>
+  <member type="way" ref="152290150" role="outer"/>
+  <member type="way" ref="104482780" role="outer"/>
+  <member type="way" ref="104482779" role="outer"/>
+  <member type="way" ref="302819492" role="outer"/>
+  <member type="way" ref="157675601" role="outer"/>
+  <member type="way" ref="42127374" role="outer"/>
+  <member type="way" ref="228631990" role="outer"/>
+  <member type="way" ref="228633438" role="outer"/>
+  <member type="way" ref="288268010" role="outer"/>
+  <member type="way" ref="307287024" role="outer"/>
+  <member type="way" ref="307287031" role="outer"/>
+  <member type="way" ref="307287027" role="outer"/>
+  <member type="way" ref="307287028" role="outer"/>
+  <member type="way" ref="228505626" role="outer"/>
+  <member type="way" ref="42127354" role="outer"/>
+  <member type="way" ref="1220317428" role="outer"/>
+  <member type="way" ref="759972281" role="outer"/>
+  <member type="way" ref="25057104" role="outer"/>
+  <member type="way" ref="737413343" role="outer"/>
+  <member type="way" ref="95211614" role="outer"/>
+  <member type="way" ref="95260257" role="outer"/>
+  <member type="way" ref="95260253" role="outer"/>
+  <member type="way" ref="228505625" role="outer"/>
+  <member type="way" ref="151513577" role="outer"/>
+  <member type="way" ref="38346033" role="outer"/>
+  <member type="way" ref="38346048" role="outer"/>
+  <member type="way" ref="136201078" role="outer"/>
+  <member type="way" ref="42129574" role="outer"/>
+  <member type="way" ref="407496384" role="outer"/>
+  <member type="way" ref="42129577" role="outer"/>
+  <member type="way" ref="228505627" role="outer"/>
+  <member type="way" ref="318900938" role="outer"/>
+  <member type="way" ref="295100947" role="outer"/>
+  <member type="way" ref="318900937" role="outer"/>
+  <member type="way" ref="317308949" role="outer"/>
+  <member type="node" ref="271613766" role="admin_centre"/>
+  <member type="node" ref="424316018" role="label"/>
+  <member type="relation" ref="3061846" role="subarea"/>
+  <member type="relation" ref="3061757" role="subarea"/>
+  <member type="relation" ref="3726184" role="subarea"/>
+  <member type="relation" ref="3061758" role="subarea"/>
+  <member type="relation" ref="3824513" role="subarea"/>
+  <member type="relation" ref="3726170" role="subarea"/>
+  <member type="relation" ref="4103336" role="subarea"/>
+  <member type="relation" ref="4103403" role="subarea"/>
+  <member type="relation" ref="4103404" role="subarea"/>
+  <member type="relation" ref="3726124" role="subarea"/>
+  <member type="relation" ref="3584607" role="subarea"/>
+  <member type="relation" ref="3824206" role="subarea"/>
+  <member type="relation" ref="3062184" role="subarea"/>
+  <member type="relation" ref="3060793" role="subarea"/>
+  <member type="relation" ref="4103337" role="subarea"/>
+  <member type="relation" ref="4103405" role="subarea"/>
+  <member type="relation" ref="3726189" role="subarea"/>
+  <member type="relation" ref="3726211" role="subarea"/>
+  <member type="relation" ref="3726175" role="subarea"/>
+  <member type="relation" ref="3824207" role="subarea"/>
+  <member type="relation" ref="3061826" role="subarea"/>
+  <member type="relation" ref="4103406" role="subarea"/>
+  <member type="relation" ref="3726186" role="subarea"/>
+  <member type="relation" ref="4103407" role="subarea"/>
+  <member type="relation" ref="3060792" role="subarea"/>
+  <member type="relation" ref="3062185" role="subarea"/>
+  <member type="relation" ref="3061827" role="subarea"/>
+  <tag k="admin_level" v="2"/>
+  <tag k="alt_name:ace" v="Mesir"/>
+  <tag k="alt_name:ady" v="Египет"/>
+  <tag k="alt_name:as" v="মিছৰ"/>
+  <tag k="alt_name:ba" v="Египет"/>
+  <tag k="alt_name:bar" v="Ägypten"/>
+  <tag k="alt_name:bat-smg" v="Egipts"/>
+  <tag k="alt_name:be-tarask" v="Эґі́пет"/>
+  <tag k="alt_name:bh" v="इजिप्ट"/>
+  <tag k="alt_name:br" v="Ejipt"/>
+  <tag k="alt_name:ce" v="Еги́пет"/>
+  <tag k="alt_name:da" v="Ægypten"/>
+  <tag k="alt_name:ee" v="Egipte"/>
+  <tag k="alt_name:eo" v="Egiptujo;Egipto"/>
+  <tag k="alt_name:gd" v="Èiphit"/>
+  <tag k="alt_name:gu" v="મિસર"/>
+  <tag k="alt_name:gv" v="Eajipt"/>
+  <tag k="alt_name:hif" v="Misr"/>
+  <tag k="alt_name:is" v="Egiptaland"/>
+  <tag k="alt_name:kab" v="Igibt"/>
+  <tag k="alt_name:kg" v="Ngipiti"/>
+  <tag k="alt_name:ky" v="Мисир"/>
+  <tag k="alt_name:lfn" v="Egipte"/>
+  <tag k="alt_name:ln" v="Ejipiti;Misiri"/>
+  <tag k="alt_name:qu" v="Misir"/>
+  <tag k="alt_name:rn" v="Misiri"/>
+  <tag k="alt_name:scn" v="Agittu"/>
+  <tag k="alt_name:sl" v="Misr"/>
+  <tag k="alt_name:sq" v="Misiri"/>
+  <tag k="alt_name:th" v="อียิปต์"/>
+  <tag k="alt_name:ts" v="Egypt"/>
+  <tag k="alt_name:ty" v="Egipt"/>
+  <tag k="alt_name:wo" v="Ejipt"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="default_language" v="ar"/>
+  <tag k="driving_side" v="right"/>
+  <tag k="flag" v="https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"/>
+  <tag k="ISO3166-1" v="EG"/>
+  <tag k="ISO3166-1:alpha2" v="EG"/>
+  <tag k="ISO3166-1:alpha3" v="EGY"/>
+  <tag k="ISO3166-1:numeric" v="818"/>
+  <tag k="name" v="مصر"/>
+  <tag k="name:ab" v="Мы́сры"/>
+  <tag k="name:ace" v="Meusé"/>
+  <tag k="name:ady" v="Мысыр"/>
+  <tag k="name:af" v="Egipte"/>
+  <tag k="name:ak" v="Igyipt"/>
+  <tag k="name:als" v="Ägypte"/>
+  <tag k="name:am" v="ግብፅ"/>
+  <tag k="name:an" v="Echipto"/>
+  <tag k="name:ang" v="Ǣgypte"/>
+  <tag k="name:ar" v="مصر"/>
+  <tag k="name:arc" v="ܡܨܪܝܢ"/>
+  <tag k="name:ar-Latn" v="Miṣr"/>
+  <tag k="name:ary" v="مصر"/>
+  <tag k="name:arz" v="مصر"/>
+  <tag k="name:as" v="ইজিপ্ত"/>
+  <tag k="name:ast" v="Exiptu"/>
+  <tag k="name:av" v="Еги́пет"/>
+  <tag k="name:avk" v="Misra"/>
+  <tag k="name:ay" v="Iqiqtu"/>
+  <tag k="name:az" v="Misir"/>
+  <tag k="name:azb" v="میصر"/>
+  <tag k="name:ba" v="Мысыр"/>
+  <tag k="name:ban" v="Mesir"/>
+  <tag k="name:bar" v="Egyptn"/>
+  <tag k="name:bat-smg" v="Egėpts"/>
+  <tag k="name:bcl" v="Ehipto"/>
+  <tag k="name:be" v="Егі́пет"/>
+  <tag k="name:ber" v="ⵎⵉⵙⵔ"/>
+  <tag k="name:be-tarask" v="Эгіпет"/>
+  <tag k="name:bg" v="Египет"/>
+  <tag k="name:bh" v="मिस्र"/>
+  <tag k="name:bjn" v="Mesir"/>
+  <tag k="name:bm" v="Misra"/>
+  <tag k="name:bn" v="মিশর"/>
+  <tag k="name:bo" v="ཨའི་ཅི།"/>
+  <tag k="name:bpy" v="মিশর"/>
+  <tag k="name:br" v="Egipt"/>
+  <tag k="name:bs" v="Egipat"/>
+  <tag k="name:bug" v="Mesir"/>
+  <tag k="name:bxr" v="Египет"/>
+  <tag k="name:ca" v="Egipte"/>
+  <tag k="name:cbk-zam" v="Egipto"/>
+  <tag k="name:cdo" v="Ăi-gĭk"/>
+  <tag k="name:ce" v="Мисар"/>
+  <tag k="name:ceb" v="Ehipto"/>
+  <tag k="name:ch" v="Ehiptu"/>
+  <tag k="name:chr" v="ᎢᏥᏈᎢ"/>
+  <tag k="name:chy" v="Egypt"/>
+  <tag k="name:ckb" v="میسر"/>
+  <tag k="name:cop" v="Ⲭⲏⲙⲓ"/>
+  <tag k="name:crh" v="Mısır"/>
+  <tag k="name:cs" v="Egypt"/>
+  <tag k="name:csb" v="Egipt"/>
+  <tag k="name:cu" v="Єгѷптъ"/>
+  <tag k="name:cy" v="Yr Aifft"/>
+  <tag k="name:da" v="Egypten"/>
+  <tag k="name:de" v="Ägypten"/>
+  <tag k="name:din" v="Ijip"/>
+  <tag k="name:diq" v="Mısır"/>
+  <tag k="name:dsb" v="Egyptojska"/>
+  <tag k="name:dty" v="इजिप्ट"/>
+  <tag k="name:dv" v="މިޞްރު"/>
+  <tag k="name:ee" v="Edzipti"/>
+  <tag k="name:el" v="Αίγυπτος"/>
+  <tag k="name:en" v="Egypt"/>
+  <tag k="name:eo" v="Egiptio"/>
+  <tag k="name:es" v="Egipto"/>
+  <tag k="name:et" v="Egiptus"/>
+  <tag k="name:eu" v="Egipto"/>
+  <tag k="name:ext" v="Egitu"/>
+  <tag k="name:fa" v="مصر"/>
+  <tag k="name:ff" v="Ejipt"/>
+  <tag k="name:fi" v="Egypti"/>
+  <tag k="name:fj" v="Ijipta"/>
+  <tag k="name:fo" v="Egyptaland"/>
+  <tag k="name:fr" v="Égypte"/>
+  <tag k="name:frp" v="Èg·ipte"/>
+  <tag k="name:frr" v="Ägypten"/>
+  <tag k="name:fur" v="Egjit"/>
+  <tag k="name:fy" v="Egypte"/>
+  <tag k="name:ga" v="An Éigipt"/>
+  <tag k="name:gag" v="Egipet"/>
+  <tag k="name:gan" v="埃及"/>
+  <tag k="name:gcr" v="Léjip"/>
+  <tag k="name:gd" v="An Èipheit"/>
+  <tag k="name:gl" v="Exipto"/>
+  <tag k="name:gn" v="Ehipto"/>
+  <tag k="name:gom" v="ईजिप्त"/>
+  <tag k="name:gor" v="Mesir"/>
+  <tag k="name:got" v="𐌰𐌹𐌲𐍅𐍀𐍄𐌰𐌿"/>
+  <tag k="name:grc" v="Αἴγυπτος"/>
+  <tag k="name:gu" v="ઇજિપ્ત"/>
+  <tag k="name:gv" v="Yn Egypt"/>
+  <tag k="name:ha" v="Misra"/>
+  <tag k="name:hak" v="Âi-khi̍p"/>
+  <tag k="name:haw" v="‘Aikupika"/>
+  <tag k="name:he" v="מצרים"/>
+  <tag k="name:hi" v="मिस्र"/>
+  <tag k="name:hif" v="Egypt"/>
+  <tag k="name:hr" v="Egipat"/>
+  <tag k="name:hsb" v="Egyptowska"/>
+  <tag k="name:ht" v="Ejip"/>
+  <tag k="name:hu" v="Egyiptom"/>
+  <tag k="name:hy" v="Եգիպտոս"/>
+  <tag k="name:hyw" v="Եգիպտոս"/>
+  <tag k="name:ia" v="Egypto"/>
+  <tag k="name:id" v="Mesir"/>
+  <tag k="name:ie" v="Egiptia"/>
+  <tag k="name:ig" v="Egypt"/>
+  <tag k="name:ilo" v="Ehípto"/>
+  <tag k="name:inh" v="Мисаре"/>
+  <tag k="name:io" v="Egiptia"/>
+  <tag k="name:is" v="Egyptaland"/>
+  <tag k="name:it" v="Egitto"/>
+  <tag k="name:ja" v="エジプト"/>
+  <tag k="name:jam" v="Iijip"/>
+  <tag k="name:jbo" v="misrygu'e"/>
+  <tag k="name:jv" v="Mesir"/>
+  <tag k="name:ka" v="ეგვიპტე"/>
+  <tag k="name:kaa" v="Mısır"/>
+  <tag k="name:kab" v="Maṣer"/>
+  <tag k="name:kab-Tfng" v="ⵎⵉⵙⵔ"/>
+  <tag k="name:kbp" v="Egipiti"/>
+  <tag k="name:kg" v="Misiri"/>
+  <tag k="name:ki" v="Egypt"/>
+  <tag k="name:kk" v="Мысыр"/>
+  <tag k="name:kl" v="Egypt"/>
+  <tag k="name:km" v="អេហ៊្សីប"/>
+  <tag k="name:kn" v="ಈಜಿಪ್ಟ್"/>
+  <tag k="name:ko" v="이집트"/>
+  <tag k="name:ks" v="مِسر"/>
+  <tag k="name:ksh" v="Äjüpte"/>
+  <tag k="name:ku" v="Misir"/>
+  <tag k="name:kv" v="Египет"/>
+  <tag k="name:kw" v="Ejyp"/>
+  <tag k="name:ky" v="Египет"/>
+  <tag k="name:la" v="Aegyptus"/>
+  <tag k="name:lad" v="Ayifto"/>
+  <tag k="name:lb" v="Egypten"/>
+  <tag k="name:lbe" v="Мисри"/>
+  <tag k="name:lez" v="Мисри"/>
+  <tag k="name:lfn" v="Misre"/>
+  <tag k="name:lg" v="Egypt"/>
+  <tag k="name:li" v="Egypte"/>
+  <tag k="name:lij" v="Egitto"/>
+  <tag k="name:lld" v="Egit"/>
+  <tag k="name:lmo" v="Egit"/>
+  <tag k="name:ln" v="Ejipte"/>
+  <tag k="name:lo" v="ອີຢິບ"/>
+  <tag k="name:lt" v="Egiptas"/>
+  <tag k="name:lv" v="Ēģipte"/>
+  <tag k="name:lzh" v="埃及"/>
+  <tag k="name:mai" v="मिस्र"/>
+  <tag k="name:map-bms" v="Mesir"/>
+  <tag k="name:mdf" v="Египет"/>
+  <tag k="name:mg" v="Ejipta"/>
+  <tag k="name:mi" v="Īhipa"/>
+  <tag k="name:min" v="Masia"/>
+  <tag k="name:mk" v="Египет"/>
+  <tag k="name:ml" v="ഈജിപ്ത്"/>
+  <tag k="name:mn" v="Египет"/>
+  <tag k="name:mr" v="इजिप्त"/>
+  <tag k="name:mrj" v="Египет"/>
+  <tag k="name:ms" v="Mesir"/>
+  <tag k="name:mt" v="Eġittu"/>
+  <tag k="name:my" v="အီဂျစ်နိုင်ငံ"/>
+  <tag k="name:myv" v="Египет Мастор"/>
+  <tag k="name:mzn" v="مصر"/>
+  <tag k="name:na" v="Idjipt"/>
+  <tag k="name:nah" v="Egipto"/>
+  <tag k="name:nan" v="Ai-ki̍p"/>
+  <tag k="name:nap" v="Naggitto"/>
+  <tag k="name:nds" v="Ägypten"/>
+  <tag k="name:nds-nl" v="Egypte"/>
+  <tag k="name:ne" v="मिश्र"/>
+  <tag k="name:new" v="मिस्र"/>
+  <tag k="name:nl" v="Egypte"/>
+  <tag k="name:nn" v="Egypt"/>
+  <tag k="name:no" v="Egypt"/>
+  <tag k="name:nov" v="Egiptia"/>
+  <tag k="name:nrm" v="Êgypte"/>
+  <tag k="name:nso" v="Egypt"/>
+  <tag k="name:nv" v="Ííjip"/>
+  <tag k="name:oc" v="Egipte"/>
+  <tag k="name:olo" v="Jegiptu"/>
+  <tag k="name:om" v="Ijiipti"/>
+  <tag k="name:or" v="ଇଜିପ୍ଟ"/>
+  <tag k="name:os" v="Мысыр"/>
+  <tag k="name:pa" v="ਮਿਸਰ"/>
+  <tag k="name:pam" v="Ejiptu"/>
+  <tag k="name:pap" v="Egipto"/>
+  <tag k="name:pcd" v="Édjipe"/>
+  <tag k="name:pi" v="ईजिप्ट"/>
+  <tag k="name:pih" v="Ejiipt"/>
+  <tag k="name:pl" v="Egipt"/>
+  <tag k="name:pms" v="Egit"/>
+  <tag k="name:pnb" v="مصر"/>
+  <tag k="name:pnt" v="Αίγυπτος"/>
+  <tag k="name:ps" v="مصر"/>
+  <tag k="name:pt" v="Egito"/>
+  <tag k="name:pt-BR" v="Egito"/>
+  <tag k="name:qu" v="Ihiptu"/>
+  <tag k="name:rm" v="Egipta"/>
+  <tag k="name:rmy" v="Mêsire"/>
+  <tag k="name:rn" v="Egipto"/>
+  <tag k="name:ro" v="Egipt"/>
+  <tag k="name:roa-tara" v="Egitte"/>
+  <tag k="name:ru" v="Египет"/>
+  <tag k="name:rue" v="Еґіпет"/>
+  <tag k="name:sa" v="ईजिप्तदेशः"/>
+  <tag k="name:sah" v="Эгиипэт"/>
+  <tag k="name:sat" v="ᱢᱤᱥᱚᱨ"/>
+  <tag k="name:sc" v="Egittu"/>
+  <tag k="name:scn" v="Eggittu"/>
+  <tag k="name:sco" v="Egyp"/>
+  <tag k="name:sd" v="مصر"/>
+  <tag k="name:se" v="Egypta"/>
+  <tag k="name:sg" v="Kâmitâ"/>
+  <tag k="name:sh" v="Egipat"/>
+  <tag k="name:shn" v="မိူင်းဢီးၵျိပ်ႈ"/>
+  <tag k="name:si" v="ඊජීප්තුව"/>
+  <tag k="name:sk" v="Egypt"/>
+  <tag k="name:sl" v="Egipt"/>
+  <tag k="name:sm" v="Aikupito"/>
+  <tag k="name:smn" v="Egypti"/>
+  <tag k="name:sms" v="Egyptt"/>
+  <tag k="name:sn" v="Egypt"/>
+  <tag k="name:so" v="Masar"/>
+  <tag k="name:sq" v="Egjipti"/>
+  <tag k="name:sr" v="Египат"/>
+  <tag k="name:srn" v="Egiptakondre"/>
+  <tag k="name:ss" v="iGibhithe"/>
+  <tag k="name:st" v="Egepeta"/>
+  <tag k="name:stq" v="Ägypten"/>
+  <tag k="name:su" v="Mesir"/>
+  <tag k="name:sv" v="Egypten"/>
+  <tag k="name:sw" v="Misri"/>
+  <tag k="name:syc" v="ܡܨܪܝܢ"/>
+  <tag k="name:szl" v="Egipt"/>
+  <tag k="name:szy" v="Egypt"/>
+  <tag k="name:ta" v="எகிப்து"/>
+  <tag k="name:te" v="ఈజిప్టు"/>
+  <tag k="name:tet" v="Ejitu"/>
+  <tag k="name:tg" v="Миср"/>
+  <tag k="name:th" v="ประเทศอียิปต์"/>
+  <tag k="name:ti" v="ግብጽ"/>
+  <tag k="name:tk" v="Müsür"/>
+  <tag k="name:tl" v="Ehipto"/>
+  <tag k="name:to" v="ʻIsipite"/>
+  <tag k="name:tok" v="ma Masu"/>
+  <tag k="name:tpi" v="Ijip"/>
+  <tag k="name:tr" v="Mısır"/>
+  <tag k="name:ts" v="Gibita"/>
+  <tag k="name:tt" v="Мисы́р"/>
+  <tag k="name:tum" v="Egypt"/>
+  <tag k="name:tw" v="Egypt"/>
+  <tag k="name:ty" v="’Aifiti"/>
+  <tag k="name:tyv" v="Египет"/>
+  <tag k="name:tzl" v="Misiria"/>
+  <tag k="name:udm" v="Египет"/>
+  <tag k="name:ug" v="مىسىر"/>
+  <tag k="name:uk" v="Єги́пет"/>
+  <tag k="name:ur" v="مصر"/>
+  <tag k="name:uz" v="Misr"/>
+  <tag k="name:vec" v="Egito"/>
+  <tag k="name:vep" v="Egipt"/>
+  <tag k="name:vi" v="Ai Cập"/>
+  <tag k="name:vls" v="Egypte"/>
+  <tag k="name:vo" v="Lägüptän"/>
+  <tag k="name:vro" v="Egüptüs"/>
+  <tag k="name:wa" v="Edjipe"/>
+  <tag k="name:war" v="Ehipto"/>
+  <tag k="name:wo" v="Isipt"/>
+  <tag k="name:wuu" v="埃及"/>
+  <tag k="name:xal" v="Иҗибдин Араб Орн"/>
+  <tag k="name:xmf" v="ეგვიპტე"/>
+  <tag k="name:yi" v="עגיפטן"/>
+  <tag k="name:yo" v="Ẹ́gíptì"/>
+  <tag k="name:yue" v="埃及"/>
+  <tag k="name:za" v="Aehciz"/>
+  <tag k="name:zea" v="Ehypte"/>
+  <tag k="name:zgh" v="ⵎⵉⵙⵔ"/>
+  <tag k="name:zh" v="埃及"/>
+  <tag k="name:zh-Hans" v="埃及"/>
+  <tag k="name:zh-Hant" v="埃及"/>
+  <tag k="name:zh-Latn-pinyin" v="Āijí"/>
+  <tag k="name:zu" v="iGibhithe"/>
+  <tag k="official_name" v="جُمهورِيةُ مِصرَ العَرَبيةِ"/>
+  <tag k="official_name:ab" v="Ара́ҧ Респу́блика Мы́ср"/>
+  <tag k="official_name:af" v="Arabiese Republiek van Egipte"/>
+  <tag k="official_name:als" v="Arabischi Republik Ägypte"/>
+  <tag k="official_name:am" v="የግብፅ ዐረብ ሪፐብሊክ"/>
+  <tag k="official_name:an" v="Republica Arabe d'Echipto"/>
+  <tag k="official_name:ar" v="جُمهورِيةُ مِصرَ العَرَبيةِ"/>
+  <tag k="official_name:arc" v="ܩܘܛܢܝܘܬܐ ܥܪܒܝܬܐ ܕܡܨܪܝܢ"/>
+  <tag k="official_name:arz" v="جمهورية مصر العربية"/>
+  <tag k="official_name:as" v="মিচৰ আৰব প্রজাতন্ত্র"/>
+  <tag k="official_name:ast" v="República Árabe d'Exiptu"/>
+  <tag k="official_name:av" v="Еги́петалъул ГIaра́б Жумгьурият"/>
+  <tag k="official_name:ay" v="Iqiqtu Ripublika Arabi"/>
+  <tag k="official_name:az" v="Misir Ərəb Respublikası"/>
+  <tag k="official_name:azb" v="میصر عرب جمهوری‌سی"/>
+  <tag k="official_name:ba" v="Мысыр ғәрәп республикаһы"/>
+  <tag k="official_name:bat-smg" v="Egėpta Arabu Respoblėka"/>
+  <tag k="official_name:bcl" v="Republikang Arabo nin Ehipto"/>
+  <tag k="official_name:be" v="Ара́бская Рэспу́бліка Егі́пет"/>
+  <tag k="official_name:be-tarask" v="Ара́бская Рэспу́бліка Эґі́пет"/>
+  <tag k="official_name:bg" v="Арабска република Египет"/>
+  <tag k="official_name:bh" v="ज़म्हूरियत मिस्र अल अरबिया"/>
+  <tag k="official_name:bjn" v="Republik Arab Mesir"/>
+  <tag k="official_name:bm" v="Misra ka Arabu Fasojamana"/>
+  <tag k="official_name:bn" v="মিশর আরব প্রজাতন্ত্র"/>
+  <tag k="official_name:bpy" v="আরব প্রজাতন্ত্রি মিশর"/>
+  <tag k="official_name:br" v="Republik arab Egipt"/>
+  <tag k="official_name:bs" v="Arapska Republika Egipat"/>
+  <tag k="official_name:bxr" v="Араб Бүгэдэ Найрамдаха Египет Улас"/>
+  <tag k="official_name:ca" v="República Àrab d'Egipte"/>
+  <tag k="official_name:cdo" v="Ăi-gĭk Ā-lá-báik Gê̤ṳng-huò-guók"/>
+  <tag k="official_name:ce" v="Ӏаьрбийн Республика Мисар"/>
+  <tag k="official_name:chr" v="ᏃᏴ ᎠᏁᎯ ᏍᎦᏚᎩ ᎾᎿ ᎢᏥᏈᎢ"/>
+  <tag k="official_name:ckb" v="کۆماری میسڕی عەرەبی"/>
+  <tag k="official_name:crh" v="Mısır Arap Cumhuriyeti"/>
+  <tag k="official_name:cs" v="Egyptská arabská republika"/>
+  <tag k="official_name:cu" v="Єгѷптьска Ара́вьска Димократі́ꙗ"/>
+  <tag k="official_name:cy" v="Gweriniaeth Arabaidd yr Aifft"/>
+  <tag k="official_name:da" v="Den Arabiske Republik Egypten"/>
+  <tag k="official_name:de" v="Arabische Republik Ägypten"/>
+  <tag k="official_name:dsb" v="Egyptojska arabska republika"/>
+  <tag k="official_name:el" v="Αραβική Δημοκρατία της Αιγύπτου"/>
+  <tag k="official_name:en" v="Arab Republic of Egypt"/>
+  <tag k="official_name:eo" v="Araba Respubliko Egiptio"/>
+  <tag k="official_name:es" v="República Árabe de Egipto"/>
+  <tag k="official_name:et" v="Egiptuse Araabia Vabariik"/>
+  <tag k="official_name:eu" v="Egiptoko Arabiar Errepublika"/>
+  <tag k="official_name:ext" v="Repúbrica Árabi de Egitu"/>
+  <tag k="official_name:fa" v="جمهوری عربی مصر"/>
+  <tag k="official_name:fi" v="Egyptin arabitasavalta"/>
+  <tag k="official_name:fr" v="République arabe d'Égypte"/>
+  <tag k="official_name:frr" v="Araabisk Republiik faan Egypten"/>
+  <tag k="official_name:fur" v="Republiche Arabe dal Egjit"/>
+  <tag k="official_name:fy" v="Arabysk Republyk Egypte"/>
+  <tag k="official_name:ga" v="Poblacht Arabach na hÉigipte"/>
+  <tag k="official_name:gan" v="埃及阿拉伯共和國"/>
+  <tag k="official_name:gcr" v="Répiblik arab di Léjip"/>
+  <tag k="official_name:gl" v="República Árabe de Exipto"/>
+  <tag k="official_name:gn" v="Ehíto Tavakuairetã Árave"/>
+  <tag k="official_name:gu" v="મિસરનું આરબ ગણરાજ્ય"/>
+  <tag k="official_name:gv" v="Pobblaght Arabagh ny h-Egypt"/>
+  <tag k="official_name:hak" v="Âi-khi̍p Â-lâ-pak Khiung-fò-koet"/>
+  <tag k="official_name:he" v="רפובליקת מצרים הערבית"/>
+  <tag k="official_name:hi" v="मिस्र अरब गणराज्य"/>
+  <tag k="official_name:hr" v="Arapska Republika Egipat"/>
+  <tag k="official_name:hsb" v="Egyptowska arabska republika"/>
+  <tag k="official_name:hu" v="Egyiptomi Arab Köztársaság"/>
+  <tag k="official_name:hy" v="Եգիպտոսի Արաբական Հանրապետություն"/>
+  <tag k="official_name:hyw" v="Եգիպտոսի Արաբական Հանրապետութիւն"/>
+  <tag k="official_name:ia" v="Republica Arabe de Egypto"/>
+  <tag k="official_name:id" v="Republik Arab Mesir"/>
+  <tag k="official_name:ilo" v="Arabo a Republika iti Ehipto"/>
+  <tag k="official_name:inh" v="Iарбий Респу́блика Мисаре"/>
+  <tag k="official_name:is" v="Arabíska feministafélagið Egyptaland"/>
+  <tag k="official_name:it" v="Repubblica araba d'Egitto"/>
+  <tag k="official_name:ja" v="エジプト・アラブ共和国"/>
+  <tag k="official_name:jam" v="Arabik Ripoblik a Iijip"/>
+  <tag k="official_name:jbo" v="misrygu'e xrabo gubyseltru"/>
+  <tag k="official_name:jv" v="Républik Arab Mesir"/>
+  <tag k="official_name:ka" v="ეგვიპტის არაბული რესპუბლიკა"/>
+  <tag k="official_name:kab" v="Tagduda Taɛrabt n Maṣer"/>
+  <tag k="official_name:kg" v="Repubilika Arabi ya Misiri"/>
+  <tag k="official_name:kk" v="Мысыр Араб Республикасы"/>
+  <tag k="official_name:kl" v="Den arabiske republikken Egypt"/>
+  <tag k="official_name:km" v="សាធារណះរដ្ឋអារ៉ាប់អេស៊ីប"/>
+  <tag k="official_name:kn" v="ಈಜಿಪ್ಟ್ ಅರಬ್ ಗಣರಾಜ್ಯ"/>
+  <tag k="official_name:ko" v="이집트 아랍 공화국"/>
+  <tag k="official_name:ku" v="Komara Erebî ya Misrê"/>
+  <tag k="official_name:kv" v="Египет Араб Республика"/>
+  <tag k="official_name:ky" v="Мисир Араб Республикасы"/>
+  <tag k="official_name:la" v="Res publica Arabica Aegypti"/>
+  <tag k="official_name:lad" v="Repuvlika Araba de Ayifto"/>
+  <tag k="official_name:lb" v="Arabesch Republik vun Egypten"/>
+  <tag k="official_name:lez" v="Ара́б Респу́блика Еги́пет"/>
+  <tag k="official_name:lfn" v="Republica Arabi de Misre"/>
+  <tag k="official_name:li" v="Arabische Rippebliek Egypte"/>
+  <tag k="official_name:ln" v="Rebubliki Arabe ya Ejipte"/>
+  <tag k="official_name:lt" v="Egipto Arabų Respublika"/>
+  <tag k="official_name:lv" v="Ēģiptes Arābu Republika"/>
+  <tag k="official_name:lzh" v="阿拉伯密思兒共和國"/>
+  <tag k="official_name:mai" v="मिस्र अरब गणतन्त्र"/>
+  <tag k="official_name:min" v="Republik Arab Masia"/>
+  <tag k="official_name:mk" v="Арапска Република Египет"/>
+  <tag k="official_name:ml" v="അറബ് റിപ്പബ്ലിക്ക് ഓഫ് ഈജിപ്ത്"/>
+  <tag k="official_name:mn" v="Арабын Бүгд Найрамдах Египет Улс"/>
+  <tag k="official_name:mr" v="इजिप्तचे अरब गणराज्य"/>
+  <tag k="official_name:ms" v="Republik Arab Mesir"/>
+  <tag k="official_name:mt" v="Repubblika Għarbija tal-Eġittu"/>
+  <tag k="official_name:my" v="အီဂျစ်အာရပ်သမ္မတနိုင်ငံ"/>
+  <tag k="official_name:myv" v="Ара́бская Респу́блика Еги́пет"/>
+  <tag k="official_name:mzn" v="جمهوریة مصر العربیة"/>
+  <tag k="official_name:nah" v="Arabiatlācatlahtohcāyōtl Egipto"/>
+  <tag k="official_name:nan" v="Ai-ki̍p A-la-pek Kiōng-hô-kok"/>
+  <tag k="official_name:nap" v="Repubbreca Araba 'e Naggitto"/>
+  <tag k="official_name:nds" v="Araabsch Republiek Ägypten"/>
+  <tag k="official_name:nds-nl" v="Arabische Rippebliek Egypte"/>
+  <tag k="official_name:ne" v="अरब गणतन्त्र मिश्र"/>
+  <tag k="official_name:new" v="अरब गणतन्त्र मिश्र"/>
+  <tag k="official_name:nl" v="Arabische Republiek Egypte"/>
+  <tag k="official_name:nn" v="Den Arabiske Republikken Egypt"/>
+  <tag k="official_name:no" v="Den arabiske republikken Egypt"/>
+  <tag k="official_name:oc" v="Republica Aràbia d'Egipte"/>
+  <tag k="official_name:olo" v="Jegiptan islamilaine tazavaldu"/>
+  <tag k="official_name:om" v="Rippabiliika Arabaa Ijiipti"/>
+  <tag k="official_name:os" v="Мысыры Араббаг Республикæ"/>
+  <tag k="official_name:pa" v="ਅਰਬ ਗਣਰਾਜ ਮਿਸਰ"/>
+  <tag k="official_name:pam" v="Arab Republica ning Ejiptu"/>
+  <tag k="official_name:pcd" v="Républike arabe Édjipe"/>
+  <tag k="official_name:pl" v="Arabska Republika Egiptu"/>
+  <tag k="official_name:pnb" v="جمهورية مصر العربية"/>
+  <tag k="official_name:ps" v="د مصر جمهوری دولت"/>
+  <tag k="official_name:pt" v="República Árabe do Egito"/>
+  <tag k="official_name:qu" v="Arabya Ripuwlika Ihiptu"/>
+  <tag k="official_name:rm" v="Republica araba da l'Egipta"/>
+  <tag k="official_name:rmy" v="Arabikane Republika Mêsire"/>
+  <tag k="official_name:ro" v="Republica Arabă a Egiptului"/>
+  <tag k="official_name:roa-tara" v="Repubbleche Arabe d'Egitte"/>
+  <tag k="official_name:ru" v="Арабская Республика Египет"/>
+  <tag k="official_name:sah" v="Эгиипэт Араб Өрөспүүбүлүкэтэ"/>
+  <tag k="official_name:scn" v="ripùbbirca àrabba d'Eggittu"/>
+  <tag k="official_name:sco" v="Arab Republic o Egyp"/>
+  <tag k="official_name:sd" v="عرب جمھوريہ مصر"/>
+  <tag k="official_name:se" v="Egyptta arábadásseváldi"/>
+  <tag k="official_name:sg" v="Arâbo Ködörösêse tî Kâmitâ"/>
+  <tag k="official_name:sh" v="Arapska Republika Egipat"/>
+  <tag k="official_name:shn" v="မိူင်းၸွမ်ပွင်ၸိုင်ႈဢႃႇရၢပ်ႈ ဢီးၵျိပ်ႈ"/>
+  <tag k="official_name:si" v="අරාබියේ මිස්ර් ජනරජය"/>
+  <tag k="official_name:sk" v="Egyptská arabská republika"/>
+  <tag k="official_name:sl" v="Arabska republika Egipt"/>
+  <tag k="official_name:smn" v="Egypti arabitäsiväldi"/>
+  <tag k="official_name:so" v="Jamhuuriyada Masar ee Carabta"/>
+  <tag k="official_name:sq" v="Republika Arabe e Egjiptit"/>
+  <tag k="official_name:sr" v="Арапска Република Египат"/>
+  <tag k="official_name:stq" v="Arabiske Republik Ägypten"/>
+  <tag k="official_name:su" v="Républik Arab Mesir"/>
+  <tag k="official_name:sv" v="Arabrepubliken Egypten"/>
+  <tag k="official_name:sw" v="Jamhuri ya Kiarabu ya Misri"/>
+  <tag k="official_name:szl" v="Arabskŏ Republika Egiptu"/>
+  <tag k="official_name:ta" v="எகிப்து அரபுக் குடியரசு"/>
+  <tag k="official_name:te" v="అరబ్ రిపబ్లిక్ ఆఫ్ ఈజిప్ట్"/>
+  <tag k="official_name:tet" v="Repúblika Arabi Ejitu niam"/>
+  <tag k="official_name:tg" v="Мисри Араб"/>
+  <tag k="official_name:th" v="สาธารณรัฐอาหรับอียิปต์"/>
+  <tag k="official_name:tk" v="Müsür Arap Respublikasy"/>
+  <tag k="official_name:tl" v="Republikang Arabo ng Ehipto"/>
+  <tag k="official_name:tpi" v="Arabik Ripablik bilong Ijip"/>
+  <tag k="official_name:tr" v="Mısır Arap Cumhuriyeti"/>
+  <tag k="official_name:tt" v="Гарә́б Мисы́р Җөмһүрияте́"/>
+  <tag k="official_name:udm" v="Египет Араб Республика"/>
+  <tag k="official_name:ug" v="مىسىر ئەرەب جۇمھۇرىيىتى"/>
+  <tag k="official_name:uk" v="Ара́бська Респу́бліка Єги́пет"/>
+  <tag k="official_name:ur" v="عرب جمہوریہ مصر"/>
+  <tag k="official_name:uz" v="Misr Arab Respublikasi"/>
+  <tag k="official_name:vec" v="Republica Araba d'Egito"/>
+  <tag k="official_name:vep" v="Egiptan Arabine Tazovaldkund"/>
+  <tag k="official_name:vi" v="Cộng hòa Ả Rập Ai Cập"/>
+  <tag k="official_name:vro" v="Egüptüse Araabia Vabariik"/>
+  <tag k="official_name:war" v="Arabo nga Republka han Ehipto"/>
+  <tag k="official_name:wo" v="Gawu Araab bu Ejipt"/>
+  <tag k="official_name:xal" v="Иҗибдин Араб Орн"/>
+  <tag k="official_name:xmf" v="ეგვიპტეშ არაბული რესპუბლიკა"/>
+  <tag k="official_name:yi" v="אראבישע רעפובליק פון עגיפטן"/>
+  <tag k="official_name:yo" v="Orile-ede Olominira Arabu ile Egipti"/>
+  <tag k="official_name:yue" v="埃及阿拉伯共和國"/>
+  <tag k="official_name:zea" v="Araobische Republiek Ehypte"/>
+  <tag k="official_name:zh" v="阿拉伯埃及共和国 / 阿拉伯埃及共和國"/>
+  <tag k="official_name:zh-Hans" v="阿拉伯埃及共和国"/>
+  <tag k="official_name:zh-Hant" v="阿拉伯埃及共和國"/>
+  <tag k="official_name:zu" v="iRiphabliki Arabhu weGibhithe"/>
+  <tag k="old_name:fi" v="Yhdistynyt arabitasavalta"/>
+  <tag k="population" v="112716599"/>
+  <tag k="source:population" v="https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"/>
+  <tag k="timezone" v="Africa/Cairo"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q79"/>
+  <tag k="wikipedia" v="ar:مصر"/>
+ </relation>
+ <relation id="2060171" visible="true" version="16" changeset="131892879" timestamp="2023-01-30T18:47:56Z" user="tbicr" uid="278800">
+  <member type="node" ref="277520853" role="admin_centre"/>
+  <member type="node" ref="1312442223" role="label"/>
+  <member type="way" ref="157675601" role="outer"/>
+  <member type="way" ref="152290168" role="outer"/>
+  <member type="way" ref="152290179" role="outer"/>
+  <member type="way" ref="725657850" role="outer"/>
+  <member type="way" ref="152290139" role="outer"/>
+  <member type="way" ref="104482780" role="outer"/>
+  <member type="way" ref="104482779" role="outer"/>
+  <member type="way" ref="302819492" role="outer"/>
+  <tag k="admin_level" v="4"/>
+  <tag k="alt_name:ar" v="شعبية البطنان"/>
+  <tag k="alt_name:de" v="Munizip al-Butnan"/>
+  <tag k="alt_name:es" v="Distrito de Al Butnan"/>
+  <tag k="alt_name:fa" v="استان بطنان"/>
+  <tag k="alt_name:it" v="Distretto di al-Butnan"/>
+  <tag k="alt_name:ur" v="بطنان ضلع"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="ISO3166-2" v="LY-BU"/>
+  <tag k="name" v="البطنان"/>
+  <tag k="name:ar" v="البطنان"/>
+  <tag k="name:be-tarask" v="Эль-Бутнан"/>
+  <tag k="name:bg" v="Бутнан"/>
+  <tag k="name:ca" v="Al Butnan"/>
+  <tag k="name:ceb" v="Sha‘bīyat al Buţnān"/>
+  <tag k="name:da" v="Al Butnan"/>
+  <tag k="name:de" v="Al-Butnan"/>
+  <tag k="name:en" v="Butnan"/>
+  <tag k="name:es" v="Al Butnan"/>
+  <tag k="name:eu" v="Al Butnan"/>
+  <tag k="name:fa" v="بطنان"/>
+  <tag k="name:fr" v="Al Boutnan"/>
+  <tag k="name:hu" v="Butnán tartomány"/>
+  <tag k="name:hy" v="Էլ-Բուտնան"/>
+  <tag k="name:id" v="Butnan"/>
+  <tag k="name:it" v="Al-Butnan"/>
+  <tag k="name:ja" v="ブトナーン県"/>
+  <tag k="name:ka" v="ელ-ბუტნანი"/>
+  <tag k="name:ko" v="부트난주"/>
+  <tag k="name:lt" v="Butnano savivaldybė"/>
+  <tag k="name:ms" v="Butnan"/>
+  <tag k="name:nl" v="Al Butnan"/>
+  <tag k="name:no" v="Al Butnan"/>
+  <tag k="name:pl" v="Al-Butnan"/>
+  <tag k="name:pt" v="Butnane"/>
+  <tag k="name:ro" v="Districtul Al Butnan"/>
+  <tag k="name:ru" v="Эль-Бутнан"/>
+  <tag k="name:sco" v="Al Butnan Destrict"/>
+  <tag k="name:sh" v="Butnan"/>
+  <tag k="name:sv" v="Al Butnan"/>
+  <tag k="name:tg" v="Вилояти Ал-Бутнон"/>
+  <tag k="name:tr" v="El Butnan ili"/>
+  <tag k="name:uk" v="Ель-Бутнан"/>
+  <tag k="name:ur" v="بطنان"/>
+  <tag k="name:zh" v="布特南省"/>
+  <tag k="name:zu" v="Butnan District"/>
+  <tag k="official_name" v="شعبية البطنان"/>
+  <tag k="official_name:ar" v="شعبية البطنان"/>
+  <tag k="official_name:de" v="Munizip al-Butnan"/>
+  <tag k="official_name:fa" v="استان بطنان"/>
+  <tag k="official_name:it" v="Distretto di Al-Butnan"/>
+  <tag k="official_name:ur" v="بطنان ضلع"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q25931"/>
+  <tag k="wikipedia" v="ar:شعبية البطنان"/>
+ </relation>
+ <relation id="3061826" visible="true" version="24" changeset="131892879" timestamp="2023-01-30T18:47:56Z" user="tbicr" uid="278800">
+  <member type="node" ref="299546351" role="admin_centre"/>
+  <member type="way" ref="42127374" role="outer"/>
+  <member type="way" ref="707444278" role="outer"/>
+  <member type="way" ref="228633463" role="outer"/>
+  <member type="way" ref="157675601" role="outer"/>
+  <member type="way" ref="302819492" role="outer"/>
+  <member type="way" ref="104482779" role="outer"/>
+  <member type="way" ref="104482780" role="outer"/>
+  <member type="way" ref="152290150" role="outer"/>
+  <member type="way" ref="228631992" role="outer"/>
+  <member type="way" ref="228631991" role="outer"/>
+  <member type="way" ref="288241478" role="outer"/>
+  <tag k="admin_level" v="4"/>
+  <tag k="alt_name:es" v="Gobernación de Matrú"/>
+  <tag k="alt_name:ru" v="Матрух (мухафаза)"/>
+  <tag k="boundary" v="administrative"/>
+  <tag k="ISO3166-2" v="EG-MT"/>
+  <tag k="name" v="مطروح"/>
+  <tag k="name:ar" v="مطروح"/>
+  <tag k="name:arz" v="محافظة مطروح"/>
+  <tag k="name:azb" v="مطروح اوستانی"/>
+  <tag k="name:be-tarask" v="Матруг (мугафаза)"/>
+  <tag k="name:bg" v="Матрух"/>
+  <tag k="name:bs" v="Matrouh (guvernorat)"/>
+  <tag k="name:ca" v="Governació de Matruh"/>
+  <tag k="name:ceb" v="Muḩāfaz̧at Maţrūḩ"/>
+  <tag k="name:cs" v="Matrúh"/>
+  <tag k="name:da" v="Matruh"/>
+  <tag k="name:de" v="Matruh"/>
+  <tag k="name:el" v="Κυβερνείο Ματρούχ"/>
+  <tag k="name:en" v="Matruh"/>
+  <tag k="name:eo" v="Provinco Matruh"/>
+  <tag k="name:es" v="Matrú"/>
+  <tag k="name:fa" v="مطروح"/>
+  <tag k="name:fi" v="Matruhin kuvernementti"/>
+  <tag k="name:fr" v="Matruh"/>
+  <tag k="name:hi" v="मत्रूह मुहाफ़ज़ाह"/>
+  <tag k="name:hu" v="Matrúh"/>
+  <tag k="name:id" v="Kegubernuran Matruh"/>
+  <tag k="name:it" v="Governatorato di Matruh"/>
+  <tag k="name:ja" v="マトルーフ県"/>
+  <tag k="name:ka" v="მატრუჰის მუჰაფაზა"/>
+  <tag k="name:ko" v="마트루주"/>
+  <tag k="name:ks" v="مطروح"/>
+  <tag k="name:lt" v="Matruho muchafaza"/>
+  <tag k="name:ml" v="മത്രോഹ് ഗവർണ്ണറേറ്റ്"/>
+  <tag k="name:nan" v="Matrouh Séng"/>
+  <tag k="name:nl" v="Matruh"/>
+  <tag k="name:no" v="Guvernementet Matruh"/>
+  <tag k="name:pl" v="Matruh (muhafaza)"/>
+  <tag k="name:pnb" v="صوبہ مطروح"/>
+  <tag k="name:pt" v="Matru (província)"/>
+  <tag k="name:ro" v="Guvernoratul Matruh"/>
+  <tag k="name:ru" v="Матрух"/>
+  <tag k="name:sco" v="Matruh Govrenorate"/>
+  <tag k="name:sh" v="Matruh (muhafaza)"/>
+  <tag k="name:sr" v="Матрух (гувернорат)"/>
+  <tag k="name:sv" v="Mersa Matruh (guvernement)"/>
+  <tag k="name:sw" v="Mkoa wa Matruh"/>
+  <tag k="name:tg" v="Вилояти Матруҳ"/>
+  <tag k="name:tr" v="Matruh (il)"/>
+  <tag k="name:uk" v="Матрух (губернаторство)"/>
+  <tag k="name:ur" v="مطروح"/>
+  <tag k="name:war" v="Matruh (lalawigan)"/>
+  <tag k="name:wuu" v="马特鲁省"/>
+  <tag k="name:zh" v="馬特魯省"/>
+  <tag k="name:zu" v="Matrouh Governorate"/>
+  <tag k="official_name" v="محافظة مطروح"/>
+  <tag k="official_name:ar" v="محافظة مطروح"/>
+  <tag k="official_name:de" v="Gouvernement Matruh"/>
+  <tag k="official_name:en" v="Matrouh Governorate"/>
+  <tag k="official_name:fa" v="استان مطروح"/>
+  <tag k="official_name:fr" v="Gouvernorat de Marsa-Matruh"/>
+  <tag k="official_name:hu" v="Matrúh kormányzóság"/>
+  <tag k="official_name:ru" v="мухафаза Матрух"/>
+  <tag k="official_name:ur" v="محافظہ مطروح"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q30682"/>
+  <tag k="wikipedia" v="ar:محافظة مطروح"/>
+ </relation>
+ <relation id="6064920" visible="true" version="25" changeset="161753267" timestamp="2025-01-25T16:37:39Z" user="alain2003" uid="578772">
+  <member type="way" ref="183482227" role=""/>
+  <member type="relation" ref="192756" role="member_state"/>
+  <member type="relation" ref="192758" role="member_state"/>
+  <member type="relation" ref="192763" role="member_state"/>
+  <member type="relation" ref="3630439" role="member_state"/>
+  <member type="relation" ref="192757" role="member_state"/>
+  <tag k="default_language" v="ar"/>
+  <tag k="name" v="اتحاد المغرب العربي"/>
+  <tag k="name:ar" v="اتحاد المغرب العربي"/>
+  <tag k="name:de" v="Union des Arabischen Maghreb"/>
+  <tag k="name:en" v="Arab Maghreb Union"/>
+  <tag k="name:es" v="Unión del Magreb Árabe"/>
+  <tag k="name:fa" v="اتحادیه مغرب عربی"/>
+  <tag k="name:fr" v="Union du Maghreb Arabe"/>
+  <tag k="name:language" v="ar"/>
+  <tag k="name:nl" v="Unie van de Arabische Maghreb"/>
+  <tag k="name:sv" v="Arabiska Maghrebunionen"/>
+  <tag k="name:ur" v="مغرب عربی اتحاد"/>
+  <tag k="type" v="treaty"/>
+  <tag k="website" v="https://maghrebarabe.org/"/>
+  <tag k="wikidata" v="Q370862"/>
+  <tag k="wikipedia" v="ar:اتحاد المغرب العربي"/>
+ </relation>
+ <relation id="14001281" visible="true" version="17" changeset="170597319" timestamp="2025-08-18T06:28:57Z" user="Catjacket" uid="8339689">
+  <member type="way" ref="402153960" role="outer"/>
+  <member type="way" ref="402152925" role="outer"/>
+  <member type="way" ref="402164482" role="outer"/>
+  <member type="way" ref="402164481" role="outer"/>
+  <member type="way" ref="50758190" role="outer"/>
+  <member type="way" ref="182099894" role="outer"/>
+  <member type="way" ref="409264082" role="outer"/>
+  <member type="way" ref="402176432" role="outer"/>
+  <member type="way" ref="402179256" role="outer"/>
+  <member type="way" ref="295171891" role="outer"/>
+  <member type="way" ref="1225756741" role="outer"/>
+  <member type="way" ref="190278257" role="outer"/>
+  <member type="way" ref="302819493" role="outer"/>
+  <member type="way" ref="157675607" role="outer"/>
+  <member type="way" ref="1137439635" role="outer"/>
+  <member type="way" ref="152290175" role="outer"/>
+  <member type="way" ref="152290181" role="outer"/>
+  <member type="way" ref="152290186" role="outer"/>
+  <member type="way" ref="286161374" role="outer"/>
+  <member type="way" ref="993973531" role="outer"/>
+  <member type="way" ref="993973530" role="outer"/>
+  <member type="way" ref="993973533" role="outer"/>
+  <member type="way" ref="152290185" role="outer"/>
+  <member type="way" ref="152290187" role="outer"/>
+  <member type="way" ref="1238636820" role="outer"/>
+  <member type="way" ref="152290169" role="outer"/>
+  <member type="way" ref="152290168" role="outer"/>
+  <member type="way" ref="157675601" role="outer"/>
+  <member type="way" ref="302819492" role="outer"/>
+  <member type="way" ref="104482779" role="outer"/>
+  <member type="way" ref="104482780" role="outer"/>
+  <member type="way" ref="152290150" role="outer"/>
+  <member type="way" ref="228631989" role="outer"/>
+  <member type="way" ref="152290149" role="outer"/>
+  <member type="way" ref="22758910" role="outer"/>
+  <member type="way" ref="284530558" role="outer"/>
+  <member type="way" ref="22688468" role="outer"/>
+  <member type="way" ref="477534330" role="outer"/>
+  <member type="way" ref="31617506" role="outer"/>
+  <member type="way" ref="31617505" role="outer"/>
+  <member type="way" ref="22688535" role="outer"/>
+  <member type="way" ref="464707581" role="outer"/>
+  <member type="way" ref="85851143" role="outer"/>
+  <member type="way" ref="238767626" role="outer"/>
+  <member type="way" ref="85830407" role="outer"/>
+  <member type="way" ref="311765814" role="outer"/>
+  <member type="way" ref="238767625" role="outer"/>
+  <member type="way" ref="311765808" role="outer"/>
+  <member type="way" ref="229649982" role="outer"/>
+  <member type="way" ref="203880933" role="outer"/>
+  <member type="way" ref="207590304" role="outer"/>
+  <member type="way" ref="207590303" role="outer"/>
+  <member type="way" ref="207590301" role="outer"/>
+  <member type="way" ref="229649980" role="outer"/>
+  <member type="way" ref="311527374" role="outer"/>
+  <member type="way" ref="203880944" role="outer"/>
+  <member type="way" ref="203880932" role="outer"/>
+  <member type="way" ref="203912307" role="outer"/>
+  <member type="way" ref="253168318" role="outer"/>
+  <member type="way" ref="229671603" role="outer"/>
+  <member type="way" ref="253168313" role="outer"/>
+  <member type="way" ref="928320330" role="outer"/>
+  <member type="way" ref="203912310" role="outer"/>
+  <member type="way" ref="203912308" role="outer"/>
+  <member type="way" ref="1421592748" role="outer"/>
+  <member type="way" ref="203912302" role="outer"/>
+  <member type="way" ref="229991354" role="outer"/>
+  <member type="way" ref="467945492" role="outer"/>
+  <member type="way" ref="685766699" role="outer"/>
+  <member type="way" ref="467942127" role="outer"/>
+  <member type="way" ref="467946778" role="outer"/>
+  <member type="way" ref="229991355" role="outer"/>
+  <member type="way" ref="467948914" role="outer"/>
+  <member type="way" ref="467948912" role="outer"/>
+  <member type="way" ref="467948915" role="outer"/>
+  <member type="way" ref="467612332" role="outer"/>
+  <member type="way" ref="467780317" role="outer"/>
+  <member type="way" ref="467899864" role="outer"/>
+  <member type="way" ref="467899863" role="outer"/>
+  <member type="way" ref="253216863" role="outer"/>
+  <member type="way" ref="470717799" role="outer"/>
+  <member type="way" ref="449868338" role="outer"/>
+  <member type="way" ref="203912309" role="outer"/>
+  <member type="way" ref="1256473376" role="outer"/>
+  <member type="way" ref="1256473374" role="outer"/>
+  <member type="way" ref="22760445" role="outer"/>
+  <member type="way" ref="969999199" role="outer"/>
+  <member type="way" ref="969999239" role="outer"/>
+  <member type="way" ref="969999202" role="outer"/>
+  <member type="way" ref="969999218" role="outer"/>
+  <member type="way" ref="969999219" role="outer"/>
+  <member type="way" ref="201640038" role="outer"/>
+  <member type="way" ref="966519189" role="outer"/>
+  <member type="way" ref="966519188" role="outer"/>
+  <member type="way" ref="361341428" role="outer"/>
+  <member type="way" ref="966519179" role="outer"/>
+  <member type="way" ref="359817182" role="outer"/>
+  <member type="way" ref="966519176" role="outer"/>
+  <member type="way" ref="966519185" role="outer"/>
+  <member type="way" ref="966519186" role="outer"/>
+  <member type="way" ref="966519163" role="outer"/>
+  <member type="way" ref="966519172" role="outer"/>
+  <member type="way" ref="966338845" role="outer"/>
+  <member type="way" ref="966519194" role="outer"/>
+  <member type="way" ref="966519193" role="outer"/>
+  <member type="way" ref="966375137" role="outer"/>
+  <member type="way" ref="966375145" role="outer"/>
+  <member type="way" ref="970745570" role="outer"/>
+  <member type="way" ref="966375142" role="outer"/>
+  <member type="way" ref="966375152" role="outer"/>
+  <member type="way" ref="966375154" role="outer"/>
+  <member type="way" ref="30016647" role="outer"/>
+  <member type="way" ref="966375128" role="outer"/>
+  <member type="way" ref="966375130" role="outer"/>
+  <member type="way" ref="466631955" role="outer"/>
+  <member type="way" ref="966375135" role="outer"/>
+  <member type="way" ref="253216864" role="outer"/>
+  <member type="way" ref="360001585" role="outer"/>
+  <member type="way" ref="30016576" role="outer"/>
+  <member type="way" ref="228077882" role="outer"/>
+  <member type="way" ref="228077885" role="outer"/>
+  <member type="way" ref="965321277" role="outer"/>
+  <member type="way" ref="965321278" role="outer"/>
+  <member type="way" ref="228077878" role="outer"/>
+  <member type="way" ref="228077871" role="outer"/>
+  <member type="way" ref="360366022" role="outer"/>
+  <member type="way" ref="360366020" role="outer"/>
+  <member type="way" ref="228077875" role="outer"/>
+  <member type="way" ref="253216865" role="outer"/>
+  <member type="way" ref="965321267" role="outer"/>
+  <member type="way" ref="965321268" role="outer"/>
+  <member type="way" ref="399036754" role="outer"/>
+  <member type="way" ref="30018901" role="outer"/>
+  <member type="way" ref="228077879" role="outer"/>
+  <member type="way" ref="228077880" role="outer"/>
+  <member type="way" ref="965321227" role="outer"/>
+  <member type="way" ref="965321228" role="outer"/>
+  <member type="way" ref="228077868" role="outer"/>
+  <member type="way" ref="965321223" role="outer"/>
+  <member type="way" ref="965321222" role="outer"/>
+  <member type="way" ref="228077869" role="outer"/>
+  <member type="way" ref="965321230" role="outer"/>
+  <member type="way" ref="965321233" role="outer"/>
+  <member type="way" ref="965321235" role="outer"/>
+  <member type="way" ref="965321236" role="outer"/>
+  <member type="way" ref="30016579" role="outer"/>
+  <member type="way" ref="357480015" role="outer"/>
+  <member type="way" ref="358765546" role="outer"/>
+  <member type="way" ref="399031819" role="outer"/>
+  <member type="way" ref="228666816" role="outer"/>
+  <member type="way" ref="157675510" role="outer"/>
+  <member type="way" ref="399031818" role="outer"/>
+  <member type="way" ref="357664777" role="outer"/>
+  <member type="way" ref="357671211" role="outer"/>
+  <member type="way" ref="397215873" role="outer"/>
+  <member type="way" ref="395974972" role="outer"/>
+  <member type="way" ref="397215855" role="outer"/>
+  <member type="way" ref="397215844" role="outer"/>
+  <member type="way" ref="397282570" role="outer"/>
+  <member type="way" ref="397282569" role="outer"/>
+  <member type="way" ref="397282565" role="outer"/>
+  <member type="way" ref="397219902" role="outer"/>
+  <member type="way" ref="357799029" role="outer"/>
+  <member type="way" ref="397219904" role="outer"/>
+  <member type="way" ref="815855583" role="outer"/>
+  <member type="way" ref="157675504" role="outer"/>
+  <member type="way" ref="1010229305" role="outer"/>
+  <member type="way" ref="1010229304" role="outer"/>
+  <member type="way" ref="1010229306" role="outer"/>
+  <member type="way" ref="182038547" role="outer"/>
+  <member type="way" ref="1224870836" role="outer"/>
+  <member type="way" ref="28428322" role="outer"/>
+  <member type="way" ref="402116596" role="outer"/>
+  <member type="way" ref="44630766" role="outer"/>
+  <member type="way" ref="1136594689" role="outer"/>
+  <member type="way" ref="44630799" role="outer"/>
+  <member type="way" ref="1333660047" role="outer"/>
+  <member type="way" ref="943868476" role="outer"/>
+  <member type="way" ref="182763951" role="outer"/>
+  <member type="relation" ref="192757" role="subarea"/>
+  <member type="relation" ref="192756" role="subarea"/>
+  <member type="relation" ref="3630439" role="subarea"/>
+  <member type="relation" ref="2559126" role="subarea"/>
+  <member type="relation" ref="192758" role="subarea"/>
+  <member type="relation" ref="192763" role="subarea"/>
+  <tag k="alt_name" v="Northwest Africa"/>
+  <tag k="alt_name:de" v="Nordwestafrika"/>
+  <tag k="boundary" v="place"/>
+  <tag k="name" v="Maghreb"/>
+  <tag k="name:af" v="Magreb"/>
+  <tag k="name:ar" v="المغرب العربي"/>
+  <tag k="name:az" v="Məğrib"/>
+  <tag k="name:ba" v="Мәғриб"/>
+  <tag k="name:be" v="Магрыб"/>
+  <tag k="name:bg" v="Магреб"/>
+  <tag k="name:bn" v="মাগরেব"/>
+  <tag k="name:br" v="Maghreb"/>
+  <tag k="name:bs" v="Magrib"/>
+  <tag k="name:ca" v="Magrib"/>
+  <tag k="name:cs" v="Maghreb"/>
+  <tag k="name:cy" v="Maghreb"/>
+  <tag k="name:da" v="Maghreb"/>
+  <tag k="name:de" v="Maghreb"/>
+  <tag k="name:el" v="Μαγκρέμπ"/>
+  <tag k="name:en" v="Maghreb"/>
+  <tag k="name:eo" v="Magrebo"/>
+  <tag k="name:es" v="Magreb"/>
+  <tag k="name:et" v="Magrib"/>
+  <tag k="name:eu" v="Magreb"/>
+  <tag k="name:fa" v="مغرب عربی"/>
+  <tag k="name:fi" v="Maghreb"/>
+  <tag k="name:fr" v="Maghreb"/>
+  <tag k="name:fy" v="Magreb"/>
+  <tag k="name:ga" v="An Mhagraib"/>
+  <tag k="name:gl" v="Magreb"/>
+  <tag k="name:gn" v="Mageréve"/>
+  <tag k="name:he" v="מגרב"/>
+  <tag k="name:hi" v="मग़रेब"/>
+  <tag k="name:hr" v="Magreb"/>
+  <tag k="name:hu" v="Magreb"/>
+  <tag k="name:hy" v="Մաղրիբ"/>
+  <tag k="name:id" v="Arab Maghrib"/>
+  <tag k="name:is" v="Maghreb"/>
+  <tag k="name:it" v="Maghreb"/>
+  <tag k="name:ja" v="マグリブ"/>
+  <tag k="name:jv" v="Maghribi"/>
+  <tag k="name:ka" v="მაღრიბი"/>
+  <tag k="name:kg" v="Magribia"/>
+  <tag k="name:kk" v="Мағриб"/>
+  <tag k="name:ko" v="마그레브"/>
+  <tag k="name:ku" v="Mexrib"/>
+  <tag k="name:ky" v="Магриб"/>
+  <tag k="name:la" v="Barbaria (Africa)"/>
+  <tag k="name:lt" v="Magribas"/>
+  <tag k="name:lv" v="Magriba"/>
+  <tag k="name:mg" v="Magreba"/>
+  <tag k="name:mk" v="Магреб"/>
+  <tag k="name:mr" v="माघरेब"/>
+  <tag k="name:ms" v="Maghreb"/>
+  <tag k="name:nl" v="Maghreb"/>
+  <tag k="name:nn" v="Maghreb"/>
+  <tag k="name:no" v="Maghreb"/>
+  <tag k="name:nv" v="Ghą́ą́ʼaskʼidii Biłikahii Bikéyah (Ałtsʼáʼáztiin)"/>
+  <tag k="name:oc" v="Magrèb"/>
+  <tag k="name:pa" v="ਮਗ਼ਰਿਬ"/>
+  <tag k="name:pl" v="Maghreb"/>
+  <tag k="name:pt" v="Magrebe"/>
+  <tag k="name:ro" v="Magreb"/>
+  <tag k="name:ru" v="Магриб"/>
+  <tag k="name:sc" v="Magreb"/>
+  <tag k="name:sh" v="Magreb"/>
+  <tag k="name:sl" v="Magreb"/>
+  <tag k="name:so" v="Magrib (Gobol)"/>
+  <tag k="name:sq" v="Magrebi"/>
+  <tag k="name:sr" v="Магреб"/>
+  <tag k="name:sv" v="Maghreb"/>
+  <tag k="name:sw" v="Maghrib"/>
+  <tag k="name:ta" v="மக்ரிபு"/>
+  <tag k="name:th" v="อัลมัฆริบ"/>
+  <tag k="name:tl" v="Magreb"/>
+  <tag k="name:tr" v="Mağrip"/>
+  <tag k="name:tt" v="Мәгъриб"/>
+  <tag k="name:uk" v="Магриб"/>
+  <tag k="name:ur" v="المغرب"/>
+  <tag k="name:uz" v="Magʻrib"/>
+  <tag k="name:vi" v="Maghreb"/>
+  <tag k="name:wo" v="Maghreb"/>
+  <tag k="name:yo" v="Maghreb"/>
+  <tag k="name:zh" v="马格里布"/>
+  <tag k="place" v="region"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q28227"/>
+  <tag k="wikipedia" v="ar:المغرب العربي"/>
+ </relation>
+ <relation id="17070221" visible="true" version="1" changeset="146592432" timestamp="2024-01-23T13:06:12Z" user="ASMapper" uid="18520081">
+  <member type="node" ref="11542949839" role="admin_centre"/>
+  <member type="relation" ref="1473947" role="member_state"/>
+  <member type="relation" ref="304934" role="member_state"/>
+  <member type="relation" ref="184818" role="member_state"/>
+  <member type="relation" ref="184843" role="member_state"/>
+  <member type="relation" ref="307584" role="member_state"/>
+  <member type="relation" ref="184840" role="member_state"/>
+  <member type="relation" ref="192758" role="member_state"/>
+  <member type="relation" ref="192789" role="member_state"/>
+  <member type="relation" ref="192757" role="member_state"/>
+  <member type="relation" ref="305099" role="member_state"/>
+  <member type="relation" ref="192756" role="member_state"/>
+  <member type="relation" ref="378734" role="member_state"/>
+  <member type="relation" ref="305095" role="member_state"/>
+  <member type="relation" ref="305138" role="member_state"/>
+  <member type="relation" ref="307763" role="member_state"/>
+  <member type="relation" ref="192763" role="member_state"/>
+  <member type="relation" ref="192799" role="member_state"/>
+  <member type="relation" ref="1703814" role="member_state"/>
+  <member type="relation" ref="192801" role="member_state"/>
+  <member type="relation" ref="535790" role="member_state"/>
+  <member type="relation" ref="305092" role="member_state"/>
+  <member type="relation" ref="3630439" role="member_state"/>
+  <tag k="alt_name:ar" v="الجامعة العربية"/>
+  <tag k="alt_name:en" v="League of Arab States"/>
+  <tag k="emblem" v="File:Emblem of the Arab League.svg"/>
+  <tag k="flag" v="File:Flag of the Arab League.svg"/>
+  <tag k="name" v="جامعة الدول العربية"/>
+  <tag k="name:af" v="Arabiese Liga"/>
+  <tag k="name:am" v="የአረብ ማኅበር"/>
+  <tag k="name:an" v="Liga Arab"/>
+  <tag k="name:ar" v="جامعة الدول العربية"/>
+  <tag k="name:ast" v="Lliga d'Estaos Árabes"/>
+  <tag k="name:az" v="Ərəb Dövlətləri Liqası"/>
+  <tag k="name:azb" v="عرب بیرلیگی"/>
+  <tag k="name:ba" v="Ғәрәп илдәре лигаһы"/>
+  <tag k="name:bar" v="Arabische Liga"/>
+  <tag k="name:be" v="Ліга арабскіх дзяржаў"/>
+  <tag k="name:bg" v="Лига на арабските държави"/>
+  <tag k="name:bn" v="আরব লিগ"/>
+  <tag k="name:br" v="Kevre ar Stadoù Arab"/>
+  <tag k="name:bs" v="Arapska liga"/>
+  <tag k="name:ca" v="Lliga Àrab"/>
+  <tag k="name:ce" v="Ӏаьрбийн пачхьалкхийн лига"/>
+  <tag k="name:ckb" v="کۆمکاری عەرەبی"/>
+  <tag k="name:crh" v="Arap Birligi"/>
+  <tag k="name:cs" v="Liga arabských států"/>
+  <tag k="name:cy" v="Y Cynghrair Arabaidd"/>
+  <tag k="name:da" v="Den Arabiske Liga"/>
+  <tag k="name:de" v="Arabische Liga"/>
+  <tag k="name:diq" v="Liga Ereban"/>
+  <tag k="name:el" v="Αραβικός Σύνδεσμος"/>
+  <tag k="name:en" v="Arab League"/>
+  <tag k="name:eo" v="Ligo de Arabaj Ŝtatoj"/>
+  <tag k="name:es" v="Liga Árabe"/>
+  <tag k="name:et" v="Araabia Liiga"/>
+  <tag k="name:eu" v="Arabiar Liga"/>
+  <tag k="name:fa" v="اتحادیه عرب"/>
+  <tag k="name:fi" v="Arabiliitto"/>
+  <tag k="name:fr" v="Ligue arabe"/>
+  <tag k="name:fy" v="Arabyske Liga"/>
+  <tag k="name:gag" v="Arap Birlii"/>
+  <tag k="name:gl" v="Liga Árabe"/>
+  <tag k="name:gn" v="Atyha Árave"/>
+  <tag k="name:gv" v="Yn Commeeys Arabagh"/>
+  <tag k="name:hak" v="A-la-pak Liên-mên"/>
+  <tag k="name:he" v="הליגה הערבית"/>
+  <tag k="name:hi" v="अरब लीग"/>
+  <tag k="name:hif" v="Arab League"/>
+  <tag k="name:hu" v="Arab Liga"/>
+  <tag k="name:hy" v="Արաբական պետությունների լիգա"/>
+  <tag k="name:ia" v="Liga Arabe"/>
+  <tag k="name:id" v="Liga Arab"/>
+  <tag k="name:ilo" v="Liga ti Arabo"/>
+  <tag k="name:io" v="Arabiana Ligo"/>
+  <tag k="name:is" v="Arababandalagið"/>
+  <tag k="name:it" v="Lega araba"/>
+  <tag k="name:ja" v="アラブ連盟"/>
+  <tag k="name:jv" v="Liga Arab"/>
+  <tag k="name:ka" v="არაბული ქვეყნების ლიგა"/>
+  <tag k="name:kbp" v="Araabʋ waa ŋgbɛyɛ"/>
+  <tag k="name:kk" v="Араб мемлекеттері Лигасы"/>
+  <tag k="name:km" v="សម្ព័ន្ធអារ៉ាប់"/>
+  <tag k="name:ko" v="아랍 연맹"/>
+  <tag k="name:krc" v="Араб къралланы лигасы"/>
+  <tag k="name:ku" v="Yekîtiya Erebîkw=Kesunyans Arab"/>
+  <tag k="name:ky" v="Араб өлкөлөрүнүн лигасы"/>
+  <tag k="name:la" v="Foedus Arabicum"/>
+  <tag k="name:lb" v="Arabesch Liga"/>
+  <tag k="name:lfn" v="Alia Arabi"/>
+  <tag k="name:li" v="Arabische Liga"/>
+  <tag k="name:lij" v="Liga Araba"/>
+  <tag k="name:lmo" v="Liga Araba"/>
+  <tag k="name:lt" v="Arabų lyga"/>
+  <tag k="name:lv" v="Arābu valstu līga"/>
+  <tag k="name:mg" v="Liga arabo"/>
+  <tag k="name:min" v="Liga Arab"/>
+  <tag k="name:mk" v="Арапска лига"/>
+  <tag k="name:ml" v="അറബ് ലീഗ്"/>
+  <tag k="name:mn" v="Арабын Барилдлага"/>
+  <tag k="name:mr" v="अरब संघ"/>
+  <tag k="name:ms" v="Liga Arab"/>
+  <tag k="name:mwl" v="Liga Árabe"/>
+  <tag k="name:my" v="အာရပ်အဖွဲ့ချုပ်"/>
+  <tag k="name:mzn" v="عرب اتحادیه"/>
+  <tag k="name:ne" v="अरब लिग"/>
+  <tag k="name:nl" v="Arabische Liga"/>
+  <tag k="name:nn" v="Den arabiske ligaen"/>
+  <tag k="name:no" v="Den arabiske liga"/>
+  <tag k="name:nrm" v="Ligue Arabe"/>
+  <tag k="name:oc" v="Liga Aràbia"/>
+  <tag k="name:os" v="Араббаг Паддзахæдты Лигæ"/>
+  <tag k="name:pa" v="ਅਰਬ ਲੀਗ"/>
+  <tag k="name:pl" v="Liga Państw Arabskich"/>
+  <tag k="name:pms" v="Lega Àraba"/>
+  <tag k="name:pnb" v="عرب لیگ"/>
+  <tag k="name:ps" v="عربي ټولنه"/>
+  <tag k="name:pt" v="Liga Árabe"/>
+  <tag k="name:ro" v="Liga Arabă"/>
+  <tag k="name:ru" v="Лига арабских государств"/>
+  <tag k="name:rue" v="Арабска ліґа"/>
+  <tag k="name:sah" v="Араб Лигата"/>
+  <tag k="name:scn" v="Liga Àrabba"/>
+  <tag k="name:sco" v="Arab League"/>
+  <tag k="name:sd" v="عرب ليگ"/>
+  <tag k="name:sh" v="Arapska liga"/>
+  <tag k="name:sk" v="Liga arabských štátov"/>
+  <tag k="name:sl" v="Arabska liga"/>
+  <tag k="name:so" v="Jaamacada Carabta"/>
+  <tag k="name:sq" v="Lidhja Arabe"/>
+  <tag k="name:sr" v="Арапска лига"/>
+  <tag k="name:su" v="Liga Arab"/>
+  <tag k="name:sv" v="Arabförbundet"/>
+  <tag k="name:sw" v="Jumuiya ya Nchi za Kiarabu"/>
+  <tag k="name:ta" v="அரபு நாடுகள் கூட்டமைப்பு"/>
+  <tag k="name:te" v="అరబ్ లీగ్th=สันนิบาตอาหรับ"/>
+  <tag k="name:tl" v="Ligang Arabe"/>
+  <tag k="name:tr" v="Arap Birliği"/>
+  <tag k="name:tt" v="Гарәп Лигасы"/>
+  <tag k="name:uk" v="Ліга арабських держав"/>
+  <tag k="name:ur" v="عرب لیگ"/>
+  <tag k="name:uz" v="Arab davlatlari uyushmasi"/>
+  <tag k="name:vec" v="Liga àraba"/>
+  <tag k="name:vi" v="Liên đoàn Ả Rập"/>
+  <tag k="name:war" v="Liga Arabe"/>
+  <tag k="name:wuu" v="阿拉伯国家联盟"/>
+  <tag k="name:xmf" v="არაბული ქიანეფიშ ლიგა"/>
+  <tag k="name:yi" v="אראבישע ליגע"/>
+  <tag k="name:zea" v="Araobische Liga"/>
+  <tag k="name:zh" v="阿拉伯国家联盟"/>
+  <tag k="name:zh_min_nan" v="A-la-pek Liân-bêng"/>
+  <tag k="name:zh_yue" v="阿拉伯聯盟"/>
+  <tag k="note" v="This is a site relation because a huge boundary relation would be cumbersome and error-prone, and complex w.r.t. border disputes between Member States."/>
+  <tag k="place" v="supranational_union"/>
+  <tag k="population" v="462940089"/>
+  <tag k="type" v="treaty"/>
+  <tag k="wikidata" v="Q7172"/>
+  <tag k="wikipedia" v="ar:جامعة الدول العربية"/>
+ </relation>
+ <relation id="17990531" visible="true" version="21" changeset="173552213" timestamp="2025-10-20T18:57:18Z" user="OrDal" uid="10294500">
+  <member type="way" ref="1175242717" role="outer"/>
+  <member type="way" ref="1434885360" role="outer"/>
+  <member type="way" ref="284530553" role="outer"/>
+  <member type="way" ref="1211286901" role="outer"/>
+  <member type="way" ref="1175242979" role="outer"/>
+  <member type="way" ref="1211287612" role="outer"/>
+  <member type="way" ref="228505626" role="outer"/>
+  <member type="way" ref="307287028" role="outer"/>
+  <member type="way" ref="307287027" role="outer"/>
+  <member type="way" ref="307287031" role="outer"/>
+  <member type="way" ref="307287024" role="outer"/>
+  <member type="way" ref="288268010" role="outer"/>
+  <member type="way" ref="228633438" role="outer"/>
+  <member type="way" ref="228631990" role="outer"/>
+  <member type="way" ref="42127374" role="outer"/>
+  <member type="way" ref="157675601" role="outer"/>
+  <member type="way" ref="302819492" role="outer"/>
+  <member type="way" ref="104482779" role="outer"/>
+  <member type="way" ref="104482780" role="outer"/>
+  <member type="way" ref="152290150" role="outer"/>
+  <member type="way" ref="228631989" role="outer"/>
+  <member type="way" ref="152290149" role="outer"/>
+  <member type="way" ref="22758910" role="outer"/>
+  <member type="way" ref="284530558" role="outer"/>
+  <member type="way" ref="22758876" role="outer"/>
+  <member type="way" ref="617602037" role="outer"/>
+  <member type="way" ref="188315889" role="outer"/>
+  <member type="way" ref="305964866" role="outer"/>
+  <member type="way" ref="29312684" role="outer"/>
+  <member type="way" ref="590340387" role="outer"/>
+  <member type="way" ref="588672103" role="outer"/>
+  <member type="way" ref="588942197" role="outer"/>
+  <member type="way" ref="284530572" role="outer"/>
+  <member type="way" ref="188315882" role="outer"/>
+  <member type="way" ref="1168586330" role="outer"/>
+  <member type="way" ref="1171585770" role="outer"/>
+  <member type="way" ref="1168591848" role="outer"/>
+  <member type="way" ref="1168565803" role="outer"/>
+  <member type="way" ref="1249938580" role="outer"/>
+  <member type="way" ref="1253922230" role="outer"/>
+  <member type="way" ref="188282743" role="outer"/>
+  <member type="way" ref="1221357494" role="outer"/>
+  <member type="way" ref="1165379734" role="outer"/>
+  <member type="way" ref="1221355323" role="outer"/>
+  <member type="way" ref="1168565802" role="outer"/>
+  <member type="way" ref="1165352035" role="outer"/>
+  <member type="way" ref="1434692195" role="outer"/>
+  <member type="way" ref="223688717" role="outer"/>
+  <member type="way" ref="22758402" role="outer"/>
+  <member type="way" ref="284530552" role="outer"/>
+  <member type="way" ref="617602107" role="outer"/>
+  <member type="way" ref="1071464085" role="outer"/>
+  <member type="way" ref="1378302411" role="outer"/>
+  <member type="way" ref="136109837" role="outer"/>
+  <member type="way" ref="1071464084" role="outer"/>
+  <member type="way" ref="1378289063" role="outer"/>
+  <member type="way" ref="32045039" role="outer"/>
+  <member type="way" ref="400969322" role="outer"/>
+  <member type="way" ref="400969321" role="outer"/>
+  <member type="way" ref="391251139" role="outer"/>
+  <member type="way" ref="391251137" role="outer"/>
+  <member type="way" ref="391238256" role="outer"/>
+  <member type="way" ref="391231394" role="outer"/>
+  <member type="way" ref="391253540" role="outer"/>
+  <member type="way" ref="400969326" role="outer"/>
+  <member type="way" ref="391253061" role="outer"/>
+  <member type="way" ref="744815491" role="outer"/>
+  <member type="way" ref="299164845" role="outer"/>
+  <member type="way" ref="299164865" role="outer"/>
+  <member type="way" ref="299164859" role="outer"/>
+  <member type="way" ref="299164844" role="outer"/>
+  <member type="way" ref="299164893" role="outer"/>
+  <member type="way" ref="299164849" role="outer"/>
+  <member type="way" ref="251877680" role="outer"/>
+  <member type="way" ref="136107230" role="outer"/>
+  <member type="way" ref="136107221" role="outer"/>
+  <member type="way" ref="136107176" role="outer"/>
+  <member type="way" ref="597596668" role="outer"/>
+  <member type="way" ref="530288784" role="outer"/>
+  <member type="way" ref="136107193" role="outer"/>
+  <member type="way" ref="237890949" role="outer"/>
+  <member type="way" ref="617602196" role="outer"/>
+  <member type="way" ref="284530567" role="outer"/>
+  <member type="way" ref="136107227" role="outer"/>
+  <member type="way" ref="164202572" role="outer"/>
+  <member type="way" ref="237890948" role="outer"/>
+  <member type="way" ref="1008199489" role="outer"/>
+  <member type="way" ref="164204743" role="outer"/>
+  <member type="way" ref="164204750" role="outer"/>
+  <member type="way" ref="1346334210" role="outer"/>
+  <member type="way" ref="136107217" role="outer"/>
+  <member type="way" ref="1346334209" role="outer"/>
+  <member type="way" ref="284530559" role="outer"/>
+  <member type="way" ref="1348915408" role="outer"/>
+  <member type="way" ref="1346334202" role="outer"/>
+  <member type="way" ref="1010355719" role="outer"/>
+  <member type="way" ref="617602160" role="outer"/>
+  <member type="way" ref="1346334208" role="outer"/>
+  <member type="way" ref="1346334207" role="outer"/>
+  <member type="way" ref="500093813" role="outer"/>
+  <member type="way" ref="1009740544" role="outer"/>
+  <member type="way" ref="136107226" role="outer"/>
+  <member type="way" ref="1009710453" role="outer"/>
+  <member type="way" ref="1009710452" role="outer"/>
+  <member type="way" ref="1009713035" role="outer"/>
+  <member type="way" ref="136107229" role="outer"/>
+  <member type="way" ref="617602175" role="outer"/>
+  <member type="way" ref="1009714263" role="outer"/>
+  <member type="way" ref="284530561" role="outer"/>
+  <member type="way" ref="1009714264" role="outer"/>
+  <member type="way" ref="617601995" role="outer"/>
+  <member type="way" ref="617601992" role="outer"/>
+  <member type="way" ref="284530560" role="outer"/>
+  <member type="way" ref="333067952" role="outer"/>
+  <member type="way" ref="333237428" role="outer"/>
+  <member type="way" ref="233343157" role="outer"/>
+  <member type="way" ref="1034537240" role="outer"/>
+  <member type="way" ref="1039094817" role="outer"/>
+  <member type="way" ref="1034537243" role="outer"/>
+  <member type="way" ref="1040563535" role="outer"/>
+  <member type="way" ref="333067951" role="outer"/>
+  <member type="way" ref="1024846527" role="outer"/>
+  <member type="way" ref="1024846531" role="outer"/>
+  <member type="way" ref="1024846530" role="outer"/>
+  <member type="way" ref="1024846541" role="outer"/>
+  <member type="way" ref="1009724396" role="outer"/>
+  <member type="way" ref="233343158" role="outer"/>
+  <member type="way" ref="120920363" role="outer"/>
+  <member type="way" ref="280301186" role="outer"/>
+  <member type="way" ref="333067949" role="outer"/>
+  <member type="way" ref="1000817704" role="outer"/>
+  <member type="way" ref="333071993" role="outer"/>
+  <member type="way" ref="682318877" role="outer"/>
+  <member type="way" ref="165154636" role="outer"/>
+  <member type="way" ref="243478380" role="outer"/>
+  <member type="way" ref="333067950" role="outer"/>
+  <member type="way" ref="284530557" role="outer"/>
+  <member type="way" ref="1000817705" role="outer"/>
+  <member type="way" ref="31661592" role="outer"/>
+  <member type="way" ref="244502648" role="outer"/>
+  <member type="way" ref="1013806443" role="outer"/>
+  <member type="way" ref="204044249" role="outer"/>
+  <member type="way" ref="284530556" role="outer"/>
+  <member type="way" ref="332538294" role="outer"/>
+  <member type="way" ref="31666973" role="outer"/>
+  <member type="way" ref="699290899" role="outer"/>
+  <member type="way" ref="31425556" role="outer"/>
+  <member type="way" ref="284530554" role="outer"/>
+  <member type="way" ref="22758657" role="outer"/>
+  <member type="way" ref="332538293" role="outer"/>
+  <member type="way" ref="329140507" role="outer"/>
+  <member type="way" ref="284530555" role="outer"/>
+  <member type="way" ref="295100139" role="outer"/>
+  <member type="way" ref="22758673" role="outer"/>
+  <member type="way" ref="22758727" role="outer"/>
+  <member type="way" ref="293502708" role="outer"/>
+  <member type="way" ref="329141614" role="outer"/>
+  <member type="way" ref="329140508" role="outer"/>
+  <member type="way" ref="733045372" role="outer"/>
+  <member type="way" ref="733045371" role="outer"/>
+  <member type="way" ref="152389550" role="outer"/>
+  <member type="way" ref="157708993" role="outer"/>
+  <member type="way" ref="293420903" role="outer"/>
+  <member type="way" ref="293420905" role="outer"/>
+  <member type="way" ref="295096721" role="outer"/>
+  <member type="way" ref="293420907" role="outer"/>
+  <member type="way" ref="293323850" role="outer"/>
+  <member type="way" ref="1238643372" role="outer"/>
+  <member type="way" ref="318900942" role="outer"/>
+  <member type="way" ref="295096718" role="outer"/>
+  <member type="way" ref="318900937" role="outer"/>
+  <member type="way" ref="295100947" role="outer"/>
+  <member type="way" ref="318900938" role="outer"/>
+  <member type="way" ref="228505627" role="outer"/>
+  <member type="way" ref="42129577" role="outer"/>
+  <member type="way" ref="407496385" role="outer"/>
+  <member type="way" ref="1238643374" role="outer"/>
+  <member type="way" ref="47814848" role="outer"/>
+  <member type="way" ref="315084828" role="outer"/>
+  <member type="way" ref="47792533" role="outer"/>
+  <member type="way" ref="711666324" role="outer"/>
+  <member type="way" ref="711666296" role="outer"/>
+  <member type="way" ref="315084825" role="outer"/>
+  <member type="way" ref="711666295" role="outer"/>
+  <member type="way" ref="711710432" role="outer"/>
+  <member type="way" ref="711710434" role="outer"/>
+  <member type="way" ref="49187655" role="outer"/>
+  <member type="way" ref="711710435" role="outer"/>
+  <member type="way" ref="48213950" role="outer"/>
+  <member type="way" ref="315084831" role="outer"/>
+  <member type="way" ref="315084826" role="outer"/>
+  <member type="way" ref="711604331" role="outer"/>
+  <member type="way" ref="315084833" role="outer"/>
+  <member type="way" ref="315084837" role="outer"/>
+  <member type="way" ref="48213953" role="outer"/>
+  <member type="way" ref="157708996" role="outer"/>
+  <member type="way" ref="176912352" role="outer"/>
+  <member type="way" ref="48213952" role="outer"/>
+  <member type="way" ref="48213948" role="outer"/>
+  <member type="way" ref="48213965" role="outer"/>
+  <member type="way" ref="48213964" role="outer"/>
+  <member type="way" ref="48213962" role="outer"/>
+  <member type="way" ref="588757613" role="outer"/>
+  <member type="way" ref="1238109422" role="outer"/>
+  <member type="way" ref="157490042" role="outer"/>
+  <member type="way" ref="283845805" role="outer"/>
+  <member type="way" ref="283845790" role="outer"/>
+  <member type="way" ref="283845801" role="outer"/>
+  <member type="way" ref="157406986" role="outer"/>
+  <member type="way" ref="305825483" role="outer"/>
+  <member type="way" ref="305825487" role="outer"/>
+  <member type="way" ref="157387293" role="outer"/>
+  <member type="way" ref="157403930" role="outer"/>
+  <member type="way" ref="283845795" role="outer"/>
+  <member type="way" ref="283845810" role="outer"/>
+  <member type="way" ref="283845814" role="outer"/>
+  <member type="way" ref="283845817" role="outer"/>
+  <member type="way" ref="283845820" role="outer"/>
+  <member type="way" ref="985656719" role="outer"/>
+  <member type="way" ref="1170962560" role="outer"/>
+  <member type="way" ref="1170962561" role="outer"/>
+  <member type="way" ref="157406971" role="outer"/>
+  <member type="way" ref="305825480" role="outer"/>
+  <member type="way" ref="305825472" role="outer"/>
+  <member type="way" ref="305825482" role="outer"/>
+  <member type="way" ref="305917643" role="outer"/>
+  <member type="way" ref="305917648" role="outer"/>
+  <member type="way" ref="305825486" role="outer"/>
+  <member type="way" ref="305825476" role="outer"/>
+  <member type="way" ref="305825478" role="outer"/>
+  <member type="way" ref="157490056" role="outer"/>
+  <member type="way" ref="227486574" role="outer"/>
+  <member type="way" ref="306443664" role="outer"/>
+  <member type="way" ref="157490055" role="outer"/>
+  <member type="way" ref="305917641" role="outer"/>
+  <member type="way" ref="305917655" role="outer"/>
+  <member type="way" ref="305917647" role="outer"/>
+  <member type="way" ref="305917635" role="outer"/>
+  <member type="way" ref="306443663" role="outer"/>
+  <member type="way" ref="306443661" role="outer"/>
+  <member type="way" ref="306443660" role="outer"/>
+  <member type="way" ref="362320197" role="outer"/>
+  <member type="way" ref="306443658" role="outer"/>
+  <member type="way" ref="1053170209" role="outer"/>
+  <member type="way" ref="157409979" role="outer"/>
+  <member type="way" ref="914440009" role="outer"/>
+  <member type="way" ref="914440011" role="outer"/>
+  <member type="way" ref="914440022" role="outer"/>
+  <member type="way" ref="914440012" role="outer"/>
+  <member type="way" ref="914440014" role="outer"/>
+  <member type="way" ref="914440008" role="outer"/>
+  <member type="way" ref="914440017" role="outer"/>
+  <member type="way" ref="914440018" role="outer"/>
+  <member type="way" ref="914440020" role="outer"/>
+  <member type="way" ref="914440021" role="outer"/>
+  <member type="way" ref="440778238" role="outer"/>
+  <member type="way" ref="28292258" role="outer"/>
+  <member type="way" ref="797110116" role="outer"/>
+  <member type="way" ref="440778247" role="outer"/>
+  <member type="way" ref="440778235" role="outer"/>
+  <member type="way" ref="797110125" role="outer"/>
+  <member type="way" ref="1242424704" role="outer"/>
+  <member type="way" ref="797110126" role="outer"/>
+  <member type="way" ref="797737953" role="outer"/>
+  <member type="way" ref="440778250" role="outer"/>
+  <member type="way" ref="797737955" role="outer"/>
+  <member type="way" ref="440778248" role="outer"/>
+  <member type="way" ref="991415563" role="outer"/>
+  <member type="way" ref="288588797" role="outer"/>
+  <member type="way" ref="240480363" role="outer"/>
+  <member type="way" ref="797737961" role="outer"/>
+  <member type="way" ref="440778242" role="outer"/>
+  <member type="way" ref="288588814" role="outer"/>
+  <member type="way" ref="440778252" role="outer"/>
+  <member type="way" ref="288588795" role="outer"/>
+  <member type="way" ref="288588796" role="outer"/>
+  <member type="way" ref="797737959" role="outer"/>
+  <member type="way" ref="797737976" role="outer"/>
+  <member type="way" ref="440782003" role="outer"/>
+  <member type="way" ref="440782001" role="outer"/>
+  <member type="way" ref="288588794" role="outer"/>
+  <member type="way" ref="798528012" role="outer"/>
+  <member type="way" ref="783614406" role="outer"/>
+  <member type="way" ref="288588785" role="outer"/>
+  <member type="way" ref="798528001" role="outer"/>
+  <member type="way" ref="440781980" role="outer"/>
+  <member type="way" ref="991348017" role="outer"/>
+  <member type="way" ref="288588734" role="outer"/>
+  <member type="way" ref="288588783" role="outer"/>
+  <member type="way" ref="440781937" role="outer"/>
+  <member type="way" ref="970005809" role="outer"/>
+  <member type="way" ref="288588782" role="outer"/>
+  <member type="way" ref="345436224" role="outer"/>
+  <member type="way" ref="440781945" role="outer"/>
+  <member type="way" ref="799322134" role="outer"/>
+  <member type="way" ref="440781947" role="outer"/>
+  <member type="way" ref="288588763" role="outer"/>
+  <member type="way" ref="288588764" role="outer"/>
+  <member type="way" ref="288588765" role="outer"/>
+  <member type="way" ref="440781977" role="outer"/>
+  <member type="way" ref="288588781" role="outer"/>
+  <member type="way" ref="440781998" role="outer"/>
+  <member type="way" ref="783613485" role="outer"/>
+  <member type="way" ref="288588784" role="outer"/>
+  <member type="way" ref="440781994" role="outer"/>
+  <member type="way" ref="288588767" role="outer"/>
+  <member type="way" ref="288522571" role="outer"/>
+  <member type="way" ref="440781922" role="outer"/>
+  <member type="way" ref="288522570" role="outer"/>
+  <member type="way" ref="288357257" role="outer"/>
+  <member type="way" ref="799542220" role="outer"/>
+  <member type="way" ref="799542223" role="outer"/>
+  <member type="way" ref="440781931" role="outer"/>
+  <member type="way" ref="440781955" role="outer"/>
+  <member type="way" ref="800046781" role="outer"/>
+  <member type="way" ref="288357248" role="outer"/>
+  <member type="way" ref="440781991" role="outer"/>
+  <member type="way" ref="440781925" role="outer"/>
+  <member type="way" ref="991855144" role="outer"/>
+  <member type="way" ref="991855145" role="outer"/>
+  <member type="way" ref="345828022" role="outer"/>
+  <member type="way" ref="209165279" role="outer"/>
+  <member type="way" ref="209165265" role="outer"/>
+  <member type="way" ref="991855146" role="outer"/>
+  <member type="way" ref="991855148" role="outer"/>
+  <member type="way" ref="991855147" role="outer"/>
+  <member type="way" ref="800046806" role="outer"/>
+  <member type="way" ref="288357260" role="outer"/>
+  <member type="way" ref="800046808" role="outer"/>
+  <member type="way" ref="440784374" role="outer"/>
+  <member type="way" ref="991897294" role="outer"/>
+  <member type="way" ref="288357273" role="outer"/>
+  <member type="way" ref="683618583" role="outer"/>
+  <member type="way" ref="440784373" role="outer"/>
+  <member type="way" ref="781596749" role="outer"/>
+  <member type="way" ref="781596868" role="outer"/>
+  <member type="way" ref="288357271" role="outer"/>
+  <member type="way" ref="440784376" role="outer"/>
+  <member type="way" ref="440784379" role="outer"/>
+  <member type="way" ref="288357282" role="outer"/>
+  <member type="way" ref="440784378" role="outer"/>
+  <member type="way" ref="440784372" role="outer"/>
+  <member type="way" ref="440784375" role="outer"/>
+  <member type="way" ref="288362893" role="outer"/>
+  <member type="way" ref="902091568" role="outer"/>
+  <member type="way" ref="902091567" role="outer"/>
+  <member type="way" ref="440784377" role="outer"/>
+  <member type="way" ref="895157337" role="outer"/>
+  <member type="way" ref="288357280" role="outer"/>
+  <member type="way" ref="440954181" role="outer"/>
+  <member type="way" ref="440954182" role="outer"/>
+  <member type="way" ref="288508108" role="outer"/>
+  <member type="way" ref="440736888" role="outer"/>
+  <member type="way" ref="781549207" role="outer"/>
+  <member type="way" ref="288508036" role="outer"/>
+  <member type="way" ref="288508058" role="outer"/>
+  <member type="way" ref="440897772" role="outer"/>
+  <member type="way" ref="288508050" role="outer"/>
+  <member type="way" ref="782238971" role="outer"/>
+  <member type="way" ref="782657255" role="outer"/>
+  <member type="way" ref="288508041" role="outer"/>
+  <member type="way" ref="440897776" role="outer"/>
+  <member type="way" ref="288508088" role="outer"/>
+  <member type="way" ref="782232451" role="outer"/>
+  <member type="way" ref="440897773" role="outer"/>
+  <member type="way" ref="288513386" role="outer"/>
+  <member type="way" ref="782219686" role="outer"/>
+  <member type="way" ref="288602593" role="outer"/>
+  <member type="way" ref="783629073" role="outer"/>
+  <member type="way" ref="440897777" role="outer"/>
+  <member type="way" ref="801503034" role="outer"/>
+  <member type="way" ref="132397360" role="outer"/>
+  <member type="way" ref="801503026" role="outer"/>
+  <member type="way" ref="440897775" role="outer"/>
+  <member type="way" ref="288513385" role="outer"/>
+  <member type="way" ref="801503023" role="outer"/>
+  <member type="way" ref="288513384" role="outer"/>
+  <member type="way" ref="440897774" role="outer"/>
+  <member type="way" ref="440956924" role="outer"/>
+  <member type="way" ref="288513387" role="outer"/>
+  <member type="way" ref="15221706" role="outer"/>
+  <member type="way" ref="663587447" role="outer"/>
+  <member type="way" ref="132364293" role="outer"/>
+  <member type="way" ref="132364353" role="outer"/>
+  <member type="way" ref="132364316" role="outer"/>
+  <member type="way" ref="663316915" role="outer"/>
+  <member type="way" ref="288606516" role="outer"/>
+  <member type="way" ref="132364322" role="outer"/>
+  <member type="way" ref="801442716" role="outer"/>
+  <member type="way" ref="663315892" role="outer"/>
+  <member type="way" ref="963312879" role="outer"/>
+  <member type="way" ref="132364300" role="outer"/>
+  <member type="way" ref="663446015" role="outer"/>
+  <member type="way" ref="663447852" role="outer"/>
+  <member type="way" ref="132364350" role="outer"/>
+  <member type="way" ref="132364287" role="outer"/>
+  <member type="way" ref="95697928" role="outer"/>
+  <member type="way" ref="132357274" role="outer"/>
+  <member type="way" ref="132357268" role="outer"/>
+  <member type="way" ref="132357265" role="outer"/>
+  <member type="way" ref="132357267" role="outer"/>
+  <member type="way" ref="95347614" role="outer"/>
+  <member type="way" ref="132355974" role="outer"/>
+  <member type="way" ref="132355971" role="outer"/>
+  <member type="way" ref="132355968" role="outer"/>
+  <member type="way" ref="15219944" role="outer"/>
+  <member type="way" ref="132353385" role="outer"/>
+  <member type="way" ref="551156240" role="outer"/>
+  <member type="way" ref="132353399" role="outer"/>
+  <member type="way" ref="132353387" role="outer"/>
+  <member type="way" ref="132353396" role="outer"/>
+  <member type="way" ref="800821355" role="outer"/>
+  <member type="way" ref="132353390" role="outer"/>
+  <member type="way" ref="132353393" role="outer"/>
+  <member type="way" ref="800821348" role="outer"/>
+  <member type="way" ref="825181237" role="outer"/>
+  <member type="way" ref="825181238" role="outer"/>
+  <member type="way" ref="33049345" role="outer"/>
+  <member type="way" ref="129786238" role="outer"/>
+  <member type="way" ref="1031912667" role="outer"/>
+  <member type="way" ref="1251220394" role="outer"/>
+  <member type="way" ref="1040210702" role="outer"/>
+  <member type="way" ref="1036455727" role="outer"/>
+  <member type="way" ref="1031912668" role="outer"/>
+  <member type="way" ref="129901507" role="outer"/>
+  <member type="way" ref="129901506" role="outer"/>
+  <member type="way" ref="794890036" role="outer"/>
+  <member type="way" ref="93601735" role="outer"/>
+  <member type="way" ref="1306909513" role="outer"/>
+  <member type="way" ref="123849113" role="outer"/>
+  <member type="way" ref="931993859" role="outer"/>
+  <member type="way" ref="132331729" role="outer"/>
+  <member type="way" ref="795041610" role="outer"/>
+  <member type="way" ref="884072705" role="outer"/>
+  <member type="way" ref="884072704" role="outer"/>
+  <member type="way" ref="15219812" role="outer"/>
+  <member type="way" ref="840061286" role="outer"/>
+  <member type="way" ref="840061284" role="outer"/>
+  <member type="way" ref="840082001" role="outer"/>
+  <member type="way" ref="840082004" role="outer"/>
+  <member type="way" ref="1306199576" role="outer"/>
+  <member type="way" ref="132332913" role="outer"/>
+  <member type="way" ref="943911157" role="outer"/>
+  <member type="way" ref="33049272" role="outer"/>
+  <member type="way" ref="881298286" role="outer"/>
+  <member type="way" ref="794841530" role="outer"/>
+  <member type="way" ref="364377898" role="outer"/>
+  <member type="way" ref="880916888" role="outer"/>
+  <member type="way" ref="364377895" role="outer"/>
+  <member type="way" ref="881408472" role="outer"/>
+  <member type="way" ref="884072715" role="outer"/>
+  <member type="way" ref="884072717" role="outer"/>
+  <member type="way" ref="1305919646" role="outer"/>
+  <member type="way" ref="1275567750" role="outer"/>
+  <member type="way" ref="132334537" role="outer"/>
+  <member type="way" ref="879267404" role="outer"/>
+  <member type="way" ref="879267401" role="outer"/>
+  <member type="way" ref="879267398" role="outer"/>
+  <member type="way" ref="879267395" role="outer"/>
+  <member type="way" ref="878664050" role="outer"/>
+  <member type="way" ref="878673435" role="outer"/>
+  <member type="way" ref="878673438" role="outer"/>
+  <member type="way" ref="878673441" role="outer"/>
+  <member type="way" ref="1274164532" role="outer"/>
+  <member type="way" ref="132335786" role="outer"/>
+  <member type="way" ref="1271964939" role="outer"/>
+  <member type="way" ref="1271964938" role="outer"/>
+  <member type="way" ref="1271964937" role="outer"/>
+  <member type="way" ref="1271964936" role="outer"/>
+  <member type="way" ref="1263828448" role="outer"/>
+  <member type="way" ref="1261924385" role="outer"/>
+  <member type="way" ref="1259151289" role="outer"/>
+  <member type="way" ref="1274737940" role="outer"/>
+  <member type="way" ref="1274737943" role="outer"/>
+  <member type="way" ref="1258763677" role="outer"/>
+  <member type="way" ref="1274737946" role="outer"/>
+  <member type="way" ref="1274737949" role="outer"/>
+  <member type="way" ref="1274737952" role="outer"/>
+  <member type="way" ref="1274737955" role="outer"/>
+  <member type="way" ref="1274737958" role="outer"/>
+  <member type="way" ref="1274737961" role="outer"/>
+  <member type="way" ref="1257545183" role="outer"/>
+  <member type="way" ref="1274737969" role="outer"/>
+  <member type="way" ref="1274737972" role="outer"/>
+  <member type="way" ref="1257545182" role="outer"/>
+  <member type="way" ref="1274737975" role="outer"/>
+  <member type="way" ref="1274737978" role="outer"/>
+  <member type="way" ref="1256543084" role="outer"/>
+  <member type="way" ref="1274737982" role="outer"/>
+  <member type="way" ref="1255270589" role="outer"/>
+  <member type="way" ref="1255152321" role="outer"/>
+  <member type="way" ref="898255498" role="outer"/>
+  <member type="way" ref="1254797383" role="outer"/>
+  <member type="way" ref="1254557042" role="outer"/>
+  <member type="way" ref="1254557041" role="outer"/>
+  <member type="way" ref="1254526320" role="outer"/>
+  <member type="way" ref="1254526319" role="outer"/>
+  <member type="way" ref="1253374532" role="outer"/>
+  <member type="way" ref="1253374531" role="outer"/>
+  <member type="way" ref="1019097617" role="outer"/>
+  <member type="way" ref="1253268283" role="outer"/>
+  <member type="way" ref="1253268282" role="outer"/>
+  <member type="way" ref="1252886944" role="outer"/>
+  <member type="way" ref="1252237385" role="outer"/>
+  <member type="way" ref="1251940791" role="outer"/>
+  <member type="way" ref="1251654353" role="outer"/>
+  <member type="way" ref="1274730859" role="outer"/>
+  <member type="way" ref="1251748779" role="outer"/>
+  <member type="way" ref="1249563688" role="outer"/>
+  <member type="way" ref="1274730857" role="outer"/>
+  <member type="way" ref="1249275161" role="outer"/>
+  <member type="way" ref="1246820228" role="outer"/>
+  <member type="way" ref="1246788181" role="outer"/>
+  <member type="way" ref="1244152386" role="outer"/>
+  <member type="way" ref="1243662953" role="outer"/>
+  <member type="way" ref="1241677012" role="outer"/>
+  <member type="way" ref="1240448707" role="outer"/>
+  <member type="way" ref="132345343" role="outer"/>
+  <member type="way" ref="795849486" role="outer"/>
+  <member type="way" ref="795849489" role="outer"/>
+  <member type="way" ref="795849495" role="outer"/>
+  <member type="way" ref="82536516" role="outer"/>
+  <member type="way" ref="1039463751" role="outer"/>
+  <member type="way" ref="82590847" role="outer"/>
+  <member type="way" ref="82540658" role="outer"/>
+  <member type="way" ref="82540656" role="outer"/>
+  <member type="way" ref="795849432" role="outer"/>
+  <member type="way" ref="132346155" role="outer"/>
+  <member type="way" ref="1216866082" role="outer"/>
+  <member type="way" ref="1217041394" role="outer"/>
+  <member type="way" ref="1217041395" role="outer"/>
+  <member type="way" ref="1217125873" role="outer"/>
+  <member type="way" ref="1229685792" role="outer"/>
+  <member type="way" ref="1230362466" role="outer"/>
+  <member type="way" ref="1230414713" role="outer"/>
+  <member type="way" ref="46768554" role="outer"/>
+  <member type="way" ref="176320118" role="outer"/>
+  <member type="way" ref="176321346" role="outer"/>
+  <member type="way" ref="151498855" role="outer"/>
+  <member type="way" ref="96338327" role="outer"/>
+  <member type="way" ref="809220318" role="outer"/>
+  <member type="way" ref="705761711" role="outer"/>
+  <member type="way" ref="809216992" role="outer"/>
+  <member type="way" ref="727154583" role="outer"/>
+  <member type="way" ref="121665455" role="outer"/>
+  <member type="way" ref="842728831" role="outer"/>
+  <member type="way" ref="809557092" role="outer"/>
+  <member type="way" ref="843173726" role="outer"/>
+  <member type="way" ref="843172556" role="outer"/>
+  <member type="way" ref="843467411" role="outer"/>
+  <member type="way" ref="843174838" role="outer"/>
+  <member type="way" ref="705767183" role="outer"/>
+  <member type="way" ref="843469482" role="outer"/>
+  <member type="way" ref="705761714" role="outer"/>
+  <member type="way" ref="843473372" role="outer"/>
+  <member type="way" ref="843471670" role="outer"/>
+  <member type="way" ref="843471669" role="outer"/>
+  <member type="way" ref="705757472" role="outer"/>
+  <member type="way" ref="844610158" role="outer"/>
+  <member type="way" ref="705757471" role="outer"/>
+  <member type="way" ref="705757470" role="outer"/>
+  <member type="way" ref="844610719" role="outer"/>
+  <member type="way" ref="705757473" role="outer"/>
+  <member type="way" ref="844612006" role="outer"/>
+  <member type="way" ref="705767181" role="outer"/>
+  <member type="way" ref="705757469" role="outer"/>
+  <member type="way" ref="705757468" role="outer"/>
+  <member type="way" ref="842411533" role="outer"/>
+  <member type="way" ref="705757467" role="outer"/>
+  <member type="way" ref="846542353" role="outer"/>
+  <member type="way" ref="734631233" role="outer"/>
+  <member type="way" ref="846773516" role="outer"/>
+  <member type="way" ref="846774321" role="outer"/>
+  <member type="way" ref="705757465" role="outer"/>
+  <member type="way" ref="762630940" role="outer"/>
+  <member type="way" ref="977388213" role="outer"/>
+  <member type="way" ref="95332414" role="outer"/>
+  <member type="way" ref="762630935" role="outer"/>
+  <member type="way" ref="977388821" role="outer"/>
+  <member type="way" ref="973111015" role="outer"/>
+  <member type="way" ref="762630936" role="outer"/>
+  <member type="way" ref="705757463" role="outer"/>
+  <member type="way" ref="705757464" role="outer"/>
+  <member type="way" ref="705757474" role="outer"/>
+  <member type="way" ref="705767185" role="outer"/>
+  <member type="way" ref="1188316287" role="outer"/>
+  <member type="way" ref="1188316285" role="outer"/>
+  <member type="way" ref="775320300" role="outer"/>
+  <member type="way" ref="726147609" role="outer"/>
+  <member type="way" ref="705767182" role="outer"/>
+  <member type="way" ref="775320301" role="outer"/>
+  <member type="way" ref="842176370" role="outer"/>
+  <member type="way" ref="830869382" role="outer"/>
+  <member type="way" ref="95034190" role="outer"/>
+  <member type="way" ref="793722585" role="outer"/>
+  <member type="way" ref="793722588" role="outer"/>
+  <member type="way" ref="1194778776" role="outer"/>
+  <member type="way" ref="793722591" role="outer"/>
+  <member type="way" ref="727771000" role="outer"/>
+  <member type="way" ref="996965114" role="outer"/>
+  <member type="way" ref="1193372980" role="outer"/>
+  <member type="way" ref="733999333" role="outer"/>
+  <member type="way" ref="95940720" role="outer"/>
+  <member type="way" ref="30183298" role="outer"/>
+  <member type="way" ref="844627332" role="outer"/>
+  <member type="way" ref="232271743" role="outer"/>
+  <member type="way" ref="334997453" role="outer"/>
+  <member type="way" ref="87236950" role="outer"/>
+  <member type="way" ref="96205624" role="outer"/>
+  <member type="way" ref="87238345" role="outer"/>
+  <member type="way" ref="95533408" role="outer"/>
+  <member type="way" ref="88681787" role="outer"/>
+  <member type="way" ref="731991148" role="outer"/>
+  <member type="way" ref="731991158" role="outer"/>
+  <member type="way" ref="95065889" role="outer"/>
+  <member type="way" ref="96645255" role="outer"/>
+  <member type="way" ref="727849235" role="outer"/>
+  <member type="way" ref="96647156" role="outer"/>
+  <member type="way" ref="97194318" role="outer"/>
+  <member type="way" ref="1443554203" role="outer"/>
+  <member type="way" ref="87238573" role="outer"/>
+  <member type="way" ref="41848028" role="outer"/>
+  <member type="way" ref="97194069" role="outer"/>
+  <member type="way" ref="727826004" role="outer"/>
+  <member type="way" ref="727826003" role="outer"/>
+  <member type="way" ref="97193996" role="outer"/>
+  <member type="way" ref="97193995" role="outer"/>
+  <member type="way" ref="726563721" role="outer"/>
+  <member type="way" ref="97193949" role="outer"/>
+  <member type="way" ref="97193825" role="outer"/>
+  <member type="way" ref="887627432" role="outer"/>
+  <member type="way" ref="887627431" role="outer"/>
+  <member type="way" ref="97193774" role="outer"/>
+  <member type="way" ref="334997448" role="outer"/>
+  <member type="way" ref="96411999" role="outer"/>
+  <member type="way" ref="87236644" role="outer"/>
+  <member type="way" ref="96412005" role="outer"/>
+  <member type="way" ref="986219290" role="outer"/>
+  <member type="way" ref="882345388" role="outer"/>
+  <member type="way" ref="97947186" role="outer"/>
+  <member type="way" ref="97947187" role="outer"/>
+  <member type="way" ref="882345387" role="outer"/>
+  <member type="way" ref="882345389" role="outer"/>
+  <member type="way" ref="882345391" role="outer"/>
+  <member type="way" ref="97590098" role="outer"/>
+  <member type="way" ref="882345390" role="outer"/>
+  <member type="way" ref="728881433" role="outer"/>
+  <member type="way" ref="882345392" role="outer"/>
+  <member type="way" ref="507336645" role="outer"/>
+  <member type="way" ref="334997454" role="outer"/>
+  <member type="way" ref="97505980" role="outer"/>
+  <member type="way" ref="844720189" role="outer"/>
+  <member type="way" ref="444750635" role="outer"/>
+  <member type="way" ref="1042593027" role="outer"/>
+  <member type="way" ref="444750627" role="outer"/>
+  <member type="way" ref="444750599" role="outer"/>
+  <member type="way" ref="444750615" role="outer"/>
+  <member type="way" ref="444750582" role="outer"/>
+  <member type="way" ref="882477215" role="outer"/>
+  <member type="way" ref="1042593028" role="outer"/>
+  <member type="way" ref="882477219" role="outer"/>
+  <member type="way" ref="444750594" role="outer"/>
+  <member type="way" ref="444196255" role="outer"/>
+  <member type="way" ref="444194385" role="outer"/>
+  <member type="way" ref="745123102" role="outer"/>
+  <member type="way" ref="745123101" role="outer"/>
+  <member type="way" ref="725150812" role="outer"/>
+  <member type="way" ref="725150822" role="outer"/>
+  <member type="way" ref="725150815" role="outer"/>
+  <member type="way" ref="725150814" role="outer"/>
+  <member type="way" ref="737409143" role="outer"/>
+  <member type="way" ref="458028919" role="outer"/>
+  <member type="way" ref="457956197" role="outer"/>
+  <member type="way" ref="574231686" role="outer"/>
+  <member type="way" ref="458053102" role="outer"/>
+  <member type="way" ref="458053095" role="outer"/>
+  <member type="way" ref="444194386" role="outer"/>
+  <member type="way" ref="444194387" role="outer"/>
+  <member type="way" ref="1182103647" role="outer"/>
+  <member type="way" ref="1182103644" role="outer"/>
+  <member type="way" ref="41853309" role="outer"/>
+  <member type="way" ref="334997449" role="outer"/>
+  <member type="way" ref="299207391" role="outer"/>
+  <member type="way" ref="95459796" role="outer"/>
+  <member type="way" ref="95458491" role="outer"/>
+  <member type="way" ref="844583846" role="outer"/>
+  <member type="way" ref="95258495" role="outer"/>
+  <member type="way" ref="95258529" role="outer"/>
+  <member type="way" ref="95258528" role="outer"/>
+  <member type="way" ref="87237529" role="outer"/>
+  <member type="way" ref="95258446" role="outer"/>
+  <member type="way" ref="41851636" role="outer"/>
+  <member type="way" ref="334997452" role="outer"/>
+  <member type="way" ref="41852602" role="outer"/>
+  <member type="way" ref="41850573" role="outer"/>
+  <member type="way" ref="221315899" role="outer"/>
+  <member type="way" ref="996965161" role="outer"/>
+  <member type="way" ref="221315901" role="outer"/>
+  <member type="way" ref="996965022" role="outer"/>
+  <member type="way" ref="199096305" role="outer"/>
+  <member type="way" ref="996744301" role="outer"/>
+  <member type="way" ref="996744300" role="outer"/>
+  <member type="way" ref="221315900" role="outer"/>
+  <member type="way" ref="316395389" role="outer"/>
+  <member type="way" ref="996965083" role="outer"/>
+  <member type="way" ref="316234990" role="outer"/>
+  <member type="way" ref="199096322" role="outer"/>
+  <member type="way" ref="95258470" role="outer"/>
+  <member type="way" ref="725997333" role="outer"/>
+  <member type="way" ref="151514016" role="outer"/>
+  <member type="way" ref="38346048" role="outer"/>
+  <member type="way" ref="38346033" role="outer"/>
+  <member type="way" ref="151513577" role="outer"/>
+  <member type="way" ref="228505625" role="outer"/>
+  <member type="way" ref="95260253" role="outer"/>
+  <member type="way" ref="95260257" role="outer"/>
+  <member type="way" ref="95211614" role="outer"/>
+  <member type="way" ref="737413343" role="outer"/>
+  <member type="way" ref="25057102" role="outer"/>
+  <member type="way" ref="348002982" role="outer"/>
+  <member type="way" ref="760023337" role="outer"/>
+  <member type="way" ref="760016930" role="outer"/>
+  <member type="way" ref="760016931" role="outer"/>
+  <member type="way" ref="759996926" role="outer"/>
+  <member type="way" ref="334890953" role="outer"/>
+  <member type="way" ref="759979230" role="outer"/>
+  <member type="way" ref="759979225" role="outer"/>
+  <member type="way" ref="760010532" role="outer"/>
+  <member type="way" ref="760010531" role="outer"/>
+  <member type="way" ref="334890951" role="outer"/>
+  <member type="way" ref="95211615" role="outer"/>
+  <member type="way" ref="95211621" role="outer"/>
+  <member type="way" ref="759915015" role="outer"/>
+  <member type="way" ref="295939773" role="outer"/>
+  <member type="way" ref="295939456" role="outer"/>
+  <member type="way" ref="759904880" role="outer"/>
+  <member type="way" ref="95211617" role="outer"/>
+  <member type="way" ref="759904874" role="outer"/>
+  <member type="way" ref="759904881" role="outer"/>
+  <member type="way" ref="1319194526" role="outer"/>
+  <member type="way" ref="1223403075" role="outer"/>
+  <member type="way" ref="151498857" role="outer"/>
+  <member type="way" ref="50762069" role="outer"/>
+  <member type="way" ref="1314727083" role="inner"/>
+  <member type="way" ref="317308949" role="outer"/>
+  <member type="way" ref="315084836" role="outer"/>
+  <member type="way" ref="49187661" role="outer"/>
+  <member type="way" ref="1238109429" role="outer"/>
+  <member type="way" ref="589451943" role="outer"/>
+  <member type="way" ref="589451935" role="outer"/>
+  <member type="way" ref="1014358547" role="outer"/>
+  <member type="way" ref="305825490" role="outer"/>
+  <member type="way" ref="189234084" role="outer"/>
+  <member type="relation" ref="192789" role="subarea"/>
+  <member type="relation" ref="1473947" role="subarea"/>
+  <member type="relation" ref="1703814" role="subarea"/>
+  <member type="relation" ref="184818" role="subarea"/>
+  <member type="relation" ref="184843" role="subarea"/>
+  <member type="relation" ref="184840" role="subarea"/>
+  <member type="relation" ref="304934" role="subarea"/>
+  <member type="relation" ref="305099" role="subarea"/>
+  <member type="relation" ref="307584" role="subarea"/>
+  <member type="relation" ref="378734" role="subarea"/>
+  <member type="relation" ref="305095" role="subarea"/>
+  <member type="relation" ref="307763" role="subarea"/>
+  <member type="relation" ref="305138" role="subarea"/>
+  <member type="relation" ref="305092" role="subarea"/>
+  <tag k="alt_name" v="المشرق"/>
+  <tag k="alt_name:ar" v="المشرق"/>
+  <tag k="alt_name:arz" v="المشرق"/>
+  <tag k="alt_name:br" v="Machreq;Machrik;Machrek"/>
+  <tag k="alt_name:bs" v="Mašrek;Mashriq"/>
+  <tag k="alt_name:ckb" v="مەشریق"/>
+  <tag k="alt_name:cy" v="Mashreq"/>
+  <tag k="alt_name:de" v="Maschrik;Maschriq"/>
+  <tag k="alt_name:el" v="Μασρέκ"/>
+  <tag k="alt_name:en" v="Mashreq;Mashrek"/>
+  <tag k="alt_name:es" v="Máshrek"/>
+  <tag k="alt_name:fa" v="مشرق"/>
+  <tag k="alt_name:fr" v="Machreq;Mashreq"/>
+  <tag k="alt_name:hu" v="Mashreq;Mashrek"/>
+  <tag k="alt_name:it" v="Mashriq,Mashreq"/>
+  <tag k="alt_name:ku" v="Meşriq"/>
+  <tag k="alt_name:lb" v="Maschrik;Maschriq"/>
+  <tag k="alt_name:mg" v="Masrika"/>
+  <tag k="alt_name:ms" v="Mashreq;Mashrek"/>
+  <tag k="alt_name:nl" v="Mashriq,Mashrek"/>
+  <tag k="alt_name:no" v="Mashreq;Mashriq"/>
+  <tag k="alt_name:pl" v="Maszrik"/>
+  <tag k="alt_name:sr" v="Машрик"/>
+  <tag k="alt_name:tg" v="Машриқ"/>
+  <tag k="alt_name:vi" v="Mashriq"/>
+  <tag k="boundary" v="place"/>
+  <tag k="name" v="المشرق العربي"/>
+  <tag k="name:ar" v="المشرق العربي"/>
+  <tag k="name:arz" v="المشرق العربى"/>
+  <tag k="name:ba" v="Мәшриҡ"/>
+  <tag k="name:bg" v="Машрик"/>
+  <tag k="name:bn" v="মাশরিক"/>
+  <tag k="name:br" v="Machriq"/>
+  <tag k="name:bs" v="Mašrik"/>
+  <tag k="name:ca" v="Màixriq"/>
+  <tag k="name:ckb" v="مەشریقی عەرەبی"/>
+  <tag k="name:cs" v="Mašrek"/>
+  <tag k="name:cy" v="Mashriq"/>
+  <tag k="name:da" v="Mashriq"/>
+  <tag k="name:de" v="Maschrek"/>
+  <tag k="name:el" v="Μασρίκ"/>
+  <tag k="name:en" v="Mashriq"/>
+  <tag k="name:eo" v="Maŝreko"/>
+  <tag k="name:es" v="Máshreq"/>
+  <tag k="name:eu" v="Mashreq"/>
+  <tag k="name:fa" v="مشرق عربی"/>
+  <tag k="name:fr" v="Machrek"/>
+  <tag k="name:he" v="משרק"/>
+  <tag k="name:hr" v="Mašrik"/>
+  <tag k="name:hu" v="Mashriq"/>
+  <tag k="name:id" v="Masyriq"/>
+  <tag k="name:it" v="Mashrek"/>
+  <tag k="name:ja" v="マシュリク"/>
+  <tag k="name:ka" v="მაშრიყი"/>
+  <tag k="name:ko" v="마슈리크"/>
+  <tag k="name:ku" v="Meşriqa"/>
+  <tag k="name:ky" v="Машрик"/>
+  <tag k="name:lb" v="Maschrek"/>
+  <tag k="name:lt" v="Mašrekas"/>
+  <tag k="name:mg" v="Masreka"/>
+  <tag k="name:mk" v="Машрек"/>
+  <tag k="name:ms" v="Mashriq"/>
+  <tag k="name:nl" v="Mashreq"/>
+  <tag k="name:no" v="Mashrek"/>
+  <tag k="name:oc" v="Mashrèc"/>
+  <tag k="name:pl" v="Maszrek"/>
+  <tag k="name:pt" v="Maxerreque"/>
+  <tag k="name:ru" v="Ма́шрик"/>
+  <tag k="name:so" v="Mashreq"/>
+  <tag k="name:sr" v="Машрек"/>
+  <tag k="name:sv" v="Mashriq"/>
+  <tag k="name:tg" v="Машриқи арабӣ"/>
+  <tag k="name:th" v="อัลมัชริก"/>
+  <tag k="name:tr" v="Meşrik"/>
+  <tag k="name:uk" v="Машрік"/>
+  <tag k="name:ur" v="مشرق عربی"/>
+  <tag k="name:uz" v="Mashriq"/>
+  <tag k="name:vi" v="Mashreq"/>
+  <tag k="name:zh" v="马什里克"/>
+  <tag k="place" v="region"/>
+  <tag k="type" v="boundary"/>
+  <tag k="wikidata" v="Q503282"/>
+  <tag k="wikipedia" v="ar:المشرق العربي"/>
+ </relation>
+</osm>

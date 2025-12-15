@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (113205 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="18.3076000" minlon="28.0876000" maxlat="18.6000000" maxlon="28.6266000"/>
+ <node id="7731493318" visible="true" version="1" changeset="88252327" timestamp="2020-07-20T14:27:28Z" user="حبيشان" uid="1147414" lat="18.5166670" lon="28.5500000">
+  <tag k="GNS:dsg_code" v="WLL"/>
+  <tag k="GNS:dsg_name" v="well"/>
+  <tag k="GNS:id" v="-15736"/>
+  <tag k="GNS:modify_date" v="2009-08-18"/>
+  <tag k="man_made" v="water_well"/>
+  <tag k="name" v="Tundubai"/>
+  <tag k="name:ar" v="تندبإ"/>
+  <tag k="name:en" v="Tundubai"/>
+  <tag k="source" v="GNS"/>
+ </node>
+</osm>

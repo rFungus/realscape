@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (113197 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="19.1614000" minlon="29.4571000" maxlat="19.4523000" maxlon="29.9961000"/>
+ <node id="7731290130" visible="true" version="1" changeset="88249461" timestamp="2020-07-20T13:23:30Z" user="حبيشان" uid="1147414" lat="19.3833330" lon="29.7500000">
+  <tag k="alt_name" v="Jabal Wasi`ah;Jebel Wassi‘a;Jebel Wassi`a"/>
+  <tag k="GNS:dsg_code" v="HLL"/>
+  <tag k="GNS:dsg_name" v="hill"/>
+  <tag k="GNS:id" v="-17446"/>
+  <tag k="GNS:modify_date" v="2009-08-18"/>
+  <tag k="name" v="Jabal Wasī‘ah"/>
+  <tag k="name:ar" v="جبل وسيعة"/>
+  <tag k="name:en" v="Jabal Wasi`ah"/>
+  <tag k="natural" v="peak"/>
+  <tag k="source" v="GNS"/>
+ </node>
+ <node id="7731291994" visible="true" version="1" changeset="88249461" timestamp="2020-07-20T13:23:39Z" user="حبيشان" uid="1147414" lat="19.4166670" lon="29.5333330">
+  <tag k="GNS:dsg_code" v="HLL"/>
+  <tag k="GNS:dsg_name" v="hill"/>
+  <tag k="GNS:id" v="-17006"/>
+  <tag k="GNS:modify_date" v="2009-08-18"/>
+  <tag k="name" v="Jabal Wabur"/>
+  <tag k="name:ar" v="جبل وبر"/>
+  <tag k="name:en" v="Jabal Wabur"/>
+  <tag k="natural" v="peak"/>
+  <tag k="source" v="GNS"/>
+ </node>
+ <node id="12996857963" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5258729" lon="29.9685893"/>
+ <node id="12996857964" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5160484" lon="29.9614200"/>
+ <node id="12996857965" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.4996432" lon="29.9590617"/>
+ <node id="12996857966" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.4743876" lon="29.9487796"/>
+ <node id="12996857967" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.4513073" lon="29.9422707"/>
+ <node id="12996857968" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.4430350" lon="29.9552413"/>
+ <node id="12996857969" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.4466375" lon="29.9700042"/>
+ <node id="12996857970" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.4683379" lon="29.9792769"/>
+ <node id="12996857971" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.4842765" lon="29.9775725"/>
+ <node id="12996857972" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5032531" lon="29.9840677"/>
+ <node id="12996857973" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5216630" lon="29.9953537"/>
+ <node id="12996857974" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5366412" lon="29.9986243"/>
+ <node id="12996857975" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5502290" lon="29.9922213"/>
+ <node id="12996857976" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5474073" lon="29.9846666"/>
+ <node id="12996857977" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5422414" lon="29.9764670"/>
+ <node id="12996857978" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835" lat="19.5261783" lon="29.9773883"/>
+ <way id="1414378961" visible="true" version="1" changeset="168860011" timestamp="2025-07-13T06:27:25Z" user="mustafakamil" uid="2055835">
+  <nd ref="12996857978"/>
+  <nd ref="12996857977"/>
+  <nd ref="12996857976"/>
+  <nd ref="12996857975"/>
+  <nd ref="12996857974"/>
+  <nd ref="12996857973"/>
+  <nd ref="12996857972"/>
+  <nd ref="12996857971"/>
+  <nd ref="12996857970"/>
+  <nd ref="12996857969"/>
+  <nd ref="12996857968"/>
+  <nd ref="12996857967"/>
+  <nd ref="12996857966"/>
+  <nd ref="12996857965"/>
+  <nd ref="12996857964"/>
+  <nd ref="12996857963"/>
+  <nd ref="12996857978"/>
+  <tag k="landuse" v="quarry"/>
+  <tag k="resource" v="gold"/>
+ </way>
+</osm>

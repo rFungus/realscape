@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (113216 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="78.8870000" minlon="17.4174000" maxlat="79.0752000" maxlon="18.7029000"/>
+ <node id="3190294808" visible="true" version="6" changeset="135212014" timestamp="2023-04-21T23:06:24Z" user="ManelG" uid="2491053" lat="79.0105613" lon="17.4909149">
+  <tag k="ele" v="1713"/>
+  <tag k="name" v="Newtontoppen"/>
+  <tag k="natural" v="peak"/>
+  <tag k="no-kartverket-ssr:date" v="2012-10-10"/>
+  <tag k="no-kartverket-ssr:objid" v="2713052"/>
+  <tag k="no-kartverket-ssr:url" v="http://faktaark.statkart.no/SSRFakta/faktaarkfraobjektid?enhet=1162119"/>
+  <tag k="official_name" v="Newtontoppen"/>
+  <tag k="prominence" v="1713"/>
+  <tag k="source:name" v="Kartverket, Sentralt Stadnamnregister"/>
+  <tag k="source:prominence" v="Highest peak of Spitsbergen Island"/>
+  <tag k="wikidata" v="Q1419222"/>
+  <tag k="wikipedia" v="en:Newtontoppen"/>
+ </node>
+</osm>

@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.1.0 (113222 spike-06.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="20.4322000" minlon="29.5656000" maxlat="20.7208000" maxlon="30.1046000"/>
+ <node id="7731292659" visible="true" version="1" changeset="88249461" timestamp="2020-07-20T13:23:47Z" user="حبيشان" uid="1147414" lat="20.7166670" lon="29.9000000">
+  <tag k="alt_name" v="Djebel Wohdun"/>
+  <tag k="GNS:dsg_code" v="HLL"/>
+  <tag k="GNS:dsg_name" v="hill"/>
+  <tag k="GNS:id" v="-17564"/>
+  <tag k="GNS:modify_date" v="2009-08-18"/>
+  <tag k="name" v="Jabal Wohdun"/>
+  <tag k="name:ar" v="جبل ووهدن"/>
+  <tag k="name:en" v="Jabal Wohdun"/>
+  <tag k="natural" v="peak"/>
+  <tag k="source" v="GNS"/>
+ </node>
+ <node id="12441924338" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5814812" lon="30.2531207"/>
+ <node id="12441924339" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5813523" lon="30.2527728"/>
+ <node id="12441924340" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5811708" lon="30.2520490"/>
+ <node id="12441924341" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5806593" lon="30.2498891"/>
+ <node id="12441924342" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5804189" lon="30.2486866"/>
+ <node id="12441924343" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5803598" lon="30.2485394"/>
+ <node id="12441924344" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5802877" lon="30.2484460"/>
+ <node id="12441924345" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5798308" lon="30.2481775"/>
+ <node id="12441924346" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5795707" lon="30.2479557"/>
+ <node id="12441924347" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5789390" lon="30.2467952"/>
+ <node id="12441924348" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5788450" lon="30.2466388"/>
+ <node id="12441924349" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5788318" lon="30.2465033"/>
+ <node id="12441924350" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5787269" lon="30.2454059"/>
+ <node id="12441924351" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5786045" lon="30.2448572"/>
+ <node id="12441924352" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5784930" lon="30.2445770"/>
+ <node id="12441924353" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5782416" lon="30.2440492"/>
+ <node id="12441924354" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5773913" lon="30.2427206"/>
+ <node id="12441924355" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5770655" lon="30.2425292"/>
+ <node id="12441924356" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5767027" lon="30.2422653"/>
+ <node id="12441924357" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5764731" lon="30.2421299"/>
+ <node id="12441924358" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5762195" lon="30.2420435"/>
+ <node id="12441924359" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5759026" lon="30.2419244"/>
+ <node id="12441924360" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5756774" lon="30.2418053"/>
+ <node id="12441924361" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5752074" lon="30.2416325"/>
+ <node id="12441924362" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5744510" lon="30.2413687"/>
+ <node id="12441924363" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5740357" lon="30.2412472"/>
+ <node id="12441924364" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5738564" lon="30.2411165"/>
+ <node id="12441924365" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5737034" lon="30.2409133"/>
+ <node id="12441924366" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5735679" lon="30.2408153"/>
+ <node id="12441924367" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5734520" lon="30.2407732"/>
+ <node id="12441924368" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5733055" lon="30.2408036"/>
+ <node id="12441924369" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5729885" lon="30.2408246"/>
+ <node id="12441924370" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5728639" lon="30.2408083"/>
+ <node id="12441924371" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5726869" lon="30.2406845"/>
+ <node id="12441924372" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5724683" lon="30.2404510"/>
+ <node id="12441924373" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5723109" lon="30.2401872"/>
+ <node id="12441924374" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5721403" lon="30.2394470"/>
+ <node id="12441924375" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5720726" lon="30.2389333"/>
+ <node id="12441924376" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5718234" lon="30.2383752"/>
+ <node id="12441924377" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5717031" lon="30.2378031"/>
+ <node id="12441924378" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5715851" lon="30.2374202"/>
+ <node id="12441924379" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5715217" lon="30.2370513"/>
+ <node id="12441924380" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5713315" lon="30.2363601"/>
+ <node id="12441924381" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5711828" lon="30.2360636"/>
+ <node id="12441924382" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5709271" lon="30.2357553"/>
+ <node id="12441924383" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5707369" lon="30.2355452"/>
+ <node id="12441924384" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5705139" lon="30.2354401"/>
+ <node id="12441924385" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5700876" lon="30.2351389"/>
+ <node id="12441924386" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5695804" lon="30.2347770"/>
+ <node id="12441924387" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5691585" lon="30.2344034"/>
+ <node id="12441924388" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5685923" lon="30.2338476"/>
+ <node id="12441924389" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5678031" lon="30.2327852"/>
+ <node id="12441924390" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5674380" lon="30.2320941"/>
+ <node id="12441924391" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5669920" lon="30.2314613"/>
+ <node id="12441924392" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5664564" lon="30.2309055"/>
+ <node id="12441924393" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5661088" lon="30.2305319"/>
+ <node id="12441924394" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5656322" lon="30.2298711"/>
+ <node id="12441924395" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5655579" lon="30.2296773"/>
+ <node id="12441924396" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5654726" lon="30.2293574"/>
+ <node id="12441924397" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5654617" lon="30.2290095"/>
+ <node id="12441924398" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5654311" lon="30.2287200"/>
+ <node id="12441924399" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5654136" lon="30.2283674"/>
+ <node id="12441924400" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5653130" lon="30.2281199"/>
+ <node id="12441924401" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5651250" lon="30.2274264"/>
+ <node id="12441924402" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5649217" lon="30.2269430"/>
+ <node id="12441924403" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5648408" lon="30.2264924"/>
+ <node id="12441924404" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5647249" lon="30.2262659"/>
+ <node id="12441924405" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5644648" lon="30.2259063"/>
+ <node id="12441924406" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5642396" lon="30.2255000"/>
+ <node id="12441924407" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5639947" lon="30.2250167"/>
+ <node id="12441924408" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5637499" lon="30.2244516"/>
+ <node id="12441924409" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5636274" lon="30.2239239"/>
+ <node id="12441924410" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5634919" lon="30.2235947"/>
+ <node id="12441924411" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5632973" lon="30.2230062"/>
+ <node id="12441924412" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5631071" lon="30.2225976"/>
+ <node id="12441924413" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5629388" lon="30.2222123"/>
+ <node id="12441924414" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5623813" lon="30.2212130"/>
+ <node id="12441924415" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619834" lon="30.2204401"/>
+ <node id="12441924416" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618522" lon="30.2201132"/>
+ <node id="12441924417" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5613450" lon="30.2188920"/>
+ <node id="12441924418" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5609121" lon="30.2177361"/>
+ <node id="12441924419" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5606957" lon="30.2171898"/>
+ <node id="12441924420" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5604202" lon="30.2163025"/>
+ <node id="12441924421" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5603131" lon="30.2154782"/>
+ <node id="12441924422" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5603218" lon="30.2151233"/>
+ <node id="12441924423" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5603175" lon="30.2145582"/>
+ <node id="12441924424" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5603328" lon="30.2141449"/>
+ <node id="12441924425" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5603000" lon="30.2140328"/>
+ <node id="12441924426" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5600311" lon="30.2136102"/>
+ <node id="12441924427" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5598649" lon="30.2131922"/>
+ <node id="12441924428" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5598124" lon="30.2128887"/>
+ <node id="12441924429" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5597971" lon="30.2124987"/>
+ <node id="12441924430" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5597294" lon="30.2122442"/>
+ <node id="12441924431" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5595282" lon="30.2118356"/>
+ <node id="12441924432" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5592068" lon="30.2113896"/>
+ <node id="12441924433" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5589357" lon="30.2111048"/>
+ <node id="12441924434" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5588330" lon="30.2108152"/>
+ <node id="12441924435" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5587958" lon="30.2104136"/>
+ <node id="12441924436" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5588461" lon="30.2099116"/>
+ <node id="12441924437" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5588702" lon="30.2094095"/>
+ <node id="12441924438" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5588264" lon="30.2088865"/>
+ <node id="12441924439" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5588111" lon="30.2084825"/>
+ <node id="12441924440" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5586953" lon="30.2081580"/>
+ <node id="12441924441" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5585510" lon="30.2078428"/>
+ <node id="12441924442" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5584963" lon="30.2073477"/>
+ <node id="12441924443" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5585859" lon="30.2069274"/>
+ <node id="12441924444" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5587608" lon="30.2065538"/>
+ <node id="12441924445" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5589948" lon="30.2058767"/>
+ <node id="12441924446" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5593643" lon="30.2050945"/>
+ <node id="12441924447" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5597206" lon="30.2046438"/>
+ <node id="12441924448" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5599086" lon="30.2042749"/>
+ <node id="12441924449" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5599633" lon="30.2039643"/>
+ <node id="12441924450" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5600267" lon="30.2032872"/>
+ <node id="12441924451" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5599764" lon="30.2027431"/>
+ <node id="12441924452" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5600245" lon="30.2022388"/>
+ <node id="12441924453" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5600945" lon="30.2015523"/>
+ <node id="12441924454" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5601754" lon="30.2011436"/>
+ <node id="12441924455" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5602147" lon="30.2006183"/>
+ <node id="12441924456" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5601797" lon="30.2003521"/>
+ <node id="12441924457" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5600158" lon="30.2001536"/>
+ <node id="12441924458" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5598868" lon="30.2000485"/>
+ <node id="12441924459" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5596878" lon="30.1998827"/>
+ <node id="12441924460" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5595610" lon="30.1995348"/>
+ <node id="12441924461" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5596091" lon="30.1985635"/>
+ <node id="12441924462" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5596747" lon="30.1975851"/>
+ <node id="12441924463" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5596988" lon="30.1970761"/>
+ <node id="12441924464" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5599196" lon="30.1965227"/>
+ <node id="12441924465" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5605776" lon="30.1952548"/>
+ <node id="12441924466" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5607416" lon="30.1950446"/>
+ <node id="12441924467" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5607941" lon="30.1949022"/>
+ <node id="12441924468" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5607941" lon="30.1947598"/>
+ <node id="12441924469" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5607023" lon="30.1944352"/>
+ <node id="12441924470" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5607110" lon="30.1941246"/>
+ <node id="12441924471" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5608531" lon="30.1936857"/>
+ <node id="12441924472" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5610827" lon="30.1930155"/>
+ <node id="12441924473" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5612029" lon="30.1924575"/>
+ <node id="12441924474" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5612816" lon="30.1920208"/>
+ <node id="12441924475" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5617932" lon="30.1901785"/>
+ <node id="12441924476" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618632" lon="30.1898096"/>
+ <node id="12441924477" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619921" lon="30.1890367"/>
+ <node id="12441924478" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5622173" lon="30.1875820"/>
+ <node id="12441924479" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5621474" lon="30.1867694"/>
+ <node id="12441924480" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5621211" lon="30.1861693"/>
+ <node id="12441924481" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620774" lon="30.1858074"/>
+ <node id="12441924482" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620227" lon="30.1853124"/>
+ <node id="12441924483" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619178" lon="30.1842196"/>
+ <node id="12441924484" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618216" lon="30.1827649"/>
+ <node id="12441924485" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5616839" lon="30.1818729"/>
+ <node id="12441924486" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5615396" lon="30.1811911"/>
+ <node id="12441924487" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5614762" lon="30.1804836"/>
+ <node id="12441924488" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5614893" lon="30.1799839"/>
+ <node id="12441924489" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5616970" lon="30.1783517"/>
+ <node id="12441924490" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5617538" lon="30.1779244"/>
+ <node id="12441924491" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618588" lon="30.1772800"/>
+ <node id="12441924492" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620074" lon="30.1758183"/>
+ <node id="12441924493" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5621823" lon="30.1747535"/>
+ <node id="12441924494" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5623485" lon="30.1739526"/>
+ <node id="12441924495" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5626305" lon="30.1730163"/>
+ <node id="12441924496" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5629541" lon="30.1720893"/>
+ <node id="12441924497" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5632252" lon="30.1711039"/>
+ <node id="12441924498" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5633323" lon="30.1706346"/>
+ <node id="12441924499" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5633891" lon="30.1703123"/>
+ <node id="12441924500" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5635181" lon="30.1694484"/>
+ <node id="12441924501" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5635640" lon="30.1689534"/>
+ <node id="12441924502" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5635444" lon="30.1685284"/>
+ <node id="12441924503" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5635597" lon="30.1673259"/>
+ <node id="12441924504" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5635903" lon="30.1670200"/>
+ <node id="12441924505" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5637236" lon="30.1665296"/>
+ <node id="12441924506" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5638023" lon="30.1662658"/>
+ <node id="12441924507" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5639860" lon="30.1653458"/>
+ <node id="12441924508" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5640887" lon="30.1643137"/>
+ <node id="12441924509" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5640712" lon="30.1639284"/>
+ <node id="12441924510" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5640363" lon="30.1633540"/>
+ <node id="12441924511" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5641237" lon="30.1629034"/>
+ <node id="12441924512" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5642636" lon="30.1623406"/>
+ <node id="12441924513" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5643380" lon="30.1617359"/>
+ <node id="12441924514" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5645107" lon="30.1610634"/>
+ <node id="12441924515" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5645697" lon="30.1606361"/>
+ <node id="12441924516" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5645784" lon="30.1603232"/>
+ <node id="12441924517" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5645784" lon="30.1595667"/>
+ <node id="12441924518" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5646287" lon="30.1589969"/>
+ <node id="12441924519" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5646637" lon="30.1586023"/>
+ <node id="12441924520" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5646943" lon="30.1583478"/>
+ <node id="12441924521" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5647971" lon="30.1577057"/>
+ <node id="12441924522" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5650354" lon="30.1565358"/>
+ <node id="12441924523" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5651709" lon="30.1557629"/>
+ <node id="12441924524" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5654595" lon="30.1548850"/>
+ <node id="12441924525" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5655251" lon="30.1544927"/>
+ <node id="12441924526" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5655754" lon="30.1542359"/>
+ <node id="12441924527" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5656956" lon="30.1534303"/>
+ <node id="12441924528" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5659033" lon="30.1524426"/>
+ <node id="12441924529" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5659820" lon="30.1519289"/>
+ <node id="12441924530" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5660738" lon="30.1516510"/>
+ <node id="12441924531" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5662924" lon="30.1511326"/>
+ <node id="12441924532" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5663908" lon="30.1507637"/>
+ <node id="12441924533" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5664389" lon="30.1504859"/>
+ <node id="12441924534" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5664608" lon="30.1502080"/>
+ <node id="12441924535" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5664651" lon="30.1500726"/>
+ <node id="12441924536" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5664957" lon="30.1499792"/>
+ <node id="12441924537" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5666313" lon="30.1495869"/>
+ <node id="12441924538" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5666728" lon="30.1491596"/>
+ <node id="12441924539" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5666488" lon="30.1488140"/>
+ <node id="12441924540" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5665897" lon="30.1485408"/>
+ <node id="12441924541" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5663514" lon="30.1479967"/>
+ <node id="12441924542" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5660782" lon="30.1476045"/>
+ <node id="12441924543" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5658158" lon="30.1472379"/>
+ <node id="12441924544" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5657175" lon="30.1470184"/>
+ <node id="12441924545" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5656759" lon="30.1468573"/>
+ <node id="12441924546" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5657087" lon="30.1465444"/>
+ <node id="12441924547" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5658289" lon="30.1461521"/>
+ <node id="12441924548" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5659667" lon="30.1458976"/>
+ <node id="12441924549" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5659864" lon="30.1457435"/>
+ <node id="12441924550" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5659426" lon="30.1446063"/>
+ <node id="12441924551" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5657699" lon="30.1438124"/>
+ <node id="12441924552" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5655972" lon="30.1433805"/>
+ <node id="12441924553" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5653764" lon="30.1423157"/>
+ <node id="12441924554" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5652474" lon="30.1416385"/>
+ <node id="12441924555" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5651031" lon="30.1410875"/>
+ <node id="12441924556" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5649654" lon="30.1402399"/>
+ <node id="12441924557" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5648539" lon="30.1392732"/>
+ <node id="12441924558" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5648189" lon="30.1390187"/>
+ <node id="12441924559" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5647402" lon="30.1383719"/>
+ <node id="12441924560" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5646156" lon="30.1372394"/>
+ <node id="12441924561" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5645303" lon="30.1359505"/>
+ <node id="12441924562" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5644932" lon="30.1352733"/>
+ <node id="12441924563" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5644669" lon="30.1338840"/>
+ <node id="12441924564" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5644669" lon="30.1332979"/>
+ <node id="12441924565" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5644276" lon="30.1331181"/>
+ <node id="12441924566" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5643117" lon="30.1327469"/>
+ <node id="12441924567" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5640712" lon="30.1316284"/>
+ <node id="12441924568" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5637630" lon="30.1297394"/>
+ <node id="12441924569" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5637061" lon="30.1295619"/>
+ <node id="12441924570" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5635487" lon="30.1289081"/>
+ <node id="12441924571" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5630656" lon="30.1266315"/>
+ <node id="12441924572" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5630066" lon="30.1262462"/>
+ <node id="12441924573" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5629366" lon="30.1256205"/>
+ <node id="12441924574" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5627245" lon="30.1244296"/>
+ <node id="12441924575" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5626458" lon="30.1241237"/>
+ <node id="12441924576" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5622283" lon="30.1226573"/>
+ <node id="12441924577" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620009" lon="30.1218868"/>
+ <node id="12441924578" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619244" lon="30.1209715"/>
+ <node id="12441924579" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619725" lon="30.1201052"/>
+ <node id="12441924580" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619878" lon="30.1192809"/>
+ <node id="12441924581" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620577" lon="30.1184217"/>
+ <node id="12441924582" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5622239" lon="30.1166260"/>
+ <node id="12441924583" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5622982" lon="30.1160400"/>
+ <node id="12441924584" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5623813" lon="30.1150826"/>
+ <node id="12441924585" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5625409" lon="30.1137867"/>
+ <node id="12441924586" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5626262" lon="30.1131282"/>
+ <node id="12441924587" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5626283" lon="30.1127126"/>
+ <node id="12441924588" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5626021" lon="30.1123623"/>
+ <node id="12441924589" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5625934" lon="30.1120261"/>
+ <node id="12441924590" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5625649" lon="30.1111902"/>
+ <node id="12441924591" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5625781" lon="30.1103029"/>
+ <node id="12441924592" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5625474" lon="30.1097495"/>
+ <node id="12441924593" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5625081" lon="30.1092848"/>
+ <node id="12441924594" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5625628" lon="30.1090583"/>
+ <node id="12441924595" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5628448" lon="30.1083275"/>
+ <node id="12441924596" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5630874" lon="30.1078745"/>
+ <node id="12441924597" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5632099" lon="30.1075382"/>
+ <node id="12441924598" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5632864" lon="30.1060718"/>
+ <node id="12441924599" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5632930" lon="30.1043019"/>
+ <node id="12441924600" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5632339" lon="30.1033165"/>
+ <node id="12441924601" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5632055" lon="30.1022635"/>
+ <node id="12441924602" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5631312" lon="30.0999938"/>
+ <node id="12441924603" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5630874" lon="30.0987680"/>
+ <node id="12441924604" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5629956" lon="30.0968906"/>
+ <node id="12441924605" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5629453" lon="30.0961434"/>
+ <node id="12441924606" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5626874" lon="30.0952375"/>
+ <node id="12441924607" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5623376" lon="30.0932714"/>
+ <node id="12441924608" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5622436" lon="30.0927530"/>
+ <node id="12441924609" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5621102" lon="30.0920619"/>
+ <node id="12441924610" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619703" lon="30.0909387"/>
+ <node id="12441924611" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619331" lon="30.0901752"/>
+ <node id="12441924612" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618938" lon="30.0889353"/>
+ <node id="12441924613" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618522" lon="30.0884543"/>
+ <node id="12441924614" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5617342" lon="30.0868315"/>
+ <node id="12441924615" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5616292" lon="30.0856803"/>
+ <node id="12441924616" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5616161" lon="30.0846529"/>
+ <node id="12441924617" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5615833" lon="30.0822128"/>
+ <node id="12441924618" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5615680" lon="30.0809636"/>
+ <node id="12441924619" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5615811" lon="30.0799292"/>
+ <node id="12441924620" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5616751" lon="30.0793291"/>
+ <node id="12441924621" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5617560" lon="30.0787804"/>
+ <node id="12441924622" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618828" lon="30.0775078"/>
+ <node id="12441924623" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619703" lon="30.0766018"/>
+ <node id="12441924624" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620386" lon="30.0754234"/>
+ <node id="12441924625" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620353" lon="30.0750836"/>
+ <node id="12441924626" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5619757" lon="30.0749173"/>
+ <node id="12441924627" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618796" lon="30.0748324"/>
+ <node id="12441924628" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5617901" lon="30.0748111"/>
+ <node id="12441924629" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5616211" lon="30.0748217"/>
+ <node id="12441924630" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5613229" lon="30.0748819"/>
+ <node id="12441924631" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5610909" lon="30.0749881"/>
+ <node id="12441924632" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5608854" lon="30.0750235"/>
+ <node id="12441924633" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5614697" lon="30.0770260"/>
+ <node id="12441924634" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5617944" lon="30.0750122"/>
+ <node id="12441924635" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618474" lon="30.0732532"/>
+ <node id="12441924636" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5616586" lon="30.0729276"/>
+ <node id="12441924637" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5613007" lon="30.0727648"/>
+ <node id="12441924638" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5607208" lon="30.0728214"/>
+ <node id="12441924639" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5596769" lon="30.0732851"/>
+ <node id="12441924640" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5594549" lon="30.0759430"/>
+ <node id="12441924641" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5593489" lon="30.0763677"/>
+ <node id="12441924642" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5589048" lon="30.0768986"/>
+ <node id="12441924643" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5588949" lon="30.0770118"/>
+ <node id="12441924644" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5618949" lon="30.0729903"/>
+ <node id="12441924645" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620042" lon="30.0713481"/>
+ <node id="12441924646" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5621832" lon="30.0683681"/>
+ <node id="12441924647" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620407" lon="30.0669807"/>
+ <node id="12441924648" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5621765" lon="30.0662941"/>
+ <node id="12441924649" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5622461" lon="30.0657774"/>
+ <node id="12441924650" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5621235" lon="30.0650731"/>
+ <node id="12441924651" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620606" lon="30.0648395"/>
+ <node id="12441924652" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5620904" lon="30.0645635"/>
+ <node id="12441924653" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5623356" lon="30.0641741"/>
+ <node id="12441924654" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5624483" lon="30.0640467"/>
+ <node id="12441924655" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5814966" lon="30.2532011"/>
+ <node id="12441924712" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5666553" lon="30.1489082"/>
+ <node id="12441924737" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5715560" lon="30.2372511"/>
+ <node id="12441924782" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5602016" lon="30.2007931"/>
+ <node id="12441924814" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5665667" lon="30.1497738"/>
+ <node id="12441924827" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984" lat="20.5172238" lon="30.0011859">
+  <tag k="natural" v="peak"/>
+ </node>
+ <way id="1344834007" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984">
+  <nd ref="12441924655"/>
+  <nd ref="12441924338"/>
+  <nd ref="12441924339"/>
+  <nd ref="12441924340"/>
+  <nd ref="12441924341"/>
+  <nd ref="12441924342"/>
+  <nd ref="12441924343"/>
+  <nd ref="12441924344"/>
+  <nd ref="12441924345"/>
+  <nd ref="12441924346"/>
+  <nd ref="12441924347"/>
+  <nd ref="12441924348"/>
+  <nd ref="12441924349"/>
+  <nd ref="12441924350"/>
+  <nd ref="12441924351"/>
+  <nd ref="12441924352"/>
+  <nd ref="12441924353"/>
+  <nd ref="12441924354"/>
+  <nd ref="12441924355"/>
+  <nd ref="12441924356"/>
+  <nd ref="12441924357"/>
+  <nd ref="12441924358"/>
+  <nd ref="12441924359"/>
+  <nd ref="12441924360"/>
+  <nd ref="12441924361"/>
+  <nd ref="12441924362"/>
+  <nd ref="12441924363"/>
+  <nd ref="12441924364"/>
+  <nd ref="12441924365"/>
+  <nd ref="12441924366"/>
+  <nd ref="12441924367"/>
+  <nd ref="12441924368"/>
+  <nd ref="12441924369"/>
+  <nd ref="12441924370"/>
+  <nd ref="12441924371"/>
+  <nd ref="12441924372"/>
+  <nd ref="12441924373"/>
+  <nd ref="12441924374"/>
+  <nd ref="12441924375"/>
+  <nd ref="12441924376"/>
+  <nd ref="12441924377"/>
+  <nd ref="12441924378"/>
+  <nd ref="12441924737"/>
+  <nd ref="12441924379"/>
+  <nd ref="12441924380"/>
+  <nd ref="12441924381"/>
+  <nd ref="12441924382"/>
+  <nd ref="12441924383"/>
+  <nd ref="12441924384"/>
+  <nd ref="12441924385"/>
+  <nd ref="12441924386"/>
+  <nd ref="12441924387"/>
+  <nd ref="12441924388"/>
+  <nd ref="12441924389"/>
+  <nd ref="12441924390"/>
+  <nd ref="12441924391"/>
+  <nd ref="12441924392"/>
+  <nd ref="12441924393"/>
+  <nd ref="12441924394"/>
+  <nd ref="12441924395"/>
+  <nd ref="12441924396"/>
+  <nd ref="12441924397"/>
+  <nd ref="12441924398"/>
+  <nd ref="12441924399"/>
+  <nd ref="12441924400"/>
+  <nd ref="12441924401"/>
+  <nd ref="12441924402"/>
+  <nd ref="12441924403"/>
+  <nd ref="12441924404"/>
+  <nd ref="12441924405"/>
+  <nd ref="12441924406"/>
+  <nd ref="12441924407"/>
+  <nd ref="12441924408"/>
+  <nd ref="12441924409"/>
+  <nd ref="12441924410"/>
+  <nd ref="12441924411"/>
+  <nd ref="12441924412"/>
+  <nd ref="12441924413"/>
+  <nd ref="12441924414"/>
+  <nd ref="12441924415"/>
+  <nd ref="12441924416"/>
+  <nd ref="12441924417"/>
+  <nd ref="12441924418"/>
+  <nd ref="12441924419"/>
+  <nd ref="12441924420"/>
+  <nd ref="12441924421"/>
+  <nd ref="12441924422"/>
+  <nd ref="12441924423"/>
+  <nd ref="12441924424"/>
+  <nd ref="12441924425"/>
+  <nd ref="12441924426"/>
+  <nd ref="12441924427"/>
+  <nd ref="12441924428"/>
+  <nd ref="12441924429"/>
+  <nd ref="12441924430"/>
+  <nd ref="12441924431"/>
+  <nd ref="12441924432"/>
+  <nd ref="12441924433"/>
+  <nd ref="12441924434"/>
+  <nd ref="12441924435"/>
+  <nd ref="12441924436"/>
+  <nd ref="12441924437"/>
+  <nd ref="12441924438"/>
+  <nd ref="12441924439"/>
+  <nd ref="12441924440"/>
+  <nd ref="12441924441"/>
+  <nd ref="12441924442"/>
+  <nd ref="12441924443"/>
+  <nd ref="12441924444"/>
+  <nd ref="12441924445"/>
+  <nd ref="12441924446"/>
+  <nd ref="12441924447"/>
+  <nd ref="12441924448"/>
+  <nd ref="12441924449"/>
+  <nd ref="12441924450"/>
+  <nd ref="12441924451"/>
+  <nd ref="12441924452"/>
+  <nd ref="12441924453"/>
+  <nd ref="12441924454"/>
+  <nd ref="12441924782"/>
+  <nd ref="12441924455"/>
+  <nd ref="12441924456"/>
+  <nd ref="12441924457"/>
+  <nd ref="12441924458"/>
+  <nd ref="12441924459"/>
+  <nd ref="12441924460"/>
+  <nd ref="12441924461"/>
+  <nd ref="12441924462"/>
+  <nd ref="12441924463"/>
+  <nd ref="12441924464"/>
+  <nd ref="12441924465"/>
+  <nd ref="12441924466"/>
+  <nd ref="12441924467"/>
+  <nd ref="12441924468"/>
+  <nd ref="12441924469"/>
+  <nd ref="12441924470"/>
+  <nd ref="12441924471"/>
+  <nd ref="12441924472"/>
+  <nd ref="12441924473"/>
+  <nd ref="12441924474"/>
+  <nd ref="12441924475"/>
+  <nd ref="12441924476"/>
+  <nd ref="12441924477"/>
+  <nd ref="12441924478"/>
+  <nd ref="12441924479"/>
+  <nd ref="12441924480"/>
+  <nd ref="12441924481"/>
+  <nd ref="12441924482"/>
+  <nd ref="12441924483"/>
+  <nd ref="12441924484"/>
+  <nd ref="12441924485"/>
+  <nd ref="12441924486"/>
+  <nd ref="12441924487"/>
+  <nd ref="12441924488"/>
+  <nd ref="12441924489"/>
+  <nd ref="12441924490"/>
+  <nd ref="12441924491"/>
+  <nd ref="12441924492"/>
+  <nd ref="12441924493"/>
+  <nd ref="12441924494"/>
+  <nd ref="12441924495"/>
+  <nd ref="12441924496"/>
+  <nd ref="12441924497"/>
+  <nd ref="12441924498"/>
+  <nd ref="12441924499"/>
+  <nd ref="12441924500"/>
+  <nd ref="12441924501"/>
+  <nd ref="12441924502"/>
+  <nd ref="12441924503"/>
+  <nd ref="12441924504"/>
+  <nd ref="12441924505"/>
+  <nd ref="12441924506"/>
+  <nd ref="12441924507"/>
+  <nd ref="12441924508"/>
+  <nd ref="12441924509"/>
+  <nd ref="12441924510"/>
+  <nd ref="12441924511"/>
+  <nd ref="12441924512"/>
+  <nd ref="12441924513"/>
+  <nd ref="12441924514"/>
+  <nd ref="12441924515"/>
+  <nd ref="12441924516"/>
+  <nd ref="12441924517"/>
+  <nd ref="12441924518"/>
+  <nd ref="12441924519"/>
+  <nd ref="12441924520"/>
+  <nd ref="12441924521"/>
+  <nd ref="12441924522"/>
+  <nd ref="12441924523"/>
+  <nd ref="12441924524"/>
+  <nd ref="12441924525"/>
+  <nd ref="12441924526"/>
+  <nd ref="12441924527"/>
+  <nd ref="12441924528"/>
+  <nd ref="12441924529"/>
+  <nd ref="12441924530"/>
+  <nd ref="12441924531"/>
+  <nd ref="12441924532"/>
+  <nd ref="12441924533"/>
+  <nd ref="12441924534"/>
+  <nd ref="12441924535"/>
+  <nd ref="12441924536"/>
+  <nd ref="12441924814"/>
+  <nd ref="12441924537"/>
+  <nd ref="12441924538"/>
+  <nd ref="12441924712"/>
+  <nd ref="12441924539"/>
+  <nd ref="12441924540"/>
+  <nd ref="12441924541"/>
+  <nd ref="12441924542"/>
+  <nd ref="12441924543"/>
+  <nd ref="12441924544"/>
+  <nd ref="12441924545"/>
+  <nd ref="12441924546"/>
+  <nd ref="12441924547"/>
+  <nd ref="12441924548"/>
+  <nd ref="12441924549"/>
+  <nd ref="12441924550"/>
+  <nd ref="12441924551"/>
+  <nd ref="12441924552"/>
+  <nd ref="12441924553"/>
+  <nd ref="12441924554"/>
+  <nd ref="12441924555"/>
+  <nd ref="12441924556"/>
+  <nd ref="12441924557"/>
+  <nd ref="12441924558"/>
+  <nd ref="12441924559"/>
+  <nd ref="12441924560"/>
+  <nd ref="12441924561"/>
+  <nd ref="12441924562"/>
+  <nd ref="12441924563"/>
+  <nd ref="12441924564"/>
+  <nd ref="12441924565"/>
+  <nd ref="12441924566"/>
+  <nd ref="12441924567"/>
+  <nd ref="12441924568"/>
+  <nd ref="12441924569"/>
+  <nd ref="12441924570"/>
+  <nd ref="12441924571"/>
+  <nd ref="12441924572"/>
+  <nd ref="12441924573"/>
+  <nd ref="12441924574"/>
+  <nd ref="12441924575"/>
+  <nd ref="12441924576"/>
+  <nd ref="12441924577"/>
+  <nd ref="12441924578"/>
+  <nd ref="12441924579"/>
+  <nd ref="12441924580"/>
+  <nd ref="12441924581"/>
+  <nd ref="12441924582"/>
+  <nd ref="12441924583"/>
+  <nd ref="12441924584"/>
+  <nd ref="12441924585"/>
+  <nd ref="12441924586"/>
+  <nd ref="12441924587"/>
+  <nd ref="12441924588"/>
+  <nd ref="12441924589"/>
+  <nd ref="12441924590"/>
+  <nd ref="12441924591"/>
+  <nd ref="12441924592"/>
+  <nd ref="12441924593"/>
+  <nd ref="12441924594"/>
+  <nd ref="12441924595"/>
+  <nd ref="12441924596"/>
+  <nd ref="12441924597"/>
+  <nd ref="12441924598"/>
+  <nd ref="12441924599"/>
+  <nd ref="12441924600"/>
+  <nd ref="12441924601"/>
+  <nd ref="12441924602"/>
+  <nd ref="12441924603"/>
+  <nd ref="12441924604"/>
+  <nd ref="12441924605"/>
+  <nd ref="12441924606"/>
+  <nd ref="12441924607"/>
+  <nd ref="12441924608"/>
+  <nd ref="12441924609"/>
+  <nd ref="12441924610"/>
+  <nd ref="12441924611"/>
+  <nd ref="12441924612"/>
+  <nd ref="12441924613"/>
+  <nd ref="12441924614"/>
+  <nd ref="12441924615"/>
+  <nd ref="12441924616"/>
+  <nd ref="12441924617"/>
+  <nd ref="12441924618"/>
+  <nd ref="12441924619"/>
+  <nd ref="12441924620"/>
+  <nd ref="12441924621"/>
+  <nd ref="12441924622"/>
+  <nd ref="12441924623"/>
+  <nd ref="12441924624"/>
+  <nd ref="12441924625"/>
+  <nd ref="12441924626"/>
+  <nd ref="12441924627"/>
+  <nd ref="12441924628"/>
+  <nd ref="12441924629"/>
+  <nd ref="12441924630"/>
+  <nd ref="12441924631"/>
+  <nd ref="12441924632"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="source" v="local knowledge;aerial imagery"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="1344834008" visible="true" version="2" changeset="171020920" timestamp="2025-08-26T10:21:59Z" user="mustafakamil" uid="2055835">
+  <nd ref="12441924633"/>
+  <nd ref="12441924634"/>
+  <nd ref="12441924635"/>
+  <nd ref="12441924636"/>
+  <nd ref="12441924637"/>
+  <nd ref="12441924638"/>
+  <nd ref="12441924639"/>
+  <nd ref="12441924640"/>
+  <nd ref="12441924641"/>
+  <nd ref="12441924642"/>
+  <nd ref="12441924643"/>
+  <nd ref="12441924633"/>
+  <tag k="industrial" v="mine"/>
+  <tag k="landuse" v="industrial"/>
+  <tag k="resource" v="gold"/>
+ </way>
+ <way id="1344834009" visible="true" version="1" changeset="160509589" timestamp="2024-12-22T17:16:14Z" user="OSM Sudan" uid="21999984">
+  <nd ref="12441924626"/>
+  <nd ref="12441924644"/>
+  <nd ref="12441924645"/>
+  <nd ref="12441924646"/>
+  <nd ref="12441924647"/>
+  <nd ref="12441924648"/>
+  <nd ref="12441924649"/>
+  <nd ref="12441924650"/>
+  <nd ref="12441924651"/>
+  <nd ref="12441924652"/>
+  <nd ref="12441924653"/>
+  <nd ref="12441924654"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+</osm>
