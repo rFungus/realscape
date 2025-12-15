@@ -1,0 +1,72 @@
+# training/config.yaml
+# RealScape Training Configuration
+
+training:
+  # Параметры обучения
+  batch_size: 4                    # размер батча
+  learning_rate: 1e-4              # скорость обучения
+  num_epochs: 10                  # количество эпох
+  num_timesteps: 1000              # шаги диффузии
+  mixed_precision: true            # смешанная точность
+  
+  # Сохранение
+  checkpoint_dir: "models/checkpoints"
+  save_interval: 10                # сохранять каждые N эпох
+  log_interval: 10                 # логировать каждые N батчей
+  
+  # Оптимизатор
+  optimizer:
+    name: "adamw"                  # тип оптимизатора
+    betas: [0.95, 0.999]           # коэффициенты
+    eps: 1e-8                      # eps для стабильности
+    weight_decay: 0.01             # регуляризация
+  
+  # Шедулер
+  scheduler:
+    type: "cosine"                 # косинус-анилинг
+    warmup_steps: 1000             # разогрев
+    num_cycles: 1
+
+model:
+  # Архитектура UNet
+  in_channels: 1                   # входные каналы (heightmap)
+  out_channels: 1                  # выходные каналы
+  channels: [64, 128, 256, 512]    # каналы по слоям
+  num_attention_heads: 8           # головы внимания
+  num_res_blocks: 2                # резидуальные блоки
+  attention_resolutions: [64, 32, 16]  # где применять внимание
+
+data:
+  # Пути к данным
+  train_path: "data/datasets/train"
+  val_path: "data/datasets/val"
+  
+  # Параметры данных
+  image_size: 512                  # размер изображения
+  normalize: true                  # нормализация
+  augment: true                    # аугментация
+  
+  # DataLoader
+  num_workers: 4                   # рабочие потоки
+  pin_memory: true                 # закрепить память
+  prefetch_factor: 2               # заранее загружать батчи
+
+device:
+  # Параметры устройства
+  backend: "cuda"                  # cuda или cpu
+  mixed_precision: true            # fp16 для меньшей памяти
+  distributed: false               # мультиGPU обучение
+  seed: 42                         # random seed
+
+logging:
+  # Логирование
+  use_tensorboard: true            # TensorBoard
+  use_wandb: false                 # Weights & Biases
+  log_dir: "runs"
+  save_model_summary: true
+
+eval:
+  # Валидация
+  eval_interval: 1                 # эпохи между валидацией
+  eval_steps: 10                   # шагов на валидацию
+  compute_fid: false               # считать FID score
